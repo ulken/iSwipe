@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'iSwipe' target in the 'iSwipe' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
