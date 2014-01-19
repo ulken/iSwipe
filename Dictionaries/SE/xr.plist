@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Count</key>
+		<integer>0</integer>
+		<key>Match</key>
+		<string>x-server</string>
+		<key>Word</key>
+		<string>X-server</string>
+	</dict>
+	<dict>
+		<key>Count</key>
+		<integer>0</integer>
+		<key>Match</key>
+		<string>x-servrar</string>
+		<key>Word</key>
+		<string>X-servrar</string>
+	</dict>
+	<dict>
+		<key>Count</key>
+		<integer>0</integer>
+		<key>Match</key>
+		<string>xavier</string>
+		<key>Word</key>
+		<string>Xavier</string>
+	</dict>
+	<dict>
+		<key>Count</key>
+		<integer>0</integer>
+		<key>Match</key>
+		<string>xylofoner</string>
+		<key>Word</key>
+		<string>xylofoner</string>
+	</dict>
+	<dict>
+		<key>Count</key>
+		<integer>0</integer>
+		<key>Match</key>
+		<string>xylografer</string>
+		<key>Word</key>
+		<string>xylografer</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Count</key>
+		<integer>0</integer>
+		<key>Match</key>
+		<string>mainz</string>
+		<key>Word</key>
+		<string>Mainz</string>
+	</dict>
+	<dict>
+		<key>Count</key>
+		<integer>0</integer>
+		<key>Match</key>
+		<string>mauritz</string>
+		<key>Word</key>
+		<string>Mauritz</string>
+	</dict>
+	<dict>
+		<key>Count</key>
+		<integer>0</integer>
+		<key>Match</key>
+		<string>megahertz</string>
+		<key>Word</key>
+		<string>megahertz</string>
+	</dict>
+	<dict>
+		<key>Count</key>
+		<integer>0</integer>
+		<key>Match</key>
+		<string>mendez</string>
+		<key>Word</key>
+		<string>Mendez</string>
+	</dict>
+	<dict>
+		<key>Count</key>
+		<integer>0</integer>
+		<key>Match</key>
+		<string>metz</string>
+		<key>Word</key>
+		<string>Metz</string>
+	</dict>
+	<dict>
+		<key>Count</key>
+		<integer>0</integer>
+		<key>Match</key>
+		<string>mhz</string>
+		<key>Word</key>
+		<string>MHz</string>
+	</dict>
+	<dict>
+		<key>Count</key>
+		<integer>0</integer>
+		<key>Match</key>
+		<string>moritz</string>
+		<key>Word</key>
+		<string>Moritz</string>
+	</dict>
+</array>
+</plist>

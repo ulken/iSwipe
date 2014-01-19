@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Count</key>
+		<integer>0</integer>
+		<key>Match</key>
+		<string>sassnitz</string>
+		<key>Word</key>
+		<string>Sassnitz</string>
+	</dict>
+	<dict>
+		<key>Count</key>
+		<integer>0</integer>
+		<key>Match</key>
+		<string>schultz</string>
+		<key>Word</key>
+		<string>Schultz</string>
+	</dict>
+	<dict>
+		<key>Count</key>
+		<integer>0</integer>
+		<key>Match</key>
+		<string>schweiz</string>
+		<key>Word</key>
+		<string>Schweiz</string>
+	</dict>
+	<dict>
+		<key>Count</key>
+		<integer>0</integer>
+		<key>Match</key>
+		<string>stiglitz</string>
+		<key>Word</key>
+		<string>Stiglitz</string>
+	</dict>
+	<dict>
+		<key>Count</key>
+		<integer>0</integer>
+		<key>Match</key>
+		<string>storbandsjazz</string>
+		<key>Word</key>
+		<string>storbandsjazz</string>
+	</dict>
+	<dict>
+		<key>Count</key>
+		<integer>0</integer>
+		<key>Match</key>
+		<string>suez</string>
+		<key>Word</key>
+		<string>Suez</string>
+	</dict>
+</array>
+</plist>

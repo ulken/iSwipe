@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Count</key>
+		<integer>0</integer>
+		<key>Match</key>
+		<string>zetterberg</string>
+		<key>Word</key>
+		<string>Zetterberg</string>
+	</dict>
+	<dict>
+		<key>Count</key>
+		<integer>0</integer>
+		<key>Match</key>
+		<string>zetterling</string>
+		<key>Word</key>
+		<string>Zetterling</string>
+	</dict>
+	<dict>
+		<key>Count</key>
+		<integer>0</integer>
+		<key>Match</key>
+		<string>zhejiang</string>
+		<key>Word</key>
+		<string>Zhejiang</string>
+	</dict>
+	<dict>
+		<key>Count</key>
+		<integer>0</integer>
+		<key>Match</key>
+		<string>zheng</string>
+		<key>Word</key>
+		<string>Zheng</string>
+	</dict>
+	<dict>
+		<key>Count</key>
+		<integer>0</integer>
+		<key>Match</key>
+		<string>zilog</string>
+		<key>Word</key>
+		<string>Zilog</string>
+	</dict>
+	<dict>
+		<key>Count</key>
+		<integer>0</integer>
+		<key>Match</key>
+		<string>zoolog</string>
+		<key>Word</key>
+		<string>zoolog</string>
+	</dict>
+	<dict>
+		<key>Count</key>
+		<integer>0</integer>
+		<key>Match</key>
+		<string>zweig</string>
+		<key>Word</key>
+		<string>Zweig</string>
+	</dict>
+</array>
+</plist>

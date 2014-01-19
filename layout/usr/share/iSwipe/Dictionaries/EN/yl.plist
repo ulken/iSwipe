@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Count</key>
+		<integer>0</integer>
+		<key>Match</key>
+		<string>yggdrasil</string>
+		<key>Word</key>
+		<string>Yggdrasil</string>
+	</dict>
+	<dict>
+		<key>Count</key>
+		<integer>0</integer>
+		<key>Match</key>
+		<string>yngel</string>
+		<key>Word</key>
+		<string>yngel</string>
+	</dict>
+	<dict>
+		<key>Count</key>
+		<integer>0</integer>
+		<key>Match</key>
+		<string>yrkesroll</string>
+		<key>Word</key>
+		<string>yrkesroll</string>
+	</dict>
+	<dict>
+		<key>Count</key>
+		<integer>0</integer>
+		<key>Match</key>
+		<string>yrsel</string>
+		<key>Word</key>
+		<string>yrsel</string>
+	</dict>
+	<dict>
+		<key>Count</key>
+		<integer>0</integer>
+		<key>Match</key>
+		<string>ytterblomfjäll</string>
+		<key>Word</key>
+		<string>ytterblomfjäll</string>
+	</dict>
+</array>
+</plist>

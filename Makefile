@@ -11,3 +11,6 @@ iSwipe_FRAMEWORKS = Foundation UIKit CoreGraphics
 
 include $(THEOS)/makefiles/tweak.mk
 
+clean::
+	rm -f *.deb
+

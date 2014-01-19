@@ -3,3 +3,6 @@
 *.war
 *.ear
 .DS_Store
+.theos
+_
+obj

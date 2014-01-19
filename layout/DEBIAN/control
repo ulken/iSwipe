@@ -1,0 +1,16 @@
+Package: com.ulknest.ulken.iswipe
+Name: iSwipe
+Version: 0.1-1
+Description: 
+Section: System
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: 
+Replaces: 
+Priority: standard
+Architecture: iphoneos-arm
+Author: Oskar Löfgren
+dev: 
+Homepage: 
+Depiction: 
+Maintainer: 
+Icon: 
