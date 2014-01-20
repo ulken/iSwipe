@@ -126,7 +126,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vänerlandskap</string>
+		<string>vanerlandskap</string>
 		<key>Word</key>
 		<string>Vänerlandskap</string>
 	</dict>
@@ -134,7 +134,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vänskap</string>
+		<string>vanskap</string>
 		<key>Word</key>
 		<string>vänskap</string>
 	</dict>
@@ -142,7 +142,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>värdegemenskap</string>
+		<string>vardegemenskap</string>
 		<key>Word</key>
 		<string>värdegemenskap</string>
 	</dict>
@@ -150,7 +150,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>världsmästerskap</string>
+		<string>varldsmasterskap</string>
 		<key>Word</key>
 		<string>världsmästerskap</string>
 	</dict>
@@ -158,7 +158,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>världstopp</string>
+		<string>varldstopp</string>
 		<key>Word</key>
 		<string>världstopp</string>
 	</dict>
@@ -166,7 +166,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>värmepump</string>
+		<string>varmepump</string>
 		<key>Word</key>
 		<string>värmepump</string>
 	</dict>
@@ -174,7 +174,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>värstingskepp</string>
+		<string>varstingskepp</string>
 		<key>Word</key>
 		<string>värstingskepp</string>
 	</dict>
@@ -182,7 +182,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>västertorp</string>
+		<string>vastertorp</string>
 		<key>Word</key>
 		<string>Västertorp</string>
 	</dict>
@@ -190,7 +190,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vårdvetenskap</string>
+		<string>vardvetenskap</string>
 		<key>Word</key>
 		<string>vårdvetenskap</string>
 	</dict>

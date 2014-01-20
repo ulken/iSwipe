@@ -70,7 +70,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ihågkom</string>
+		<string>ihagkom</string>
 		<key>Word</key>
 		<string>ihågkom</string>
 	</dict>
@@ -78,7 +78,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ikläm</string>
+		<string>iklam</string>
 		<key>Word</key>
 		<string>ikläm</string>
 	</dict>
@@ -206,7 +206,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>inställsam</string>
+		<string>installsam</string>
 		<key>Word</key>
 		<string>inställsam</string>
 	</dict>
@@ -214,7 +214,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>instäm</string>
+		<string>instam</string>
 		<key>Word</key>
 		<string>instäm</string>
 	</dict>

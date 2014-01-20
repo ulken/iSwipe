@@ -6,7 +6,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>wadström</string>
+		<string>wadstrom</string>
 		<key>Word</key>
 		<string>Wadström</string>
 	</dict>
@@ -14,7 +14,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>wahlström</string>
+		<string>wahlstrom</string>
 		<key>Word</key>
 		<string>Wahlström</string>
 	</dict>
@@ -30,7 +30,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>wallström</string>
+		<string>wallstrom</string>
 		<key>Word</key>
 		<string>Wallström</string>
 	</dict>
@@ -38,7 +38,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>walström</string>
+		<string>walstrom</string>
 		<key>Word</key>
 		<string>Walström</string>
 	</dict>
@@ -70,7 +70,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>wikström</string>
+		<string>wikstrom</string>
 		<key>Word</key>
 		<string>Wikström</string>
 	</dict>

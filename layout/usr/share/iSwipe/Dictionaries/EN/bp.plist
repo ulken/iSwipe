@@ -14,7 +14,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>badrumsskåp</string>
+		<string>badrumsskap</string>
 		<key>Word</key>
 		<string>badrumsskåp</string>
 	</dict>
@@ -30,7 +30,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bakåtknapp</string>
+		<string>bakatknapp</string>
 		<key>Word</key>
 		<string>bakåtknapp</string>
 	</dict>
@@ -118,7 +118,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>belöp</string>
+		<string>belop</string>
 		<key>Word</key>
 		<string>belöp</string>
 	</dict>
@@ -174,7 +174,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>björngrop</string>
+		<string>bjorngrop</string>
 		<key>Word</key>
 		<string>björngrop</string>
 	</dict>
@@ -262,7 +262,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>brandskåp</string>
+		<string>brandskap</string>
 		<key>Word</key>
 		<string>brandskåp</string>
 	</dict>
@@ -286,7 +286,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bröllop</string>
+		<string>brollop</string>
 		<key>Word</key>
 		<string>bröllop</string>
 	</dict>
@@ -310,7 +310,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bönerop</string>
+		<string>bonerop</string>
 		<key>Word</key>
 		<string>bönerop</string>
 	</dict>

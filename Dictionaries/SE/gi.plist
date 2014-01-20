@@ -206,7 +206,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>gästfri</string>
+		<string>gastfri</string>
 		<key>Word</key>
 		<string>gästfri</string>
 	</dict>
@@ -214,7 +214,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>gästgiveri</string>
+		<string>gastgiveri</string>
 		<key>Word</key>
 		<string>gästgiveri</string>
 	</dict>

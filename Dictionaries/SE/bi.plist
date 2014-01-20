@@ -110,7 +110,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bedrägeri</string>
+		<string>bedrageri</string>
 		<key>Word</key>
 		<string>bedrägeri</string>
 	</dict>
@@ -262,7 +262,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bondfångeri</string>
+		<string>bondfangeri</string>
 		<key>Word</key>
 		<string>bondfångeri</string>
 	</dict>
@@ -334,7 +334,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>byråkrati</string>
+		<string>byrakrati</string>
 		<key>Word</key>
 		<string>byråkrati</string>
 	</dict>

@@ -6,7 +6,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>oberallgäu</string>
+		<string>oberallgau</string>
 		<key>Word</key>
 		<string>Oberallgäu</string>
 	</dict>
@@ -28,7 +28,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>Örneclou</string>
+		<string>Orneclou</string>
 		<key>Word</key>
 		<string>Örneclou</string>
 	</dict>

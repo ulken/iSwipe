@@ -62,7 +62,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>folkrörelsearkiv</string>
+		<string>folkrorelsearkiv</string>
 		<key>Word</key>
 		<string>folkrörelsearkiv</string>
 	</dict>
@@ -102,7 +102,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>framhäv</string>
+		<string>framhav</string>
 		<key>Word</key>
 		<string>framhäv</string>
 	</dict>
@@ -150,7 +150,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>fuluälv</string>
+		<string>fulualv</string>
 		<key>Word</key>
 		<string>Fuluälv</string>
 	</dict>
@@ -158,7 +158,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>fädernearv</string>
+		<string>fadernearv</string>
 		<key>Word</key>
 		<string>fädernearv</string>
 	</dict>
@@ -166,7 +166,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>fällkniv</string>
+		<string>fallkniv</string>
 		<key>Word</key>
 		<string>fällkniv</string>
 	</dict>
@@ -174,7 +174,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>fågelperspektiv</string>
+		<string>fagelperspektiv</string>
 		<key>Word</key>
 		<string>fågelperspektiv</string>
 	</dict>
@@ -182,7 +182,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>förblev</string>
+		<string>forblev</string>
 		<key>Word</key>
 		<string>förblev</string>
 	</dict>
@@ -190,7 +190,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>förbliv</string>
+		<string>forbliv</string>
 		<key>Word</key>
 		<string>förbliv</string>
 	</dict>
@@ -198,7 +198,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>fördrev</string>
+		<string>fordrev</string>
 		<key>Word</key>
 		<string>fördrev</string>
 	</dict>
@@ -206,7 +206,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>fördriv</string>
+		<string>fordriv</string>
 		<key>Word</key>
 		<string>fördriv</string>
 	</dict>
@@ -214,7 +214,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>fördärv</string>
+		<string>fordarv</string>
 		<key>Word</key>
 		<string>fördärv</string>
 	</dict>
@@ -222,7 +222,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>föregav</string>
+		<string>foregav</string>
 		<key>Word</key>
 		<string>föregav</string>
 	</dict>
@@ -230,7 +230,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>föregiv</string>
+		<string>foregiv</string>
 		<key>Word</key>
 		<string>föregiv</string>
 	</dict>
@@ -238,7 +238,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>föreningsarkiv</string>
+		<string>foreningsarkiv</string>
 		<key>Word</key>
 		<string>föreningsarkiv</string>
 	</dict>
@@ -246,7 +246,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>föreskrev</string>
+		<string>foreskrev</string>
 		<key>Word</key>
 		<string>föreskrev</string>
 	</dict>
@@ -254,7 +254,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>föreskriv</string>
+		<string>foreskriv</string>
 		<key>Word</key>
 		<string>föreskriv</string>
 	</dict>
@@ -262,7 +262,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>förhäv</string>
+		<string>forhav</string>
 		<key>Word</key>
 		<string>förhäv</string>
 	</dict>
@@ -270,7 +270,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>förkväv</string>
+		<string>forkvav</string>
 		<key>Word</key>
 		<string>förkväv</string>
 	</dict>
@@ -278,7 +278,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>förlov</string>
+		<string>forlov</string>
 		<key>Word</key>
 		<string>förlov</string>
 	</dict>
@@ -286,7 +286,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>försov</string>
+		<string>forsov</string>
 		<key>Word</key>
 		<string>försov</string>
 	</dict>
@@ -294,7 +294,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>förvärv</string>
+		<string>forvarv</string>
 		<key>Word</key>
 		<string>förvärv</string>
 	</dict>

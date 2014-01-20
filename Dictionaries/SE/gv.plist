@@ -94,7 +94,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>grimslöv</string>
+		<string>grimslov</string>
 		<key>Word</key>
 		<string>Grimslöv</string>
 	</dict>
@@ -110,7 +110,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>gräv</string>
+		<string>grav</string>
 		<key>Word</key>
 		<string>gräv</string>
 	</dict>
@@ -118,7 +118,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>gråsparv</string>
+		<string>grasparv</string>
 		<key>Word</key>
 		<string>gråsparv</string>
 	</dict>
@@ -174,7 +174,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>gåvobrev</string>
+		<string>gavobrev</string>
 		<key>Word</key>
 		<string>gåvobrev</string>
 	</dict>

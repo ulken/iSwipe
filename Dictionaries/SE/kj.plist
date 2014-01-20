@@ -46,7 +46,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>knäböj</string>
+		<string>knaboj</string>
 		<key>Word</key>
 		<string>knäböj</string>
 	</dict>
@@ -94,7 +94,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kvardröj</string>
+		<string>kvardroj</string>
 		<key>Word</key>
 		<string>kvardröj</string>
 	</dict>
@@ -102,7 +102,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kvälj</string>
+		<string>kvalj</string>
 		<key>Word</key>
 		<string>kvälj</string>
 	</dict>
@@ -110,7 +110,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kärnfamilj</string>
+		<string>karnfamilj</string>
 		<key>Word</key>
 		<string>kärnfamilj</string>
 	</dict>

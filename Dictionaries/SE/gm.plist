@@ -78,7 +78,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>glöm</string>
+		<string>glom</string>
 		<key>Word</key>
 		<string>glöm</string>
 	</dict>
@@ -158,7 +158,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>grubbström</string>
+		<string>grubbstrom</string>
 		<key>Word</key>
 		<string>Grubbström</string>
 	</dict>
@@ -182,7 +182,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>gräm</string>
+		<string>gram</string>
 		<key>Word</key>
 		<string>gräm</string>
 	</dict>
@@ -190,7 +190,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>gränsvärdesteorem</string>
+		<string>gransvardesteorem</string>
 		<key>Word</key>
 		<string>gränsvärdesteorem</string>
 	</dict>
@@ -278,7 +278,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>göm</string>
+		<string>gom</string>
 		<key>Word</key>
 		<string>göm</string>
 	</dict>

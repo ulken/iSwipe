@@ -110,7 +110,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jämställ</string>
+		<string>jamstall</string>
 		<key>Word</key>
 		<string>jämställ</string>
 	</dict>
@@ -118,7 +118,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jämväl</string>
+		<string>jamval</string>
 		<key>Word</key>
 		<string>jämväl</string>
 	</dict>
@@ -126,7 +126,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jättekul</string>
+		<string>jattekul</string>
 		<key>Word</key>
 		<string>jättekul</string>
 	</dict>
@@ -134,7 +134,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jävel</string>
+		<string>javel</string>
 		<key>Word</key>
 		<string>jävel</string>
 	</dict>
@@ -142,7 +142,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jökel</string>
+		<string>jokel</string>
 		<key>Word</key>
 		<string>jökel</string>
 	</dict>

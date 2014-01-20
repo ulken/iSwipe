@@ -206,7 +206,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>alajärvi</string>
+		<string>alajarvi</string>
 		<key>Word</key>
 		<string>Alajärvi</string>
 	</dict>
@@ -678,7 +678,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>åkeri</string>
+		<string>akeri</string>
 		<key>Word</key>
 		<string>åkeri</string>
 	</dict>
@@ -686,7 +686,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>åtti</string>
+		<string>atti</string>
 		<key>Word</key>
 		<string>åtti</string>
 	</dict>
@@ -700,7 +700,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>Äänekoski</string>
+		<string>Aanekoski</string>
 		<key>Word</key>
 		<string>Äänekoski</string>
 	</dict>

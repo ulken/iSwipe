@@ -14,7 +14,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>quarnström</string>
+		<string>quarnstrom</string>
 		<key>Word</key>
 		<string>Quarnström</string>
 	</dict>
@@ -22,7 +22,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>qvarnström</string>
+		<string>qvarnstrom</string>
 		<key>Word</key>
 		<string>Qvarnström</string>
 	</dict>

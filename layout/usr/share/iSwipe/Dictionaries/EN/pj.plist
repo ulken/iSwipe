@@ -30,7 +30,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>plöj</string>
+		<string>ploj</string>
 		<key>Word</key>
 		<string>plöj</string>
 	</dict>
@@ -38,7 +38,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>portfölj</string>
+		<string>portfolj</string>
 		<key>Word</key>
 		<string>portfölj</string>
 	</dict>
@@ -46,7 +46,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>primärvalskampanj</string>
+		<string>primarvalskampanj</string>
 		<key>Word</key>
 		<string>primärvalskampanj</string>
 	</dict>
@@ -54,7 +54,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>påfölj</string>
+		<string>pafolj</string>
 		<key>Word</key>
 		<string>påfölj</string>
 	</dict>

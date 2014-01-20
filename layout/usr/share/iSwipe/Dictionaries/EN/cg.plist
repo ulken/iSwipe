@@ -38,7 +38,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>centraluppvärmning</string>
+		<string>centraluppvarmning</string>
 		<key>Word</key>
 		<string>centraluppvärmning</string>
 	</dict>
@@ -134,7 +134,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>cirkelsåg</string>
+		<string>cirkelsag</string>
 		<key>Word</key>
 		<string>cirkelsåg</string>
 	</dict>
@@ -150,7 +150,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>civilrättslig</string>
+		<string>civilrattslig</string>
 		<key>Word</key>
 		<string>civilrättslig</string>
 	</dict>
@@ -190,7 +190,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>cyanväterökning</string>
+		<string>cyanvaterokning</string>
 		<key>Word</key>
 		<string>cyanväterökning</string>
 	</dict>
@@ -198,7 +198,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>cykelväg</string>
+		<string>cykelvag</string>
 		<key>Word</key>
 		<string>cykelväg</string>
 	</dict>

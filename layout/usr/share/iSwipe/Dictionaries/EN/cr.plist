@@ -30,7 +30,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>caféer</string>
+		<string>cafeer</string>
 		<key>Word</key>
 		<string>caféer</string>
 	</dict>
@@ -206,7 +206,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>cellkärnor</string>
+		<string>cellkarnor</string>
 		<key>Word</key>
 		<string>cellkärnor</string>
 	</dict>
@@ -214,7 +214,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>cellulär</string>
+		<string>cellular</string>
 		<key>Word</key>
 		<string>cellulär</string>
 	</dict>
@@ -254,7 +254,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>cementrör</string>
+		<string>cementror</string>
 		<key>Word</key>
 		<string>cementrör</string>
 	</dict>
@@ -470,7 +470,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>certifikattjänster</string>
+		<string>certifikattjanster</string>
 		<key>Word</key>
 		<string>certifikattjänster</string>
 	</dict>
@@ -654,7 +654,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>chaufför</string>
+		<string>chauffor</string>
 		<key>Word</key>
 		<string>chaufför</string>
 	</dict>
@@ -662,7 +662,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>chaufförer</string>
+		<string>chaufforer</string>
 		<key>Word</key>
 		<string>chaufförer</string>
 	</dict>
@@ -702,7 +702,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>chefredaktör</string>
+		<string>chefredaktor</string>
 		<key>Word</key>
 		<string>chefredaktör</string>
 	</dict>
@@ -710,7 +710,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>chefredaktörer</string>
+		<string>chefredaktorer</string>
 		<key>Word</key>
 		<string>chefredaktörer</string>
 	</dict>
@@ -726,7 +726,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>chiffonjéer</string>
+		<string>chiffonjeer</string>
 		<key>Word</key>
 		<string>chiffonjéer</string>
 	</dict>
@@ -750,7 +750,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>chimär</string>
+		<string>chimar</string>
 		<key>Word</key>
 		<string>chimär</string>
 	</dict>
@@ -758,7 +758,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>chimärer</string>
+		<string>chimarer</string>
 		<key>Word</key>
 		<string>chimärer</string>
 	</dict>
@@ -878,7 +878,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>cirkelsågar</string>
+		<string>cirkelsagar</string>
 		<key>Word</key>
 		<string>cirkelsågar</string>
 	</dict>
@@ -902,7 +902,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>cirkulär</string>
+		<string>cirkular</string>
 		<key>Word</key>
 		<string>cirkulär</string>
 	</dict>
@@ -934,7 +934,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ciselör</string>
+		<string>ciselor</string>
 		<key>Word</key>
 		<string>ciselör</string>
 	</dict>
@@ -942,7 +942,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ciselörer</string>
+		<string>ciselorer</string>
 		<key>Word</key>
 		<string>ciselörer</string>
 	</dict>
@@ -1022,7 +1022,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>civilingenjör</string>
+		<string>civilingenjor</string>
 		<key>Word</key>
 		<string>civilingenjör</string>
 	</dict>
@@ -1030,7 +1030,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>civilingenjörer</string>
+		<string>civilingenjorer</string>
 		<key>Word</key>
 		<string>civilingenjörer</string>
 	</dict>
@@ -1126,7 +1126,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>columbiaingenjör</string>
+		<string>columbiaingenjor</string>
 		<key>Word</key>
 		<string>Columbiaingenjör</string>
 	</dict>
@@ -1134,7 +1134,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>columbiaingenjörer</string>
+		<string>columbiaingenjorer</string>
 		<key>Word</key>
 		<string>Columbiaingenjörer</string>
 	</dict>
@@ -1142,7 +1142,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>comdexmässor</string>
+		<string>comdexmassor</string>
 		<key>Word</key>
 		<string>Comdexmässor</string>
 	</dict>
@@ -1214,7 +1214,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>currysåser</string>
+		<string>currysaser</string>
 		<key>Word</key>
 		<string>currysåser</string>
 	</dict>
@@ -1222,7 +1222,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>cuéllar</string>
+		<string>cuellar</string>
 		<key>Word</key>
 		<string>Cuéllar</string>
 	</dict>
@@ -1254,7 +1254,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>cykelfärder</string>
+		<string>cykelfarder</string>
 		<key>Word</key>
 		<string>cykelfärder</string>
 	</dict>
@@ -1294,7 +1294,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>cykelvägar</string>
+		<string>cykelvagar</string>
 		<key>Word</key>
 		<string>cykelvägar</string>
 	</dict>

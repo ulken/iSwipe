@@ -6,7 +6,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>barndomsdöv</string>
+		<string>barndomsdov</string>
 		<key>Word</key>
 		<string>barndomsdöv</string>
 	</dict>
@@ -78,7 +78,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>behörighetskrav</string>
+		<string>behorighetskrav</string>
 		<key>Word</key>
 		<string>behörighetskrav</string>
 	</dict>
@@ -86,7 +86,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>behöv</string>
+		<string>behov</string>
 		<key>Word</key>
 		<string>behöv</string>
 	</dict>
@@ -214,7 +214,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>brädgolv</string>
+		<string>bradgolv</string>
 		<key>Word</key>
 		<string>brädgolv</string>
 	</dict>
@@ -222,7 +222,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bränslestav</string>
+		<string>branslestav</string>
 		<key>Word</key>
 		<string>bränslestav</string>
 	</dict>
@@ -230,7 +230,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>burlöv</string>
+		<string>burlov</string>
 		<key>Word</key>
 		<string>Burlöv</string>
 	</dict>

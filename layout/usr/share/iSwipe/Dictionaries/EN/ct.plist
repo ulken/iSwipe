@@ -6,7 +6,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>c-nät</string>
+		<string>c-nat</string>
 		<key>Word</key>
 		<string>C-nät</string>
 	</dict>
@@ -14,7 +14,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>c-nätet</string>
+		<string>c-natet</string>
 		<key>Word</key>
 		<string>C-nätet</string>
 	</dict>
@@ -62,7 +62,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>caféet</string>
+		<string>cafeet</string>
 		<key>Word</key>
 		<string>caféet</string>
 	</dict>
@@ -190,7 +190,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>cederträet</string>
+		<string>cedertraet</string>
 		<key>Word</key>
 		<string>cederträet</string>
 	</dict>
@@ -214,7 +214,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>cellulärt</string>
+		<string>cellulart</string>
 		<key>Word</key>
 		<string>cellulärt</string>
 	</dict>
@@ -246,7 +246,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>cementröret</string>
+		<string>cementroret</string>
 		<key>Word</key>
 		<string>cementröret</string>
 	</dict>
@@ -254,7 +254,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>censorsämbetet</string>
+		<string>censorsambetet</string>
 		<key>Word</key>
 		<string>censorsämbetet</string>
 	</dict>
@@ -350,7 +350,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>centrallåset</string>
+		<string>centrallaset</string>
 		<key>Word</key>
 		<string>centrallåset</string>
 	</dict>
@@ -486,7 +486,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>certifikattjänst</string>
+		<string>certifikattjanst</string>
 		<key>Word</key>
 		<string>certifikattjänst</string>
 	</dict>
@@ -494,7 +494,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>certifikatutfärdarcertifikat</string>
+		<string>certifikatutfardarcertifikat</string>
 		<key>Word</key>
 		<string>certifikatutfärdarcertifikat</string>
 	</dict>
@@ -502,7 +502,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>certifikatutfärdarcertifikatet</string>
+		<string>certifikatutfardarcertifikatet</string>
 		<key>Word</key>
 		<string>certifikatutfärdarcertifikatet</string>
 	</dict>
@@ -822,7 +822,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>cirkulärt</string>
+		<string>cirkulart</string>
 		<key>Word</key>
 		<string>cirkulärt</string>
 	</dict>
@@ -926,7 +926,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>civilrättsligt</string>
+		<string>civilrattsligt</string>
 		<key>Word</key>
 		<string>civilrättsligt</string>
 	</dict>
@@ -934,7 +934,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>civilståndet</string>
+		<string>civilstandet</string>
 		<key>Word</key>
 		<string>civilståndet</string>
 	</dict>
@@ -1150,7 +1150,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>cyanvätet</string>
+		<string>cyanvatet</string>
 		<key>Word</key>
 		<string>cyanvätet</string>
 	</dict>
@@ -1198,7 +1198,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>cyklopögat</string>
+		<string>cyklopogat</string>
 		<key>Word</key>
 		<string>cyklopögat</string>
 	</dict>

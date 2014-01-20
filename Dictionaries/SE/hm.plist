@@ -6,7 +6,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hagström</string>
+		<string>hagstrom</string>
 		<key>Word</key>
 		<string>Hagström</string>
 	</dict>
@@ -14,7 +14,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hallingström</string>
+		<string>hallingstrom</string>
 		<key>Word</key>
 		<string>Hallingström</string>
 	</dict>
@@ -22,7 +22,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hallström</string>
+		<string>hallstrom</string>
 		<key>Word</key>
 		<string>Hallström</string>
 	</dict>
@@ -142,7 +142,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hellström</string>
+		<string>hellstrom</string>
 		<key>Word</key>
 		<string>Hellström</string>
 	</dict>
@@ -230,7 +230,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hjälm</string>
+		<string>hjalm</string>
 		<key>Word</key>
 		<string>hjälm</string>
 	</dict>
@@ -238,7 +238,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hjälpsam</string>
+		<string>hjalpsam</string>
 		<key>Word</key>
 		<string>hjälpsam</string>
 	</dict>
@@ -262,7 +262,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hockeyhjälm</string>
+		<string>hockeyhjalm</string>
 		<key>Word</key>
 		<string>hockeyhjälm</string>
 	</dict>
@@ -278,7 +278,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>holmström</string>
+		<string>holmstrom</string>
 		<key>Word</key>
 		<string>Holmström</string>
 	</dict>
@@ -382,7 +382,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hälsosam</string>
+		<string>halsosam</string>
 		<key>Word</key>
 		<string>hälsosam</string>
 	</dict>
@@ -390,7 +390,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>härigenom</string>
+		<string>harigenom</string>
 		<key>Word</key>
 		<string>härigenom</string>
 	</dict>
@@ -398,7 +398,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>härom</string>
+		<string>harom</string>
 		<key>Word</key>
 		<string>härom</string>
 	</dict>
@@ -406,7 +406,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hässleholm</string>
+		<string>hassleholm</string>
 		<key>Word</key>
 		<string>Hässleholm</string>
 	</dict>
@@ -414,7 +414,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hävarm</string>
+		<string>havarm</string>
 		<key>Word</key>
 		<string>hävarm</string>
 	</dict>
@@ -422,7 +422,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>högström</string>
+		<string>hogstrom</string>
 		<key>Word</key>
 		<string>Högström</string>
 	</dict>
@@ -430,7 +430,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hörsam</string>
+		<string>horsam</string>
 		<key>Word</key>
 		<string>hörsam</string>
 	</dict>

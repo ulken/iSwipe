@@ -14,7 +14,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>haglöf</string>
+		<string>haglof</string>
 		<key>Word</key>
 		<string>Haglöf</string>
 	</dict>
@@ -38,7 +38,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hägglöf</string>
+		<string>hagglof</string>
 		<key>Word</key>
 		<string>Hägglöf</string>
 	</dict>

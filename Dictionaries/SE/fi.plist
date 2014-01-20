@@ -262,7 +262,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>frövi</string>
+		<string>frovi</string>
 		<key>Word</key>
 		<string>Frövi</string>
 	</dict>
@@ -318,7 +318,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>fåneri</string>
+		<string>faneri</string>
 		<key>Word</key>
 		<string>fåneri</string>
 	</dict>
@@ -326,7 +326,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>fögderi</string>
+		<string>fogderi</string>
 		<key>Word</key>
 		<string>fögderi</string>
 	</dict>
@@ -334,7 +334,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>förbi</string>
+		<string>forbi</string>
 		<key>Word</key>
 		<string>förbi</string>
 	</dict>
@@ -342,7 +342,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>förbli</string>
+		<string>forbli</string>
 		<key>Word</key>
 		<string>förbli</string>
 	</dict>
@@ -350,7 +350,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>förmynderi</string>
+		<string>formynderi</string>
 		<key>Word</key>
 		<string>förmynderi</string>
 	</dict>
@@ -358,7 +358,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>förräderi</string>
+		<string>forraderi</string>
 		<key>Word</key>
 		<string>förräderi</string>
 	</dict>
@@ -366,7 +366,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>försäljningspsykologi</string>
+		<string>forsaljningspsykologi</string>
 		<key>Word</key>
 		<string>försäljningspsykologi</string>
 	</dict>

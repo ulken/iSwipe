@@ -54,7 +54,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>nevö</string>
+		<string>nevo</string>
 		<key>Word</key>
 		<string>nevö</string>
 	</dict>
@@ -62,7 +62,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>nexø</string>
+		<string>nexo</string>
 		<key>Word</key>
 		<string>Nexø</string>
 	</dict>
@@ -70,7 +70,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>nicolò</string>
+		<string>nicolo</string>
 		<key>Word</key>
 		<string>Nicolò</string>
 	</dict>
@@ -118,7 +118,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>norsjö</string>
+		<string>norsjo</string>
 		<key>Word</key>
 		<string>Norsjö</string>
 	</dict>
@@ -150,7 +150,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>nutidsmiljö</string>
+		<string>nutidsmiljo</string>
 		<key>Word</key>
 		<string>nutidsmiljö</string>
 	</dict>
@@ -166,7 +166,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>närmiljö</string>
+		<string>narmiljo</string>
 		<key>Word</key>
 		<string>närmiljö</string>
 	</dict>
@@ -174,7 +174,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>närradio</string>
+		<string>narradio</string>
 		<key>Word</key>
 		<string>närradio</string>
 	</dict>
@@ -182,7 +182,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>närvaro</string>
+		<string>narvaro</string>
 		<key>Word</key>
 		<string>närvaro</string>
 	</dict>
@@ -190,7 +190,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>nässjö</string>
+		<string>nassjo</string>
 		<key>Word</key>
 		<string>Nässjö</string>
 	</dict>

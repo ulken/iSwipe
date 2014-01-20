@@ -22,7 +22,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>efterskänk</string>
+		<string>efterskank</string>
 		<key>Word</key>
 		<string>efterskänk</string>
 	</dict>
@@ -38,7 +38,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>eftersök</string>
+		<string>eftersok</string>
 		<key>Word</key>
 		<string>eftersök</string>
 	</dict>
@@ -502,7 +502,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>eu-språk</string>
+		<string>eu-sprak</string>
 		<key>Word</key>
 		<string>EU-språk</string>
 	</dict>
@@ -622,7 +622,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>extraknäck</string>
+		<string>extraknack</string>
 		<key>Word</key>
 		<string>extraknäck</string>
 	</dict>

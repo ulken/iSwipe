@@ -142,7 +142,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>karaktäristik</string>
+		<string>karaktaristik</string>
 		<key>Word</key>
 		<string>karaktäristik</string>
 	</dict>
@@ -150,7 +150,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>karaktäristisk</string>
+		<string>karaktaristisk</string>
 		<key>Word</key>
 		<string>karaktäristisk</string>
 	</dict>
@@ -382,7 +382,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>klarspråk</string>
+		<string>klarsprak</string>
 		<key>Word</key>
 		<string>klarspråk</string>
 	</dict>
@@ -486,7 +486,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kläck</string>
+		<string>klack</string>
 		<key>Word</key>
 		<string>kläck</string>
 	</dict>
@@ -526,7 +526,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>knäck</string>
+		<string>knack</string>
 		<key>Word</key>
 		<string>knäck</string>
 	</dict>
@@ -534,7 +534,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>knölpåk</string>
+		<string>knolpak</string>
 		<key>Word</key>
 		<string>knölpåk</string>
 	</dict>
@@ -654,7 +654,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kommentarslänk</string>
+		<string>kommentarslank</string>
 		<key>Word</key>
 		<string>kommentarslänk</string>
 	</dict>
@@ -686,7 +686,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>koncernspråk</string>
+		<string>koncernsprak</string>
 		<key>Word</key>
 		<string>koncernspråk</string>
 	</dict>
@@ -1014,7 +1014,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>krutrök</string>
+		<string>krutrok</string>
 		<key>Word</key>
 		<string>krutrök</string>
 	</dict>
@@ -1038,7 +1038,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kräk</string>
+		<string>krak</string>
 		<key>Word</key>
 		<string>kräk</string>
 	</dict>
@@ -1046,7 +1046,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kränk</string>
+		<string>krank</string>
 		<key>Word</key>
 		<string>kränk</string>
 	</dict>
@@ -1054,7 +1054,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>krök</string>
+		<string>krok</string>
 		<key>Word</key>
 		<string>krök</string>
 	</dict>
@@ -1062,7 +1062,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>krönikebok</string>
+		<string>kronikebok</string>
 		<key>Word</key>
 		<string>krönikebok</string>
 	</dict>
@@ -1262,7 +1262,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kväk</string>
+		<string>kvak</string>
 		<key>Word</key>
 		<string>kväk</string>
 	</dict>
@@ -1270,7 +1270,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kväverik</string>
+		<string>kvaverik</string>
 		<key>Word</key>
 		<string>kväverik</string>
 	</dict>
@@ -1310,7 +1310,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>käck</string>
+		<string>kack</string>
 		<key>Word</key>
 		<string>käck</string>
 	</dict>
@@ -1318,7 +1318,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>käk</string>
+		<string>kak</string>
 		<key>Word</key>
 		<string>käk</string>
 	</dict>
@@ -1326,7 +1326,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kärlek</string>
+		<string>karlek</string>
 		<key>Word</key>
 		<string>kärlek</string>
 	</dict>
@@ -1334,7 +1334,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kärnbränslefabrik</string>
+		<string>karnbranslefabrik</string>
 		<key>Word</key>
 		<string>kärnbränslefabrik</string>
 	</dict>
@@ -1342,7 +1342,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kärnfrisk</string>
+		<string>karnfrisk</string>
 		<key>Word</key>
 		<string>kärnfrisk</string>
 	</dict>
@@ -1350,7 +1350,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kärnkraftverk</string>
+		<string>karnkraftverk</string>
 		<key>Word</key>
 		<string>kärnkraftverk</string>
 	</dict>
@@ -1358,7 +1358,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kärnspråk</string>
+		<string>karnsprak</string>
 		<key>Word</key>
 		<string>kärnspråk</string>
 	</dict>
@@ -1366,7 +1366,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kärnvapenattack</string>
+		<string>karnvapenattack</string>
 		<key>Word</key>
 		<string>kärnvapenattack</string>
 	</dict>
@@ -1374,7 +1374,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kättersk</string>
+		<string>kattersk</string>
 		<key>Word</key>
 		<string>kättersk</string>
 	</dict>
@@ -1382,7 +1382,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kåk</string>
+		<string>kak</string>
 		<key>Word</key>
 		<string>kåk</string>
 	</dict>
@@ -1390,7 +1390,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kök</string>
+		<string>kok</string>
 		<key>Word</key>
 		<string>kök</string>
 	</dict>
@@ -1398,7 +1398,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>königsmark</string>
+		<string>konigsmark</string>
 		<key>Word</key>
 		<string>Königsmark</string>
 	</dict>
@@ -1406,7 +1406,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>köpstark</string>
+		<string>kopstark</string>
 		<key>Word</key>
 		<string>köpstark</string>
 	</dict>

@@ -46,7 +46,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tidsfördriv</string>
+		<string>tidsfordriv</string>
 		<key>Word</key>
 		<string>tidsfördriv</string>
 	</dict>
@@ -54,7 +54,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tillkännagav</string>
+		<string>tillkannagav</string>
 		<key>Word</key>
 		<string>tillkännagav</string>
 	</dict>
@@ -110,7 +110,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>trägolv</string>
+		<string>tragolv</string>
 		<key>Word</key>
 		<string>trägolv</string>
 	</dict>

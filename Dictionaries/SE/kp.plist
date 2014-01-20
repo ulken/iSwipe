@@ -70,7 +70,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>karaktärstyp</string>
+		<string>karaktarstyp</string>
 		<key>Word</key>
 		<string>karaktärstyp</string>
 	</dict>
@@ -86,7 +86,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kassaskåp</string>
+		<string>kassaskap</string>
 		<key>Word</key>
 		<string>kassaskåp</string>
 	</dict>
@@ -206,7 +206,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>knäpp</string>
+		<string>knapp</string>
 		<key>Word</key>
 		<string>knäpp</string>
 	</dict>
@@ -214,7 +214,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>knåp</string>
+		<string>knap</string>
 		<key>Word</key>
 		<string>knåp</string>
 	</dict>
@@ -238,7 +238,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>konstnärskap</string>
+		<string>konstnarskap</string>
 		<key>Word</key>
 		<string>konstnärskap</string>
 	</dict>
@@ -318,7 +318,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kröp</string>
+		<string>krop</string>
 		<key>Word</key>
 		<string>kröp</string>
 	</dict>
@@ -350,7 +350,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kväljningskramp</string>
+		<string>kvaljningskramp</string>
 		<key>Word</key>
 		<string>kväljningskramp</string>
 	</dict>
@@ -358,7 +358,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kylskåp</string>
+		<string>kylskap</string>
 		<key>Word</key>
 		<string>kylskåp</string>
 	</dict>
@@ -366,7 +366,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kyrkkäpp</string>
+		<string>kyrkkapp</string>
 		<key>Word</key>
 		<string>kyrkkäpp</string>
 	</dict>
@@ -382,7 +382,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>käpp</string>
+		<string>kapp</string>
 		<key>Word</key>
 		<string>käpp</string>
 	</dict>
@@ -390,7 +390,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kärlkramp</string>
+		<string>karlkramp</string>
 		<key>Word</key>
 		<string>kärlkramp</string>
 	</dict>
@@ -398,7 +398,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kärntrupp</string>
+		<string>karntrupp</string>
 		<key>Word</key>
 		<string>kärntrupp</string>
 	</dict>
@@ -406,7 +406,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>köp</string>
+		<string>kop</string>
 		<key>Word</key>
 		<string>köp</string>
 	</dict>
@@ -414,7 +414,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>köpenskap</string>
+		<string>kopenskap</string>
 		<key>Word</key>
 		<string>köpenskap</string>
 	</dict>

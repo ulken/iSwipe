@@ -62,7 +62,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>nattkärl</string>
+		<string>nattkarl</string>
 		<key>Word</key>
 		<string>nattkärl</string>
 	</dict>
@@ -70,7 +70,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>naturgödsel</string>
+		<string>naturgodsel</string>
 		<key>Word</key>
 		<string>naturgödsel</string>
 	</dict>
@@ -78,7 +78,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>naturläkemedel</string>
+		<string>naturlakemedel</string>
 		<key>Word</key>
 		<string>naturläkemedel</string>
 	</dict>
@@ -190,7 +190,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>nerföll</string>
+		<string>nerfoll</string>
 		<key>Word</key>
 		<string>nerföll</string>
 	</dict>
@@ -286,7 +286,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>nollställ</string>
+		<string>nollstall</string>
 		<key>Word</key>
 		<string>nollställ</string>
 	</dict>
@@ -342,7 +342,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>nyanställ</string>
+		<string>nyanstall</string>
 		<key>Word</key>
 		<string>nyanställ</string>
 	</dict>
@@ -358,7 +358,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>nyckelhål</string>
+		<string>nyckelhal</string>
 		<key>Word</key>
 		<string>nyckelhål</string>
 	</dict>
@@ -382,7 +382,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>nyttoföremål</string>
+		<string>nyttoforemal</string>
 		<key>Word</key>
 		<string>nyttoföremål</string>
 	</dict>
@@ -398,7 +398,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>näktergal</string>
+		<string>naktergal</string>
 		<key>Word</key>
 		<string>näktergal</string>
 	</dict>
@@ -406,7 +406,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>nästintill</string>
+		<string>nastintill</string>
 		<key>Word</key>
 		<string>nästintill</string>
 	</dict>
@@ -414,7 +414,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>näswall</string>
+		<string>naswall</string>
 		<key>Word</key>
 		<string>Näswall</string>
 	</dict>
@@ -422,7 +422,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>nätbokhandel</string>
+		<string>natbokhandel</string>
 		<key>Word</key>
 		<string>nätbokhandel</string>
 	</dict>
@@ -430,7 +430,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>näthandel</string>
+		<string>nathandel</string>
 		<key>Word</key>
 		<string>näthandel</string>
 	</dict>
@@ -438,7 +438,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>nätverksfel</string>
+		<string>natverksfel</string>
 		<key>Word</key>
 		<string>nätverksfel</string>
 	</dict>
@@ -446,7 +446,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>nådendal</string>
+		<string>nadendal</string>
 		<key>Word</key>
 		<string>Nådendal</string>
 	</dict>
@@ -454,7 +454,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>nål</string>
+		<string>nal</string>
 		<key>Word</key>
 		<string>nål</string>
 	</dict>
@@ -462,7 +462,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>nåväl</string>
+		<string>naval</string>
 		<key>Word</key>
 		<string>nåväl</string>
 	</dict>
@@ -470,7 +470,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>nödfall</string>
+		<string>nodfall</string>
 		<key>Word</key>
 		<string>nödfall</string>
 	</dict>

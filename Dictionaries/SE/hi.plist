@@ -198,7 +198,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hjälpenergi</string>
+		<string>hjalpenergi</string>
 		<key>Word</key>
 		<string>hjälpenergi</string>
 	</dict>
@@ -262,7 +262,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>häleri</string>
+		<string>haleri</string>
 		<key>Word</key>
 		<string>häleri</string>
 	</dict>
@@ -270,7 +270,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>häri</string>
+		<string>hari</string>
 		<key>Word</key>
 		<string>häri</string>
 	</dict>
@@ -278,7 +278,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>härskri</string>
+		<string>harskri</string>
 		<key>Word</key>
 		<string>härskri</string>
 	</dict>
@@ -286,7 +286,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hårklyveri</string>
+		<string>harklyveri</string>
 		<key>Word</key>
 		<string>hårklyveri</string>
 	</dict>
@@ -294,7 +294,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>högerparti</string>
+		<string>hogerparti</string>
 		<key>Word</key>
 		<string>högerparti</string>
 	</dict>

@@ -46,7 +46,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jämfotahopp</string>
+		<string>jamfotahopp</string>
 		<key>Word</key>
 		<string>jämfotahopp</string>
 	</dict>
@@ -54,7 +54,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>järngrepp</string>
+		<string>jarngrepp</string>
 		<key>Word</key>
 		<string>järngrepp</string>
 	</dict>
@@ -62,7 +62,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>järstorp</string>
+		<string>jarstorp</string>
 		<key>Word</key>
 		<string>Järstorp</string>
 	</dict>

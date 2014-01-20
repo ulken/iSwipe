@@ -70,7 +70,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>eftertänksam</string>
+		<string>eftertanksam</string>
 		<key>Word</key>
 		<string>eftertänksam</string>
 	</dict>
@@ -126,7 +126,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ehrenström</string>
+		<string>ehrenstrom</string>
 		<key>Word</key>
 		<string>Ehrenström</string>
 	</dict>
@@ -174,7 +174,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ekström</string>
+		<string>ekstrom</string>
 		<key>Word</key>
 		<string>Ekström</string>
 	</dict>
@@ -238,7 +238,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>elleström</string>
+		<string>ellestrom</string>
 		<key>Word</key>
 		<string>Elleström</string>
 	</dict>
@@ -246,7 +246,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>elström</string>
+		<string>elstrom</string>
 		<key>Word</key>
 		<string>elström</string>
 	</dict>
@@ -294,7 +294,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>engeström</string>
+		<string>engestrom</string>
 		<key>Word</key>
 		<string>Engeström</string>
 	</dict>
@@ -302,7 +302,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>engström</string>
+		<string>engstrom</string>
 		<key>Word</key>
 		<string>Engström</string>
 	</dict>
@@ -398,7 +398,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ersättningssystem</string>
+		<string>ersattningssystem</string>
 		<key>Word</key>
 		<string>ersättningssystem</string>
 	</dict>

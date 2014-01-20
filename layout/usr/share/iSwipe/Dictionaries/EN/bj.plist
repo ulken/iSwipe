@@ -6,7 +6,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bandyportfölj</string>
+		<string>bandyportfolj</string>
 		<key>Word</key>
 		<string>bandyportfölj</string>
 	</dict>
@@ -30,7 +30,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>beskölj</string>
+		<string>beskolj</string>
 		<key>Word</key>
 		<string>beskölj</string>
 	</dict>
@@ -38,7 +38,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>besvärj</string>
+		<string>besvarj</string>
 		<key>Word</key>
 		<string>besvärj</string>
 	</dict>
@@ -46,7 +46,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>besörj</string>
+		<string>besorj</string>
 		<key>Word</key>
 		<string>besörj</string>
 	</dict>
@@ -78,7 +78,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>böj</string>
+		<string>boj</string>
 		<key>Word</key>
 		<string>böj</string>
 	</dict>
@@ -86,7 +86,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>börsportfölj</string>
+		<string>borsportfolj</string>
 		<key>Word</key>
 		<string>börsportfölj</string>
 	</dict>

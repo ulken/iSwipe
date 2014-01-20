@@ -1,12 +1,9 @@
 Package: com.wynd.iswipe
 Name: iSwipe Keyboard
-Version: 0.5.1-0.5-5
-Description: Faster, gestured typing keyboard
+Version: 0.5.1-0.5-6
+Description: Faster, gesture-typing keyboard
 Section: Keyboard
 Depends: mobilesubstrate
 Priority: standard
 Architecture: iphoneos-arm
-Author: Oskar Löfgren <islander.abroad@gmail.com>
-Homepage: http://wynd07.appspot.com/depict/iswipe
-Depiction: http://wynd07.appspot.com/depict/iswipe
-
+Author: Oskar Löfgren

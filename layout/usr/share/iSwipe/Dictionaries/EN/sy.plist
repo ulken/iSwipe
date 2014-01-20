@@ -46,7 +46,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>skräddarsy</string>
+		<string>skraddarsy</string>
 		<key>Word</key>
 		<string>skräddarsy</string>
 	</dict>
@@ -62,7 +62,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>skälby</string>
+		<string>skalby</string>
 		<key>Word</key>
 		<string>Skälby</string>
 	</dict>
@@ -78,7 +78,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>släktby</string>
+		<string>slaktby</string>
 		<key>Word</key>
 		<string>släktby</string>
 	</dict>
@@ -262,7 +262,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>säby</string>
+		<string>saby</string>
 		<key>Word</key>
 		<string>Säby</string>
 	</dict>

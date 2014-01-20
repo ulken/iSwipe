@@ -6,7 +6,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vaktmästeri</string>
+		<string>vaktmasteri</string>
 		<key>Word</key>
 		<string>vaktmästeri</string>
 	</dict>
@@ -190,7 +190,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vänsterparti</string>
+		<string>vansterparti</string>
 		<key>Word</key>
 		<string>vänsterparti</string>
 	</dict>

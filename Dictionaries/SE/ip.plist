@@ -86,7 +86,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ingenjörsvetenskap</string>
+		<string>ingenjorsvetenskap</string>
 		<key>Word</key>
 		<string>ingenjörsvetenskap</string>
 	</dict>
@@ -126,7 +126,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>inköp</string>
+		<string>inkop</string>
 		<key>Word</key>
 		<string>inköp</string>
 	</dict>
@@ -150,7 +150,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>inskärp</string>
+		<string>inskarp</string>
 		<key>Word</key>
 		<string>inskärp</string>
 	</dict>
@@ -158,7 +158,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>insläpp</string>
+		<string>inslapp</string>
 		<key>Word</key>
 		<string>insläpp</string>
 	</dict>
@@ -182,7 +182,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>insöp</string>
+		<string>insop</string>
 		<key>Word</key>
 		<string>insöp</string>
 	</dict>

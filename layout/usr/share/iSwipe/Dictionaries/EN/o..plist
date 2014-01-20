@@ -22,7 +22,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ordförkl.</string>
+		<string>ordforkl.</string>
 		<key>Word</key>
 		<string>ordförkl.</string>
 	</dict>
@@ -30,7 +30,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>öht.</string>
+		<string>oht.</string>
 		<key>Word</key>
 		<string>öht.</string>
 	</dict>

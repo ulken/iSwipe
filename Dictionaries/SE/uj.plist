@@ -14,7 +14,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>undanröj</string>
+		<string>undanroj</string>
 		<key>Word</key>
 		<string>undanröj</string>
 	</dict>
@@ -30,7 +30,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>uppfölj</string>
+		<string>uppfolj</string>
 		<key>Word</key>
 		<string>uppfölj</string>
 	</dict>
@@ -38,7 +38,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>upphöj</string>
+		<string>upphoj</string>
 		<key>Word</key>
 		<string>upphöj</string>
 	</dict>
@@ -54,7 +54,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>utvälj</string>
+		<string>utvalj</string>
 		<key>Word</key>
 		<string>utvälj</string>
 	</dict>

@@ -54,7 +54,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>cederschiöld</string>
+		<string>cederschiold</string>
 		<key>Word</key>
 		<string>Cederschiöld</string>
 	</dict>
@@ -198,7 +198,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>civilstånd</string>
+		<string>civilstand</string>
 		<key>Word</key>
 		<string>civilstånd</string>
 	</dict>
@@ -278,7 +278,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>cykelfärd</string>
+		<string>cykelfard</string>
 		<key>Word</key>
 		<string>cykelfärd</string>
 	</dict>

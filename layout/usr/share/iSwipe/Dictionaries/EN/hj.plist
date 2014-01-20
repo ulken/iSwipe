@@ -38,7 +38,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>höj</string>
+		<string>hoj</string>
 		<key>Word</key>
 		<string>höj</string>
 	</dict>
@@ -46,7 +46,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hölj</string>
+		<string>holj</string>
 		<key>Word</key>
 		<string>hölj</string>
 	</dict>

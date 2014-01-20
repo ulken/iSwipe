@@ -358,7 +358,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>djävel</string>
+		<string>djavel</string>
 		<key>Word</key>
 		<string>djävel</string>
 	</dict>
@@ -366,7 +366,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>djävul</string>
+		<string>djavul</string>
 		<key>Word</key>
 		<string>djävul</string>
 	</dict>
@@ -462,7 +462,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>dräll</string>
+		<string>drall</string>
 		<key>Word</key>
 		<string>dräll</string>
 	</dict>
@@ -470,7 +470,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>drätsel</string>
+		<string>dratsel</string>
 		<key>Word</key>
 		<string>drätsel</string>
 	</dict>
@@ -478,7 +478,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>dröjsmål</string>
+		<string>drojsmal</string>
 		<key>Word</key>
 		<string>dröjsmål</string>
 	</dict>
@@ -486,7 +486,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>drömbil</string>
+		<string>drombil</string>
 		<key>Word</key>
 		<string>drömbil</string>
 	</dict>
@@ -494,7 +494,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>drömspel</string>
+		<string>dromspel</string>
 		<key>Word</key>
 		<string>drömspel</string>
 	</dict>
@@ -598,7 +598,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>dypöl</string>
+		<string>dypol</string>
 		<key>Word</key>
 		<string>dypöl</string>
 	</dict>
@@ -606,7 +606,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>därtill</string>
+		<string>dartill</string>
 		<key>Word</key>
 		<string>därtill</string>
 	</dict>
@@ -614,7 +614,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>dödsfall</string>
+		<string>dodsfall</string>
 		<key>Word</key>
 		<string>dödsfall</string>
 	</dict>

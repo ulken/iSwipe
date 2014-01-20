@@ -38,7 +38,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jadå</string>
+		<string>jada</string>
 		<key>Word</key>
 		<string>jadå</string>
 	</dict>
@@ -222,7 +222,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jaså</string>
+		<string>jasa</string>
 		<key>Word</key>
 		<string>jaså</string>
 	</dict>
@@ -246,7 +246,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jebuséerna</string>
+		<string>jebuseerna</string>
 		<key>Word</key>
 		<string>jebuséerna</string>
 	</dict>
@@ -390,7 +390,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jodå</string>
+		<string>joda</string>
 		<key>Word</key>
 		<string>jodå</string>
 	</dict>
@@ -502,7 +502,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jonglörerna</string>
+		<string>jonglorerna</string>
 		<key>Word</key>
 		<string>jonglörerna</string>
 	</dict>
@@ -630,7 +630,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jordbrukssamhällena</string>
+		<string>jordbrukssamhallena</string>
 		<key>Word</key>
 		<string>jordbrukssamhällena</string>
 	</dict>
@@ -638,7 +638,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jordbävningarna</string>
+		<string>jordbavningarna</string>
 		<key>Word</key>
 		<string>jordbävningarna</string>
 	</dict>
@@ -646,7 +646,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jordfästa</string>
+		<string>jordfasta</string>
 		<key>Word</key>
 		<string>jordfästa</string>
 	</dict>
@@ -686,7 +686,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jordkällarna</string>
+		<string>jordkallarna</string>
 		<key>Word</key>
 		<string>jordkällarna</string>
 	</dict>
@@ -718,7 +718,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jordmänniska</string>
+		<string>jordmanniska</string>
 		<key>Word</key>
 		<string>jordmänniska</string>
 	</dict>
@@ -726,7 +726,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jordmänniskorna</string>
+		<string>jordmanniskorna</string>
 		<key>Word</key>
 		<string>jordmänniskorna</string>
 	</dict>
@@ -734,7 +734,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jordnära</string>
+		<string>jordnara</string>
 		<key>Word</key>
 		<string>jordnära</string>
 	</dict>
@@ -742,7 +742,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jordnötterna</string>
+		<string>jordnotterna</string>
 		<key>Word</key>
 		<string>jordnötterna</string>
 	</dict>
@@ -750,7 +750,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jordplättarna</string>
+		<string>jordplattarna</string>
 		<key>Word</key>
 		<string>jordplättarna</string>
 	</dict>
@@ -1054,7 +1054,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>julhälsningarna</string>
+		<string>julhalsningarna</string>
 		<key>Word</key>
 		<string>julhälsningarna</string>
 	</dict>
@@ -1118,7 +1118,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>julnätterna</string>
+		<string>julnatterna</string>
 		<key>Word</key>
 		<string>julnätterna</string>
 	</dict>
@@ -1126,7 +1126,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>julstämningarna</string>
+		<string>julstamningarna</string>
 		<key>Word</key>
 		<string>julstämningarna</string>
 	</dict>
@@ -1174,7 +1174,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jungfruöarna</string>
+		<string>jungfruoarna</string>
 		<key>Word</key>
 		<string>Jungfruöarna</string>
 	</dict>
@@ -1310,7 +1310,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jyllänningarna</string>
+		<string>jyllanningarna</string>
 		<key>Word</key>
 		<string>jyllänningarna</string>
 	</dict>
@@ -1318,7 +1318,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jyväskylä</string>
+		<string>jyvaskyla</string>
 		<key>Word</key>
 		<string>Jyväskylä</string>
 	</dict>
@@ -1326,7 +1326,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jägarna</string>
+		<string>jagarna</string>
 		<key>Word</key>
 		<string>jägarna</string>
 	</dict>
@@ -1334,7 +1334,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jägmästarna</string>
+		<string>jagmastarna</string>
 		<key>Word</key>
 		<string>jägmästarna</string>
 	</dict>
@@ -1342,7 +1342,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jäkla</string>
+		<string>jakla</string>
 		<key>Word</key>
 		<string>jäkla</string>
 	</dict>
@@ -1350,7 +1350,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jäkliga</string>
+		<string>jakliga</string>
 		<key>Word</key>
 		<string>jäkliga</string>
 	</dict>
@@ -1358,7 +1358,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jäkta</string>
+		<string>jakta</string>
 		<key>Word</key>
 		<string>jäkta</string>
 	</dict>
@@ -1366,7 +1366,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jäktiga</string>
+		<string>jaktiga</string>
 		<key>Word</key>
 		<string>jäktiga</string>
 	</dict>
@@ -1374,7 +1374,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jämbördiga</string>
+		<string>jambordiga</string>
 		<key>Word</key>
 		<string>jämbördiga</string>
 	</dict>
@@ -1382,7 +1382,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jämfota</string>
+		<string>jamfota</string>
 		<key>Word</key>
 		<string>jämfota</string>
 	</dict>
@@ -1390,7 +1390,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jämföra</string>
+		<string>jamfora</string>
 		<key>Word</key>
 		<string>jämföra</string>
 	</dict>
@@ -1398,7 +1398,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jämförbara</string>
+		<string>jamforbara</string>
 		<key>Word</key>
 		<string>jämförbara</string>
 	</dict>
@@ -1406,7 +1406,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jämförda</string>
+		<string>jamforda</string>
 		<key>Word</key>
 		<string>jämförda</string>
 	</dict>
@@ -1414,7 +1414,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jämförelserna</string>
+		<string>jamforelserna</string>
 		<key>Word</key>
 		<string>jämförelserna</string>
 	</dict>
@@ -1422,7 +1422,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jämförliga</string>
+		<string>jamforliga</string>
 		<key>Word</key>
 		<string>jämförliga</string>
 	</dict>
@@ -1430,7 +1430,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jämka</string>
+		<string>jamka</string>
 		<key>Word</key>
 		<string>jämka</string>
 	</dict>
@@ -1438,7 +1438,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jämkningarna</string>
+		<string>jamkningarna</string>
 		<key>Word</key>
 		<string>jämkningarna</string>
 	</dict>
@@ -1446,7 +1446,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jämlika</string>
+		<string>jamlika</string>
 		<key>Word</key>
 		<string>jämlika</string>
 	</dict>
@@ -1454,7 +1454,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jämlikarna</string>
+		<string>jamlikarna</string>
 		<key>Word</key>
 		<string>jämlikarna</string>
 	</dict>
@@ -1462,7 +1462,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jämmerliga</string>
+		<string>jammerliga</string>
 		<key>Word</key>
 		<string>jämmerliga</string>
 	</dict>
@@ -1470,7 +1470,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jämna</string>
+		<string>jamna</string>
 		<key>Word</key>
 		<string>jämna</string>
 	</dict>
@@ -1478,7 +1478,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jämnbreda</string>
+		<string>jamnbreda</string>
 		<key>Word</key>
 		<string>jämnbreda</string>
 	</dict>
@@ -1486,7 +1486,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jämnklippta</string>
+		<string>jamnklippta</string>
 		<key>Word</key>
 		<string>jämnklippta</string>
 	</dict>
@@ -1494,7 +1494,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jämnstora</string>
+		<string>jamnstora</string>
 		<key>Word</key>
 		<string>jämnstora</string>
 	</dict>
@@ -1502,7 +1502,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jämnåriga</string>
+		<string>jamnariga</string>
 		<key>Word</key>
 		<string>jämnåriga</string>
 	</dict>
@@ -1510,7 +1510,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jämra</string>
+		<string>jamra</string>
 		<key>Word</key>
 		<string>jämra</string>
 	</dict>
@@ -1518,7 +1518,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jämspelta</string>
+		<string>jamspelta</string>
 		<key>Word</key>
 		<string>jämspelta</string>
 	</dict>
@@ -1526,7 +1526,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jämställa</string>
+		<string>jamstalla</string>
 		<key>Word</key>
 		<string>jämställa</string>
 	</dict>
@@ -1534,7 +1534,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jämställda</string>
+		<string>jamstallda</string>
 		<key>Word</key>
 		<string>jämställda</string>
 	</dict>
@@ -1542,7 +1542,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jämställdhetsfråga</string>
+		<string>jamstalldhetsfraga</string>
 		<key>Word</key>
 		<string>jämställdhetsfråga</string>
 	</dict>
@@ -1550,7 +1550,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jämställdhetsfrågorna</string>
+		<string>jamstalldhetsfragorna</string>
 		<key>Word</key>
 		<string>jämställdhetsfrågorna</string>
 	</dict>
@@ -1558,7 +1558,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jämställdhetsfälla</string>
+		<string>jamstalldhetsfalla</string>
 		<key>Word</key>
 		<string>jämställdhetsfälla</string>
 	</dict>
@@ -1566,7 +1566,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jämställdhetsfällorna</string>
+		<string>jamstalldhetsfallorna</string>
 		<key>Word</key>
 		<string>jämställdhetsfällorna</string>
 	</dict>
@@ -1574,7 +1574,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jämställdhetsministrarna</string>
+		<string>jamstalldhetsministrarna</string>
 		<key>Word</key>
 		<string>jämställdhetsministrarna</string>
 	</dict>
@@ -1582,7 +1582,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jämtarna</string>
+		<string>jamtarna</string>
 		<key>Word</key>
 		<string>jämtarna</string>
 	</dict>
@@ -1590,7 +1590,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jämtländska</string>
+		<string>jamtlandska</string>
 		<key>Word</key>
 		<string>jämtländska</string>
 	</dict>
@@ -1598,7 +1598,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jänta</string>
+		<string>janta</string>
 		<key>Word</key>
 		<string>jänta</string>
 	</dict>
@@ -1606,7 +1606,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jäntorna</string>
+		<string>jantorna</string>
 		<key>Word</key>
 		<string>jäntorna</string>
 	</dict>
@@ -1614,7 +1614,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>järfälla</string>
+		<string>jarfalla</string>
 		<key>Word</key>
 		<string>Järfälla</string>
 	</dict>
@@ -1622,7 +1622,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>järna</string>
+		<string>jarna</string>
 		<key>Word</key>
 		<string>Järna</string>
 	</dict>
@@ -1630,7 +1630,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>järnbeslagna</string>
+		<string>jarnbeslagna</string>
 		<key>Word</key>
 		<string>järnbeslagna</string>
 	</dict>
@@ -1638,7 +1638,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>järngrytsgrå</string>
+		<string>jarngrytsgra</string>
 		<key>Word</key>
 		<string>järngrytsgrå</string>
 	</dict>
@@ -1646,7 +1646,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>järngrytsgråa</string>
+		<string>jarngrytsgraa</string>
 		<key>Word</key>
 		<string>järngrytsgråa</string>
 	</dict>
@@ -1654,7 +1654,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>järnhårda</string>
+		<string>jarnharda</string>
 		<key>Word</key>
 		<string>järnhårda</string>
 	</dict>
@@ -1662,7 +1662,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>järnridå</string>
+		<string>jarnrida</string>
 		<key>Word</key>
 		<string>järnridå</string>
 	</dict>
@@ -1670,7 +1670,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>järnringarna</string>
+		<string>jarnringarna</string>
 		<key>Word</key>
 		<string>järnringarna</string>
 	</dict>
@@ -1678,7 +1678,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>järnskodda</string>
+		<string>jarnskodda</string>
 		<key>Word</key>
 		<string>järnskodda</string>
 	</dict>
@@ -1686,7 +1686,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>järnspisarna</string>
+		<string>jarnspisarna</string>
 		<key>Word</key>
 		<string>järnspisarna</string>
 	</dict>
@@ -1694,7 +1694,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>järnvägarna</string>
+		<string>jarnvagarna</string>
 		<key>Word</key>
 		<string>järnvägarna</string>
 	</dict>
@@ -1702,7 +1702,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>järnvägskupéerna</string>
+		<string>jarnvagskupeerna</string>
 		<key>Word</key>
 		<string>järnvägskupéerna</string>
 	</dict>
@@ -1710,7 +1710,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>järnvägsstationerna</string>
+		<string>jarnvagsstationerna</string>
 		<key>Word</key>
 		<string>järnvägsstationerna</string>
 	</dict>
@@ -1718,7 +1718,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>järta</string>
+		<string>jarta</string>
 		<key>Word</key>
 		<string>Järta</string>
 	</dict>
@@ -1726,7 +1726,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>järva</string>
+		<string>jarva</string>
 		<key>Word</key>
 		<string>Järva</string>
 	</dict>
@@ -1734,7 +1734,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>järvaborna</string>
+		<string>jarvaborna</string>
 		<key>Word</key>
 		<string>Järvaborna</string>
 	</dict>
@@ -1742,7 +1742,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>järvarna</string>
+		<string>jarvarna</string>
 		<key>Word</key>
 		<string>järvarna</string>
 	</dict>
@@ -1750,7 +1750,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jäsa</string>
+		<string>jasa</string>
 		<key>Word</key>
 		<string>jäsa</string>
 	</dict>
@@ -1758,7 +1758,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jästa</string>
+		<string>jasta</string>
 		<key>Word</key>
 		<string>jästa</string>
 	</dict>
@@ -1766,7 +1766,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jättarna</string>
+		<string>jattarna</string>
 		<key>Word</key>
 		<string>jättarna</string>
 	</dict>
@@ -1774,7 +1774,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jättebra</string>
+		<string>jattebra</string>
 		<key>Word</key>
 		<string>jättebra</string>
 	</dict>
@@ -1782,7 +1782,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jätteduktiga</string>
+		<string>jatteduktiga</string>
 		<key>Word</key>
 		<string>jätteduktiga</string>
 	</dict>
@@ -1790,7 +1790,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jättefina</string>
+		<string>jattefina</string>
 		<key>Word</key>
 		<string>jättefina</string>
 	</dict>
@@ -1798,7 +1798,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jätteglada</string>
+		<string>jatteglada</string>
 		<key>Word</key>
 		<string>jätteglada</string>
 	</dict>
@@ -1806,7 +1806,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jättegoda</string>
+		<string>jattegoda</string>
 		<key>Word</key>
 		<string>jättegoda</string>
 	</dict>
@@ -1814,7 +1814,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jättehäftiga</string>
+		<string>jattehaftiga</string>
 		<key>Word</key>
 		<string>jättehäftiga</string>
 	</dict>
@@ -1822,7 +1822,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jättehöga</string>
+		<string>jattehoga</string>
 		<key>Word</key>
 		<string>jättehöga</string>
 	</dict>
@@ -1830,7 +1830,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jättekvinna</string>
+		<string>jattekvinna</string>
 		<key>Word</key>
 		<string>jättekvinna</string>
 	</dict>
@@ -1838,7 +1838,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jättekvinnorna</string>
+		<string>jattekvinnorna</string>
 		<key>Word</key>
 		<string>jättekvinnorna</string>
 	</dict>
@@ -1846,7 +1846,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jättelika</string>
+		<string>jattelika</string>
 		<key>Word</key>
 		<string>jättelika</string>
 	</dict>
@@ -1854,7 +1854,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jättelånga</string>
+		<string>jattelanga</string>
 		<key>Word</key>
 		<string>jättelånga</string>
 	</dict>
@@ -1862,7 +1862,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jätteroliga</string>
+		<string>jatteroliga</string>
 		<key>Word</key>
 		<string>jätteroliga</string>
 	</dict>
@@ -1870,7 +1870,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jättestora</string>
+		<string>jattestora</string>
 		<key>Word</key>
 		<string>jättestora</string>
 	</dict>
@@ -1878,7 +1878,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jättesvåra</string>
+		<string>jattesvara</string>
 		<key>Word</key>
 		<string>jättesvåra</string>
 	</dict>
@@ -1886,7 +1886,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jättinna</string>
+		<string>jattinna</string>
 		<key>Word</key>
 		<string>jättinna</string>
 	</dict>
@@ -1894,7 +1894,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jättinnorna</string>
+		<string>jattinnorna</string>
 		<key>Word</key>
 		<string>jättinnorna</string>
 	</dict>
@@ -1902,7 +1902,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jäva</string>
+		<string>java</string>
 		<key>Word</key>
 		<string>jäva</string>
 	</dict>
@@ -1910,7 +1910,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jäviga</string>
+		<string>javiga</string>
 		<key>Word</key>
 		<string>jäviga</string>
 	</dict>
@@ -1918,7 +1918,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jävla</string>
+		<string>javla</string>
 		<key>Word</key>
 		<string>jävla</string>
 	</dict>
@@ -1926,7 +1926,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jävlarna</string>
+		<string>javlarna</string>
 		<key>Word</key>
 		<string>jävlarna</string>
 	</dict>
@@ -1934,7 +1934,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jävliga</string>
+		<string>javliga</string>
 		<key>Word</key>
 		<string>jävliga</string>
 	</dict>
@@ -1942,7 +1942,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jöklarna</string>
+		<string>joklarna</string>
 		<key>Word</key>
 		<string>jöklarna</string>
 	</dict>

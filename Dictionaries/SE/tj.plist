@@ -22,7 +22,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tälj</string>
+		<string>talj</string>
 		<key>Word</key>
 		<string>tälj</string>
 	</dict>
@@ -30,7 +30,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tämj</string>
+		<string>tamj</string>
 		<key>Word</key>
 		<string>tämj</string>
 	</dict>
@@ -38,7 +38,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tänj</string>
+		<string>tanj</string>
 		<key>Word</key>
 		<string>tänj</string>
 	</dict>

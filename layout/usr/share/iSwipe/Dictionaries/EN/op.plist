@@ -46,7 +46,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>operasällskap</string>
+		<string>operasallskap</string>
 		<key>Word</key>
 		<string>operasällskap</string>
 	</dict>
@@ -62,7 +62,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ordförandeskap</string>
+		<string>ordforandeskap</string>
 		<key>Word</key>
 		<string>ordförandeskap</string>
 	</dict>
@@ -86,7 +86,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ögrupp</string>
+		<string>ogrupp</string>
 		<key>Word</key>
 		<string>ögrupp</string>
 	</dict>
@@ -94,7 +94,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ölstop</string>
+		<string>olstop</string>
 		<key>Word</key>
 		<string>ölstop</string>
 	</dict>
@@ -102,7 +102,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>övergrepp</string>
+		<string>overgrepp</string>
 		<key>Word</key>
 		<string>övergrepp</string>
 	</dict>
@@ -110,7 +110,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>överläpp</string>
+		<string>overlapp</string>
 		<key>Word</key>
 		<string>överläpp</string>
 	</dict>
@@ -118,7 +118,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>övertramp</string>
+		<string>overtramp</string>
 		<key>Word</key>
 		<string>övertramp</string>
 	</dict>

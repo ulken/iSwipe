@@ -6,7 +6,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>e-förvaltning</string>
+		<string>e-forvaltning</string>
 		<key>Word</key>
 		<string>e-förvaltning</string>
 	</dict>
@@ -86,7 +86,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>efterräkning</string>
+		<string>efterrakning</string>
 		<key>Word</key>
 		<string>efterräkning</string>
 	</dict>
@@ -94,7 +94,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>eftersläpning</string>
+		<string>efterslapning</string>
 		<key>Word</key>
 		<string>eftersläpning</string>
 	</dict>
@@ -118,7 +118,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>egenhändig</string>
+		<string>egenhandig</string>
 		<key>Word</key>
 		<string>egenhändig</string>
 	</dict>
@@ -126,7 +126,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>egenmäktig</string>
+		<string>egenmaktig</string>
 		<key>Word</key>
 		<string>egenmäktig</string>
 	</dict>
@@ -222,7 +222,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ekosändning</string>
+		<string>ekosandning</string>
 		<key>Word</key>
 		<string>ekosändning</string>
 	</dict>
@@ -230,7 +230,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>elanvändning</string>
+		<string>elanvandning</string>
 		<key>Word</key>
 		<string>elanvändning</string>
 	</dict>
@@ -238,7 +238,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>elavläsning</string>
+		<string>elavlasning</string>
 		<key>Word</key>
 		<string>elavläsning</string>
 	</dict>
@@ -294,7 +294,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>elförsörjning</string>
+		<string>elforsorjning</string>
 		<key>Word</key>
 		<string>elförsörjning</string>
 	</dict>
@@ -318,7 +318,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>elräkning</string>
+		<string>elrakning</string>
 		<key>Word</key>
 		<string>elräkning</string>
 	</dict>
@@ -334,7 +334,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>elvaårig</string>
+		<string>elvaarig</string>
 		<key>Word</key>
 		<string>elvaårig</string>
 	</dict>
@@ -342,7 +342,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>elvaåring</string>
+		<string>elvaaring</string>
 		<key>Word</key>
 		<string>elvaåring</string>
 	</dict>
@@ -366,7 +366,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>eländig</string>
+		<string>elandig</string>
 		<key>Word</key>
 		<string>eländig</string>
 	</dict>
@@ -374,7 +374,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>emotsåg</string>
+		<string>emotsag</string>
 		<key>Word</key>
 		<string>emotsåg</string>
 	</dict>
@@ -422,7 +422,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>endräktig</string>
+		<string>endraktig</string>
 		<key>Word</key>
 		<string>endräktig</string>
 	</dict>
@@ -462,7 +462,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>engelskspråkig</string>
+		<string>engelsksprakig</string>
 		<key>Word</key>
 		<string>engelskspråkig</string>
 	</dict>
@@ -478,7 +478,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>engång</string>
+		<string>engang</string>
 		<key>Word</key>
 		<string>engång</string>
 	</dict>
@@ -502,7 +502,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>enhällig</string>
+		<string>enhallig</string>
 		<key>Word</key>
 		<string>enhällig</string>
 	</dict>
@@ -510,7 +510,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>enhörning</string>
+		<string>enhorning</string>
 		<key>Word</key>
 		<string>Enhörning</string>
 	</dict>
@@ -518,7 +518,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>enhörning</string>
+		<string>enhorning</string>
 		<key>Word</key>
 		<string>enhörning</string>
 	</dict>
@@ -542,7 +542,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>enkelspårig</string>
+		<string>enkelsparig</string>
 		<key>Word</key>
 		<string>enkelspårig</string>
 	</dict>
@@ -558,7 +558,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>enkätundersökning</string>
+		<string>enkatundersokning</string>
 		<key>Word</key>
 		<string>enkätundersökning</string>
 	</dict>
@@ -566,7 +566,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>enköping</string>
+		<string>enkoping</string>
 		<key>Word</key>
 		<string>Enköping</string>
 	</dict>
@@ -638,7 +638,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>enväldig</string>
+		<string>envaldig</string>
 		<key>Word</key>
 		<string>enväldig</string>
 	</dict>
@@ -662,7 +662,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>erfarenhetsmässig</string>
+		<string>erfarenhetsmassig</string>
 		<key>Word</key>
 		<string>erfarenhetsmässig</string>
 	</dict>
@@ -694,7 +694,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>erlägg</string>
+		<string>erlagg</string>
 		<key>Word</key>
 		<string>erlägg</string>
 	</dict>
@@ -702,7 +702,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ersättning</string>
+		<string>ersattning</string>
 		<key>Word</key>
 		<string>ersättning</string>
 	</dict>
@@ -710,7 +710,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>erövring</string>
+		<string>erovring</string>
 		<key>Word</key>
 		<string>erövring</string>
 	</dict>
@@ -774,7 +774,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ettårig</string>
+		<string>ettarig</string>
 		<key>Word</key>
 		<string>ettårig</string>
 	</dict>
@@ -782,7 +782,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ettåring</string>
+		<string>ettaring</string>
 		<key>Word</key>
 		<string>ettåring</string>
 	</dict>
@@ -846,7 +846,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>evärdlig</string>
+		<string>evardlig</string>
 		<key>Word</key>
 		<string>evärdlig</string>
 	</dict>

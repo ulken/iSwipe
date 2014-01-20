@@ -14,7 +14,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>obekväm</string>
+		<string>obekvam</string>
 		<key>Word</key>
 		<string>obekväm</string>
 	</dict>
@@ -30,7 +30,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>obetänksam</string>
+		<string>obetanksam</string>
 		<key>Word</key>
 		<string>obetänksam</string>
 	</dict>
@@ -110,7 +110,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ohörsam</string>
+		<string>ohorsam</string>
 		<key>Word</key>
 		<string>ohörsam</string>
 	</dict>
@@ -118,7 +118,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>olofström</string>
+		<string>olofstrom</string>
 		<key>Word</key>
 		<string>Olofström</string>
 	</dict>
@@ -126,7 +126,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>olönsam</string>
+		<string>olonsam</string>
 		<key>Word</key>
 		<string>olönsam</string>
 	</dict>
@@ -230,7 +230,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>oöm</string>
+		<string>oom</string>
 		<key>Word</key>
 		<string>oöm</string>
 	</dict>
@@ -238,7 +238,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ödem</string>
+		<string>odem</string>
 		<key>Word</key>
 		<string>ödem</string>
 	</dict>
@@ -246,7 +246,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ögonsjukdom</string>
+		<string>ogonsjukdom</string>
 		<key>Word</key>
 		<string>ögonsjukdom</string>
 	</dict>
@@ -254,7 +254,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>öm</string>
+		<string>om</string>
 		<key>Word</key>
 		<string>öm</string>
 	</dict>
@@ -262,7 +262,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ömsom</string>
+		<string>omsom</string>
 		<key>Word</key>
 		<string>ömsom</string>
 	</dict>
@@ -270,7 +270,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>önskedröm</string>
+		<string>onskedrom</string>
 		<key>Word</key>
 		<string>önskedröm</string>
 	</dict>
@@ -278,7 +278,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>överarm</string>
+		<string>overarm</string>
 		<key>Word</key>
 		<string>överarm</string>
 	</dict>
@@ -286,7 +286,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>överenskom</string>
+		<string>overenskom</string>
 		<key>Word</key>
 		<string>överenskom</string>
 	</dict>
@@ -294,7 +294,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>överensstäm</string>
+		<string>overensstam</string>
 		<key>Word</key>
 		<string>överensstäm</string>
 	</dict>
@@ -308,7 +308,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>Öhrström</string>
+		<string>Ohrstrom</string>
 		<key>Word</key>
 		<string>Öhrström</string>
 	</dict>
@@ -316,7 +316,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>Östermalm</string>
+		<string>Ostermalm</string>
 		<key>Word</key>
 		<string>Östermalm</string>
 	</dict>
@@ -324,7 +324,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>Östrom</string>
+		<string>Ostrom</string>
 		<key>Word</key>
 		<string>Östrom</string>
 	</dict>

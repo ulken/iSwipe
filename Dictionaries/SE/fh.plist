@@ -62,7 +62,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>forsgårdh</string>
+		<string>forsgardh</string>
 		<key>Word</key>
 		<string>Forsgårdh</string>
 	</dict>
@@ -94,7 +94,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>fräsch</string>
+		<string>frasch</string>
 		<key>Word</key>
 		<string>fräsch</string>
 	</dict>
@@ -102,7 +102,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>fröjdh</string>
+		<string>frojdh</string>
 		<key>Word</key>
 		<string>Fröjdh</string>
 	</dict>
@@ -110,7 +110,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>frölich</string>
+		<string>frolich</string>
 		<key>Word</key>
 		<string>Frölich</string>
 	</dict>
@@ -118,7 +118,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>färgplansch</string>
+		<string>fargplansch</string>
 		<key>Word</key>
 		<string>färgplansch</string>
 	</dict>
@@ -126,7 +126,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>förlagsbranch</string>
+		<string>forlagsbranch</string>
 		<key>Word</key>
 		<string>förlagsbranch</string>
 	</dict>

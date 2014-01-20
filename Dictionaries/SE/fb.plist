@@ -38,7 +38,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>färgbomb</string>
+		<string>fargbomb</string>
 		<key>Word</key>
 		<string>färgbomb</string>
 	</dict>
@@ -46,7 +46,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>försvarsstab</string>
+		<string>forsvarsstab</string>
 		<key>Word</key>
 		<string>försvarsstab</string>
 	</dict>

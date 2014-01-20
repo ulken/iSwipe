@@ -30,7 +30,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>malmsjö</string>
+		<string>malmsjo</string>
 		<key>Word</key>
 		<string>Malmsjö</string>
 	</dict>
@@ -38,7 +38,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>malmö</string>
+		<string>malmo</string>
 		<key>Word</key>
 		<string>Malmö</string>
 	</dict>
@@ -46,7 +46,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>malö</string>
+		<string>malo</string>
 		<key>Word</key>
 		<string>Malö</string>
 	</dict>
@@ -166,7 +166,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>metspö</string>
+		<string>metspo</string>
 		<key>Word</key>
 		<string>metspö</string>
 	</dict>
@@ -206,7 +206,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>miljö</string>
+		<string>miljo</string>
 		<key>Word</key>
 		<string>miljö</string>
 	</dict>
@@ -286,7 +286,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>mullsjö</string>
+		<string>mullsjo</string>
 		<key>Word</key>
 		<string>Mullsjö</string>
 	</dict>
@@ -302,7 +302,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>myresjö</string>
+		<string>myresjo</string>
 		<key>Word</key>
 		<string>Myresjö</string>
 	</dict>
@@ -318,7 +318,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>målkonto</string>
+		<string>malkonto</string>
 		<key>Word</key>
 		<string>målkonto</string>
 	</dict>
@@ -326,7 +326,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>måtto</string>
+		<string>matto</string>
 		<key>Word</key>
 		<string>måtto</string>
 	</dict>
@@ -334,7 +334,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>mö</string>
+		<string>mo</string>
 		<key>Word</key>
 		<string>mö</string>
 	</dict>

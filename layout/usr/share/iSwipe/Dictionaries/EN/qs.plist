@@ -46,7 +46,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>quarnströms</string>
+		<string>quarnstroms</string>
 		<key>Word</key>
 		<string>Quarnströms</string>
 	</dict>
@@ -166,7 +166,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>qvarnströms</string>
+		<string>qvarnstroms</string>
 		<key>Word</key>
 		<string>Qvarnströms</string>
 	</dict>

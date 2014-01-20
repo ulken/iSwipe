@@ -70,7 +70,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ohälsotal</string>
+		<string>ohalsotal</string>
 		<key>Word</key>
 		<string>ohälsotal</string>
 	</dict>
@@ -126,7 +126,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>omdömesgill</string>
+		<string>omdomesgill</string>
 		<key>Word</key>
 		<string>omdömesgill</string>
 	</dict>
@@ -158,7 +158,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>omställ</string>
+		<string>omstall</string>
 		<key>Word</key>
 		<string>omställ</string>
 	</dict>
@@ -414,7 +414,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ögonbindel</string>
+		<string>ogonbindel</string>
 		<key>Word</key>
 		<string>ögonbindel</string>
 	</dict>
@@ -422,7 +422,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>öl</string>
+		<string>ol</string>
 		<key>Word</key>
 		<string>öl</string>
 	</dict>
@@ -430,7 +430,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>önskemål</string>
+		<string>onskemal</string>
 		<key>Word</key>
 		<string>önskemål</string>
 	</dict>
@@ -438,7 +438,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>örfil</string>
+		<string>orfil</string>
 		<key>Word</key>
 		<string>örfil</string>
 	</dict>
@@ -446,7 +446,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>överdel</string>
+		<string>overdel</string>
 		<key>Word</key>
 		<string>överdel</string>
 	</dict>
@@ -454,7 +454,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>överfall</string>
+		<string>overfall</string>
 		<key>Word</key>
 		<string>överfall</string>
 	</dict>
@@ -462,7 +462,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>överfull</string>
+		<string>overfull</string>
 		<key>Word</key>
 		<string>överfull</string>
 	</dict>
@@ -470,7 +470,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>överföll</string>
+		<string>overfoll</string>
 		<key>Word</key>
 		<string>överföll</string>
 	</dict>
@@ -478,7 +478,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>övningsdel</string>
+		<string>ovningsdel</string>
 		<key>Word</key>
 		<string>övningsdel</string>
 	</dict>

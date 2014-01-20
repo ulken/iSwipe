@@ -78,7 +78,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>gemål</string>
+		<string>gemal</string>
 		<key>Word</key>
 		<string>gemål</string>
 	</dict>
@@ -118,7 +118,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>geniknöl</string>
+		<string>geniknol</string>
 		<key>Word</key>
 		<string>geniknöl</string>
 	</dict>
@@ -126,7 +126,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>genmäl</string>
+		<string>genmal</string>
 		<key>Word</key>
 		<string>genmäl</string>
 	</dict>
@@ -150,7 +150,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>gesäll</string>
+		<string>gesall</string>
 		<key>Word</key>
 		<string>gesäll</string>
 	</dict>
@@ -166,7 +166,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>giftermål</string>
+		<string>giftermal</string>
 		<key>Word</key>
 		<string>giftermål</string>
 	</dict>
@@ -198,7 +198,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>gjörwell</string>
+		<string>gjorwell</string>
 		<key>Word</key>
 		<string>Gjörwell</string>
 	</dict>
@@ -230,7 +230,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>gnäll</string>
+		<string>gnall</string>
 		<key>Word</key>
 		<string>gnäll</string>
 	</dict>
@@ -238,7 +238,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>godkväll</string>
+		<string>godkvall</string>
 		<key>Word</key>
 		<string>godkväll</string>
 	</dict>
@@ -294,7 +294,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>grahamsmjöl</string>
+		<string>grahamsmjol</string>
 		<key>Word</key>
 		<string>grahamsmjöl</string>
 	</dict>
@@ -310,7 +310,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>gravbål</string>
+		<string>gravbal</string>
 		<key>Word</key>
 		<string>gravbål</string>
 	</dict>
@@ -390,7 +390,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>gräddfil</string>
+		<string>graddfil</string>
 		<key>Word</key>
 		<string>gräddfil</string>
 	</dict>
@@ -398,7 +398,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>gräl</string>
+		<string>gral</string>
 		<key>Word</key>
 		<string>gräl</string>
 	</dict>
@@ -406,7 +406,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>gräll</string>
+		<string>grall</string>
 		<key>Word</key>
 		<string>gräll</string>
 	</dict>
@@ -414,7 +414,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>gränsfall</string>
+		<string>gransfall</string>
 		<key>Word</key>
 		<string>gränsfall</string>
 	</dict>
@@ -422,7 +422,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>gråfäll</string>
+		<string>grafall</string>
 		<key>Word</key>
 		<string>Gråfäll</string>
 	</dict>
@@ -430,7 +430,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>gråkall</string>
+		<string>grakall</string>
 		<key>Word</key>
 		<string>gråkall</string>
 	</dict>
@@ -438,7 +438,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>grünthal</string>
+		<string>grunthal</string>
 		<key>Word</key>
 		<string>Grünthal</string>
 	</dict>
@@ -462,7 +462,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>guldföremål</string>
+		<string>guldforemal</string>
 		<key>Word</key>
 		<string>guldföremål</string>
 	</dict>
@@ -486,7 +486,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>gummistövel</string>
+		<string>gummistovel</string>
 		<key>Word</key>
 		<string>gummistövel</string>
 	</dict>
@@ -558,7 +558,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>gäl</string>
+		<string>gal</string>
 		<key>Word</key>
 		<string>gäl</string>
 	</dict>
@@ -566,7 +566,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>gäll</string>
+		<string>gall</string>
 		<key>Word</key>
 		<string>gäll</string>
 	</dict>
@@ -574,7 +574,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>gåskarl</string>
+		<string>gaskarl</string>
 		<key>Word</key>
 		<string>gåskarl</string>
 	</dict>
@@ -582,7 +582,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>gåtfull</string>
+		<string>gatfull</string>
 		<key>Word</key>
 		<string>gåtfull</string>
 	</dict>
@@ -590,7 +590,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>gödningsmedel</string>
+		<string>godningsmedel</string>
 		<key>Word</key>
 		<string>gödningsmedel</string>
 	</dict>
@@ -598,7 +598,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>gödsel</string>
+		<string>godsel</string>
 		<key>Word</key>
 		<string>gödsel</string>
 	</dict>
@@ -606,7 +606,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>gödselmedel</string>
+		<string>godselmedel</string>
 		<key>Word</key>
 		<string>gödselmedel</string>
 	</dict>
@@ -614,7 +614,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>göl</string>
+		<string>gol</string>
 		<key>Word</key>
 		<string>göl</string>
 	</dict>
@@ -622,7 +622,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>gördel</string>
+		<string>gordel</string>
 		<key>Word</key>
 		<string>gördel</string>
 	</dict>
@@ -630,7 +630,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>görel</string>
+		<string>gorel</string>
 		<key>Word</key>
 		<string>Görel</string>
 	</dict>
@@ -638,7 +638,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>göromål</string>
+		<string>goromal</string>
 		<key>Word</key>
 		<string>göromål</string>
 	</dict>

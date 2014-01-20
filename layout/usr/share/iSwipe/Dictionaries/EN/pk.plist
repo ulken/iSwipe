@@ -462,7 +462,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>plånbok</string>
+		<string>planbok</string>
 		<key>Word</key>
 		<string>plånbok</string>
 	</dict>
@@ -470,7 +470,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>plåttak</string>
+		<string>plattak</string>
 		<key>Word</key>
 		<string>plåttak</string>
 	</dict>
@@ -574,7 +574,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>populärmusik</string>
+		<string>popularmusik</string>
 		<key>Word</key>
 		<string>populärmusik</string>
 	</dict>
@@ -678,7 +678,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>primärhårddisk</string>
+		<string>primarharddisk</string>
 		<key>Word</key>
 		<string>primärhårddisk</string>
 	</dict>
@@ -734,7 +734,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>programmeringsspråk</string>
+		<string>programmeringssprak</string>
 		<key>Word</key>
 		<string>programmeringsspråk</string>
 	</dict>
@@ -742,7 +742,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>programspråk</string>
+		<string>programsprak</string>
 		<key>Word</key>
 		<string>programspråk</string>
 	</dict>
@@ -926,7 +926,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>purjolök</string>
+		<string>purjolok</string>
 		<key>Word</key>
 		<string>purjolök</string>
 	</dict>
@@ -934,7 +934,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>pågick</string>
+		<string>pagick</string>
 		<key>Word</key>
 		<string>pågick</string>
 	</dict>
@@ -942,7 +942,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>påsk</string>
+		<string>pask</string>
 		<key>Word</key>
 		<string>påsk</string>
 	</dict>
@@ -950,7 +950,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>påskalavik</string>
+		<string>paskalavik</string>
 		<key>Word</key>
 		<string>Påskalavik</string>
 	</dict>

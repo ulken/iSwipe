@@ -182,7 +182,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>plågeri</string>
+		<string>plageri</string>
 		<key>Word</key>
 		<string>plågeri</string>
 	</dict>
@@ -230,7 +230,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>porträttmåleri</string>
+		<string>portrattmaleri</string>
 		<key>Word</key>
 		<string>porträttmåleri</string>
 	</dict>
@@ -294,7 +294,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>pudasjärvi</string>
+		<string>pudasjarvi</string>
 		<key>Word</key>
 		<string>Pudasjärvi</string>
 	</dict>

@@ -54,7 +54,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>redigeringsförlopp</string>
+		<string>redigeringsforlopp</string>
 		<key>Word</key>
 		<string>redigeringsförlopp</string>
 	</dict>
@@ -102,7 +102,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ressällskap</string>
+		<string>ressallskap</string>
 		<key>Word</key>
 		<string>ressällskap</string>
 	</dict>
@@ -174,7 +174,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>räkenskap</string>
+		<string>rakenskap</string>
 		<key>Word</key>
 		<string>räkenskap</string>
 	</dict>
@@ -182,7 +182,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>röttorp</string>
+		<string>rottorp</string>
 		<key>Word</key>
 		<string>Röttorp</string>
 	</dict>

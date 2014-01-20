@@ -14,7 +14,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>umgängesspråk</string>
+		<string>umgangessprak</string>
 		<key>Word</key>
 		<string>umgängesspråk</string>
 	</dict>
@@ -54,7 +54,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>underströk</string>
+		<string>understrok</string>
 		<key>Word</key>
 		<string>underströk</string>
 	</dict>
@@ -62,7 +62,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>undersök</string>
+		<string>undersok</string>
 		<key>Word</key>
 		<string>undersök</string>
 	</dict>
@@ -86,7 +86,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>undervisningsspråk</string>
+		<string>undervisningssprak</string>
 		<key>Word</key>
 		<string>undervisningsspråk</string>
 	</dict>
@@ -150,7 +150,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>uppdök</string>
+		<string>uppdok</string>
 		<key>Word</key>
 		<string>uppdök</string>
 	</dict>
@@ -206,7 +206,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>uppsök</string>
+		<string>uppsok</string>
 		<key>Word</key>
 		<string>uppsök</string>
 	</dict>
@@ -214,7 +214,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>upptäck</string>
+		<string>upptack</string>
 		<key>Word</key>
 		<string>upptäck</string>
 	</dict>
@@ -222,7 +222,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>uppväck</string>
+		<string>uppvack</string>
 		<key>Word</key>
 		<string>uppväck</string>
 	</dict>
@@ -254,7 +254,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>urspråk</string>
+		<string>ursprak</string>
 		<key>Word</key>
 		<string>urspråk</string>
 	</dict>
@@ -310,7 +310,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>utländsk</string>
+		<string>utlandsk</string>
 		<key>Word</key>
 		<string>utländsk</string>
 	</dict>
@@ -318,7 +318,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>utmärk</string>
+		<string>utmark</string>
 		<key>Word</key>
 		<string>utmärk</string>
 	</dict>
@@ -366,7 +366,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>utsläck</string>
+		<string>utslack</string>
 		<key>Word</key>
 		<string>utsläck</string>
 	</dict>
@@ -374,7 +374,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>utsträck</string>
+		<string>utstrack</string>
 		<key>Word</key>
 		<string>utsträck</string>
 	</dict>
@@ -382,7 +382,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>utsök</string>
+		<string>utsok</string>
 		<key>Word</key>
 		<string>utsök</string>
 	</dict>
@@ -390,7 +390,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>utsökningsbalk</string>
+		<string>utsokningsbalk</string>
 		<key>Word</key>
 		<string>utsökningsbalk</string>
 	</dict>
@@ -406,7 +406,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>uttänk</string>
+		<string>uttank</string>
 		<key>Word</key>
 		<string>uttänk</string>
 	</dict>

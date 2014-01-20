@@ -278,7 +278,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>riktningsbestäm</string>
+		<string>riktningsbestam</string>
 		<key>Word</key>
 		<string>riktningsbestäm</string>
 	</dict>
@@ -406,7 +406,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>räkneprogram</string>
+		<string>rakneprogram</string>
 		<key>Word</key>
 		<string>räkneprogram</string>
 	</dict>
@@ -414,7 +414,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rättfram</string>
+		<string>rattfram</string>
 		<key>Word</key>
 		<string>rättfram</string>
 	</dict>
@@ -422,7 +422,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rättssystem</string>
+		<string>rattssystem</string>
 		<key>Word</key>
 		<string>rättssystem</string>
 	</dict>
@@ -430,7 +430,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rättstavningsprogram</string>
+		<string>rattstavningsprogram</string>
 		<key>Word</key>
 		<string>rättstavningsprogram</string>
 	</dict>
@@ -438,7 +438,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rönnblom</string>
+		<string>ronnblom</string>
 		<key>Word</key>
 		<string>Rönnblom</string>
 	</dict>
@@ -446,7 +446,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rösträttsreform</string>
+		<string>rostrattsreform</string>
 		<key>Word</key>
 		<string>rösträttsreform</string>
 	</dict>

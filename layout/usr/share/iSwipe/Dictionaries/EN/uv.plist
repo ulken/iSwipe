@@ -22,7 +22,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>undergräv</string>
+		<string>undergrav</string>
 		<key>Word</key>
 		<string>undergräv</string>
 	</dict>
@@ -54,7 +54,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>upphäv</string>
+		<string>upphav</string>
 		<key>Word</key>
 		<string>upphäv</string>
 	</dict>
@@ -126,7 +126,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>utkräv</string>
+		<string>utkrav</string>
 		<key>Word</key>
 		<string>utkräv</string>
 	</dict>

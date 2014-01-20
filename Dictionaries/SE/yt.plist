@@ -190,7 +190,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>yrfät</string>
+		<string>yrfat</string>
 		<key>Word</key>
 		<string>yrfät</string>
 	</dict>
@@ -230,7 +230,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>yrkesmässigt</string>
+		<string>yrkesmassigt</string>
 		<key>Word</key>
 		<string>yrkesmässigt</string>
 	</dict>
@@ -238,7 +238,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>yrkesområdet</string>
+		<string>yrkesomradet</string>
 		<key>Word</key>
 		<string>yrkesområdet</string>
 	</dict>
@@ -310,7 +310,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ytjämnhet</string>
+		<string>ytjamnhet</string>
 		<key>Word</key>
 		<string>ytjämnhet</string>
 	</dict>
@@ -342,7 +342,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ytmått</string>
+		<string>ytmatt</string>
 		<key>Word</key>
 		<string>ytmått</string>
 	</dict>
@@ -350,7 +350,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ytmåttet</string>
+		<string>ytmattet</string>
 		<key>Word</key>
 		<string>ytmåttet</string>
 	</dict>
@@ -366,7 +366,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ytterblomfjället</string>
+		<string>ytterblomfjallet</string>
 		<key>Word</key>
 		<string>ytterblomfjället</string>
 	</dict>

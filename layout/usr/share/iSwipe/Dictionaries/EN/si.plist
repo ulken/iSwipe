@@ -206,7 +206,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>självbiografi</string>
+		<string>sjalvbiografi</string>
 		<key>Word</key>
 		<string>självbiografi</string>
 	</dict>
@@ -294,7 +294,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>slöseri</string>
+		<string>sloseri</string>
 		<key>Word</key>
 		<string>slöseri</string>
 	</dict>
@@ -310,7 +310,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>smärtfri</string>
+		<string>smartfri</string>
 		<key>Word</key>
 		<string>smärtfri</string>
 	</dict>
@@ -414,7 +414,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>språkteknologi</string>
+		<string>sprakteknologi</string>
 		<key>Word</key>
 		<string>språkteknologi</string>
 	</dict>
@@ -438,7 +438,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>statsförräderi</string>
+		<string>statsforraderi</string>
 		<key>Word</key>
 		<string>statsförräderi</string>
 	</dict>
@@ -486,7 +486,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>svärmeri</string>
+		<string>svarmeri</string>
 		<key>Word</key>
 		<string>svärmeri</string>
 	</dict>
@@ -526,7 +526,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>säteri</string>
+		<string>sateri</string>
 		<key>Word</key>
 		<string>säteri</string>
 	</dict>

@@ -94,7 +94,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>yrhättor</string>
+		<string>yrhattor</string>
 		<key>Word</key>
 		<string>yrhättor</string>
 	</dict>
@@ -174,7 +174,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ytfärger</string>
+		<string>ytfarger</string>
 		<key>Word</key>
 		<string>ytfärger</string>
 	</dict>
@@ -198,7 +198,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ytterdörr</string>
+		<string>ytterdorr</string>
 		<key>Word</key>
 		<string>ytterdörr</string>
 	</dict>
@@ -206,7 +206,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ytterdörrar</string>
+		<string>ytterdorrar</string>
 		<key>Word</key>
 		<string>ytterdörrar</string>
 	</dict>
@@ -214,7 +214,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ytterkläder</string>
+		<string>ytterklader</string>
 		<key>Word</key>
 		<string>ytterkläder</string>
 	</dict>
@@ -238,7 +238,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ytterväggar</string>
+		<string>yttervaggar</string>
 		<key>Word</key>
 		<string>ytterväggar</string>
 	</dict>

@@ -22,7 +22,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>wallenbergsfären</string>
+		<string>wallenbergsfaren</string>
 		<key>Word</key>
 		<string>Wallenbergsfären</string>
 	</dict>
@@ -102,7 +102,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>webbfrågan</string>
+		<string>webbfragan</string>
 		<key>Word</key>
 		<string>webbfrågan</string>
 	</dict>
@@ -110,7 +110,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>webbgränssnitten</string>
+		<string>webbgranssnitten</string>
 		<key>Word</key>
 		<string>webbgränssnitten</string>
 	</dict>
@@ -142,7 +142,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>webbläsaren</string>
+		<string>webblasaren</string>
 		<key>Word</key>
 		<string>webbläsaren</string>
 	</dict>
@@ -158,7 +158,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>webbmastertjänsten</string>
+		<string>webbmastertjansten</string>
 		<key>Word</key>
 		<string>webbmastertjänsten</string>
 	</dict>
@@ -214,7 +214,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>webbredaktören</string>
+		<string>webbredaktoren</string>
 		<key>Word</key>
 		<string>webbredaktören</string>
 	</dict>
@@ -278,7 +278,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>webbsöktjänsten</string>
+		<string>webbsoktjansten</string>
 		<key>Word</key>
 		<string>webbsöktjänsten</string>
 	</dict>
@@ -294,7 +294,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>webbtjänsten</string>
+		<string>webbtjansten</string>
 		<key>Word</key>
 		<string>webbtjänsten</string>
 	</dict>
@@ -310,7 +310,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>webbyrån</string>
+		<string>webbyran</string>
 		<key>Word</key>
 		<string>webbyrån</string>
 	</dict>
@@ -350,7 +350,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>wessén</string>
+		<string>wessen</string>
 		<key>Word</key>
 		<string>Wessén</string>
 	</dict>
@@ -502,7 +502,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>wikströmen</string>
+		<string>wikstromen</string>
 		<key>Word</key>
 		<string>Wikströmen</string>
 	</dict>
@@ -606,7 +606,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>wirsén</string>
+		<string>wirsen</string>
 		<key>Word</key>
 		<string>Wirsén</string>
 	</dict>
@@ -670,7 +670,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>wåhlin</string>
+		<string>wahlin</string>
 		<key>Word</key>
 		<string>Wåhlin</string>
 	</dict>

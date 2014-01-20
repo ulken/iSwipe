@@ -62,7 +62,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>lantmäteriverk</string>
+		<string>lantmateriverk</string>
 		<key>Word</key>
 		<string>lantmäteriverk</string>
 	</dict>
@@ -70,7 +70,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>lappländsk</string>
+		<string>lapplandsk</string>
 		<key>Word</key>
 		<string>lappländsk</string>
 	</dict>
@@ -190,7 +190,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>lilliehöök</string>
+		<string>lilliehook</string>
 		<key>Word</key>
 		<string>Lilliehöök</string>
 	</dict>
@@ -206,7 +206,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>lindbäck</string>
+		<string>lindback</string>
 		<key>Word</key>
 		<string>Lindbäck</string>
 	</dict>
@@ -278,7 +278,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>livländsk</string>
+		<string>livlandsk</string>
 		<key>Word</key>
 		<string>livländsk</string>
 	</dict>
@@ -302,7 +302,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ljugarbänk</string>
+		<string>ljugarbank</string>
 		<key>Word</key>
 		<string>ljugarbänk</string>
 	</dict>
@@ -454,7 +454,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>läck</string>
+		<string>lack</string>
 		<key>Word</key>
 		<string>läck</string>
 	</dict>
@@ -462,7 +462,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>läk</string>
+		<string>lak</string>
 		<key>Word</key>
 		<string>läk</string>
 	</dict>
@@ -470,7 +470,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>länk</string>
+		<string>lank</string>
 		<key>Word</key>
 		<string>länk</string>
 	</dict>
@@ -478,7 +478,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>lärobok</string>
+		<string>larobok</string>
 		<key>Word</key>
 		<string>lärobok</string>
 	</dict>
@@ -486,7 +486,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>lärorik</string>
+		<string>larorik</string>
 		<key>Word</key>
 		<string>lärorik</string>
 	</dict>
@@ -494,7 +494,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>läroverk</string>
+		<string>laroverk</string>
 		<key>Word</key>
 		<string>läroverk</string>
 	</dict>
@@ -502,7 +502,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>läsebok</string>
+		<string>lasebok</string>
 		<key>Word</key>
 		<string>läsebok</string>
 	</dict>
@@ -510,7 +510,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>läsk</string>
+		<string>lask</string>
 		<key>Word</key>
 		<string>läsk</string>
 	</dict>
@@ -518,7 +518,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>läskeblask</string>
+		<string>laskeblask</string>
 		<key>Word</key>
 		<string>läskeblask</string>
 	</dict>
@@ -526,7 +526,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>läskedryck</string>
+		<string>laskedryck</string>
 		<key>Word</key>
 		<string>läskedryck</string>
 	</dict>
@@ -534,7 +534,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>lågtryck</string>
+		<string>lagtryck</string>
 		<key>Word</key>
 		<string>lågtryck</string>
 	</dict>
@@ -542,7 +542,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>långträsk</string>
+		<string>langtrask</string>
 		<key>Word</key>
 		<string>Långträsk</string>
 	</dict>
@@ -550,7 +550,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>lök</string>
+		<string>lok</string>
 		<key>Word</key>
 		<string>lök</string>
 	</dict>
@@ -558,7 +558,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>lömsk</string>
+		<string>lomsk</string>
 		<key>Word</key>
 		<string>lömsk</string>
 	</dict>
@@ -566,7 +566,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>lönestatistik</string>
+		<string>lonestatistik</string>
 		<key>Word</key>
 		<string>lönestatistik</string>
 	</dict>
@@ -574,7 +574,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>lövrik</string>
+		<string>lovrik</string>
 		<key>Word</key>
 		<string>lövrik</string>
 	</dict>
@@ -582,7 +582,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>lübeck</string>
+		<string>lubeck</string>
 		<key>Word</key>
 		<string>Lübeck</string>
 	</dict>

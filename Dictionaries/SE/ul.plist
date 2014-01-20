@@ -22,7 +22,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>umgäll</string>
+		<string>umgall</string>
 		<key>Word</key>
 		<string>umgäll</string>
 	</dict>
@@ -38,7 +38,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>undanhåll</string>
+		<string>undanhall</string>
 		<key>Word</key>
 		<string>undanhåll</string>
 	</dict>
@@ -46,7 +46,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>undanhöll</string>
+		<string>undanholl</string>
 		<key>Word</key>
 		<string>undanhöll</string>
 	</dict>
@@ -70,7 +70,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>underhåll</string>
+		<string>underhall</string>
 		<key>Word</key>
 		<string>underhåll</string>
 	</dict>
@@ -78,7 +78,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>underhöll</string>
+		<string>underholl</string>
 		<key>Word</key>
 		<string>underhöll</string>
 	</dict>
@@ -110,7 +110,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>undföll</string>
+		<string>undfoll</string>
 		<key>Word</key>
 		<string>undföll</string>
 	</dict>
@@ -118,7 +118,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ungdjävel</string>
+		<string>ungdjavel</string>
 		<key>Word</key>
 		<string>ungdjävel</string>
 	</dict>
@@ -166,7 +166,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>uppehåll</string>
+		<string>uppehall</string>
 		<key>Word</key>
 		<string>uppehåll</string>
 	</dict>
@@ -174,7 +174,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>uppehöll</string>
+		<string>uppeholl</string>
 		<key>Word</key>
 		<string>uppehöll</string>
 	</dict>
@@ -190,7 +190,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>upphovsrättssymbol</string>
+		<string>upphovsrattssymbol</string>
 		<key>Word</key>
 		<string>upphovsrättssymbol</string>
 	</dict>
@@ -198,7 +198,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>upprätthåll</string>
+		<string>uppratthall</string>
 		<key>Word</key>
 		<string>upprätthåll</string>
 	</dict>
@@ -206,7 +206,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>upprätthöll</string>
+		<string>upprattholl</string>
 		<key>Word</key>
 		<string>upprätthöll</string>
 	</dict>
@@ -222,7 +222,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>uppställ</string>
+		<string>uppstall</string>
 		<key>Word</key>
 		<string>uppställ</string>
 	</dict>
@@ -310,7 +310,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>utflyktsmål</string>
+		<string>utflyktsmal</string>
 		<key>Word</key>
 		<string>utflyktsmål</string>
 	</dict>
@@ -334,7 +334,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>utföll</string>
+		<string>utfoll</string>
 		<key>Word</key>
 		<string>utföll</string>
 	</dict>
@@ -358,7 +358,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>utsläppshandel</string>
+		<string>utslappshandel</string>
 		<key>Word</key>
 		<string>utsläppshandel</string>
 	</dict>
@@ -366,7 +366,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>utsläppsregel</string>
+		<string>utslappsregel</string>
 		<key>Word</key>
 		<string>utsläppsregel</string>
 	</dict>
@@ -390,7 +390,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>utställ</string>
+		<string>utstall</string>
 		<key>Word</key>
 		<string>utställ</string>
 	</dict>

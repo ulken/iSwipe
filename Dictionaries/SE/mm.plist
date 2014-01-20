@@ -46,7 +46,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>malmström</string>
+		<string>malmstrom</string>
 		<key>Word</key>
 		<string>Malmström</string>
 	</dict>
@@ -54,7 +54,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>malmögymnasium</string>
+		<string>malmogymnasium</string>
 		<key>Word</key>
 		<string>Malmögymnasium</string>
 	</dict>
@@ -78,7 +78,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>mardröm</string>
+		<string>mardrom</string>
 		<key>Word</key>
 		<string>mardröm</string>
 	</dict>
@@ -126,7 +126,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>maskinöversättningssystem</string>
+		<string>maskinoversattningssystem</string>
 		<key>Word</key>
 		<string>maskinöversättningssystem</string>
 	</dict>
@@ -270,7 +270,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>miljöproblem</string>
+		<string>miljoproblem</string>
 		<key>Word</key>
 		<string>miljöproblem</string>
 	</dict>
@@ -326,7 +326,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>misstänksam</string>
+		<string>misstanksam</string>
 		<key>Word</key>
 		<string>misstänksam</string>
 	</dict>
@@ -454,7 +454,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>märkesreklam</string>
+		<string>markesreklam</string>
 		<key>Word</key>
 		<string>märkesreklam</string>
 	</dict>
@@ -462,7 +462,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>måttsystem</string>
+		<string>mattsystem</string>
 		<key>Word</key>
 		<string>måttsystem</string>
 	</dict>
@@ -470,7 +470,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>möbelkram</string>
+		<string>mobelkram</string>
 		<key>Word</key>
 		<string>möbelkram</string>
 	</dict>
@@ -478,7 +478,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>mödosam</string>
+		<string>modosam</string>
 		<key>Word</key>
 		<string>mödosam</string>
 	</dict>
@@ -486,7 +486,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>mörkrum</string>
+		<string>morkrum</string>
 		<key>Word</key>
 		<string>mörkrum</string>
 	</dict>
@@ -494,7 +494,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>mörrum</string>
+		<string>morrum</string>
 		<key>Word</key>
 		<string>Mörrum</string>
 	</dict>
@@ -502,7 +502,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>mösskärm</string>
+		<string>mosskarm</string>
 		<key>Word</key>
 		<string>mösskärm</string>
 	</dict>

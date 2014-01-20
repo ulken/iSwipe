@@ -94,7 +94,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tandläkarstol</string>
+		<string>tandlakarstol</string>
 		<key>Word</key>
 		<string>tandläkarstol</string>
 	</dict>
@@ -182,7 +182,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>telefonväxel</string>
+		<string>telefonvaxel</string>
 		<key>Word</key>
 		<string>telefonväxel</string>
 	</dict>
@@ -238,7 +238,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>terminalväxel</string>
+		<string>terminalvaxel</string>
 		<key>Word</key>
 		<string>terminalväxel</string>
 	</dict>
@@ -302,7 +302,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>textinnehåll</string>
+		<string>textinnehall</string>
 		<key>Word</key>
 		<string>textinnehåll</string>
 	</dict>
@@ -366,7 +366,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tillfredsställ</string>
+		<string>tillfredsstall</string>
 		<key>Word</key>
 		<string>tillfredsställ</string>
 	</dict>
@@ -374,7 +374,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tillföll</string>
+		<string>tillfoll</string>
 		<key>Word</key>
 		<string>tillföll</string>
 	</dict>
@@ -382,7 +382,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tillförsel</string>
+		<string>tillforsel</string>
 		<key>Word</key>
 		<string>tillförsel</string>
 	</dict>
@@ -390,7 +390,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tillhandahåll</string>
+		<string>tillhandahall</string>
 		<key>Word</key>
 		<string>tillhandahåll</string>
 	</dict>
@@ -398,7 +398,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tillhandahöll</string>
+		<string>tillhandaholl</string>
 		<key>Word</key>
 		<string>tillhandahöll</string>
 	</dict>
@@ -406,7 +406,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tillhåll</string>
+		<string>tillhall</string>
 		<key>Word</key>
 		<string>tillhåll</string>
 	</dict>
@@ -494,7 +494,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>titthål</string>
+		<string>titthal</string>
 		<key>Word</key>
 		<string>titthål</string>
 	</dict>
@@ -542,7 +542,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tjäll</string>
+		<string>tjall</string>
 		<key>Word</key>
 		<string>tjäll</string>
 	</dict>
@@ -550,7 +550,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tjänstefel</string>
+		<string>tjanstefel</string>
 		<key>Word</key>
 		<string>tjänstefel</string>
 	</dict>
@@ -558,7 +558,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tjänstemannaroll</string>
+		<string>tjanstemannaroll</string>
 		<key>Word</key>
 		<string>tjänstemannaroll</string>
 	</dict>
@@ -590,7 +590,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tomfjäll</string>
+		<string>tomfjall</string>
 		<key>Word</key>
 		<string>tomfjäll</string>
 	</dict>
@@ -662,7 +662,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>trafikmål</string>
+		<string>trafikmal</string>
 		<key>Word</key>
 		<string>trafikmål</string>
 	</dict>
@@ -678,7 +678,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>transaktionskrångel</string>
+		<string>transaktionskrangel</string>
 		<key>Word</key>
 		<string>transaktionskrångel</string>
 	</dict>
@@ -782,7 +782,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>trotjänareideal</string>
+		<string>trotjanareideal</string>
 		<key>Word</key>
 		<string>trotjänareideal</string>
 	</dict>
@@ -822,7 +822,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>träkarl</string>
+		<string>trakarl</string>
 		<key>Word</key>
 		<string>träkarl</string>
 	</dict>
@@ -830,7 +830,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>träl</string>
+		<string>tral</string>
 		<key>Word</key>
 		<string>träl</string>
 	</dict>
@@ -838,7 +838,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>trängsel</string>
+		<string>trangsel</string>
 		<key>Word</key>
 		<string>trängsel</string>
 	</dict>
@@ -846,7 +846,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>trästol</string>
+		<string>trastol</string>
 		<key>Word</key>
 		<string>trästol</string>
 	</dict>
@@ -854,7 +854,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>trådsmal</string>
+		<string>tradsmal</string>
 		<key>Word</key>
 		<string>trådsmal</string>
 	</dict>
@@ -862,7 +862,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>trål</string>
+		<string>tral</string>
 		<key>Word</key>
 		<string>trål</string>
 	</dict>
@@ -870,7 +870,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>trångmål</string>
+		<string>trangmal</string>
 		<key>Word</key>
 		<string>trångmål</string>
 	</dict>
@@ -878,7 +878,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tröskel</string>
+		<string>troskel</string>
 		<key>Word</key>
 		<string>tröskel</string>
 	</dict>
@@ -910,7 +910,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tungomål</string>
+		<string>tungomal</string>
 		<key>Word</key>
 		<string>tungomål</string>
 	</dict>
@@ -918,7 +918,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tungomålstal</string>
+		<string>tungomalstal</string>
 		<key>Word</key>
 		<string>tungomålstal</string>
 	</dict>
@@ -998,7 +998,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tvistemål</string>
+		<string>tvistemal</string>
 		<key>Word</key>
 		<string>tvistemål</string>
 	</dict>
@@ -1014,7 +1014,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tvättmedel</string>
+		<string>tvattmedel</string>
 		<key>Word</key>
 		<string>tvättmedel</string>
 	</dict>
@@ -1022,7 +1022,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tvådimensionell</string>
+		<string>tvadimensionell</string>
 		<key>Word</key>
 		<string>tvådimensionell</string>
 	</dict>
@@ -1030,7 +1030,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tvål</string>
+		<string>tval</string>
 		<key>Word</key>
 		<string>tvål</string>
 	</dict>
@@ -1062,7 +1062,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>täckmantel</string>
+		<string>tackmantel</string>
 		<key>Word</key>
 		<string>täckmantel</string>
 	</dict>
@@ -1070,7 +1070,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tågtidtabell</string>
+		<string>tagtidtabell</string>
 		<key>Word</key>
 		<string>tågtidtabell</string>
 	</dict>
@@ -1078,7 +1078,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tål</string>
+		<string>tal</string>
 		<key>Word</key>
 		<string>tål</string>
 	</dict>

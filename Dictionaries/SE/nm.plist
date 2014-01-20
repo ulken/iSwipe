@@ -102,7 +102,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>nedräkningsmekanism</string>
+		<string>nedrakningsmekanism</string>
 		<key>Word</key>
 		<string>nedräkningsmekanism</string>
 	</dict>
@@ -110,7 +110,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>nedstäm</string>
+		<string>nedstam</string>
 		<key>Word</key>
 		<string>nedstäm</string>
 	</dict>
@@ -198,7 +198,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>nordström</string>
+		<string>nordstrom</string>
 		<key>Word</key>
 		<string>Nordström</string>
 	</dict>
@@ -270,7 +270,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>nyström</string>
+		<string>nystrom</string>
 		<key>Word</key>
 		<string>Nyström</string>
 	</dict>
@@ -278,7 +278,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>nätverksdiagram</string>
+		<string>natverksdiagram</string>
 		<key>Word</key>
 		<string>nätverksdiagram</string>
 	</dict>

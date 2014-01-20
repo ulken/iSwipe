@@ -110,7 +110,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bilkö</string>
+		<string>bilko</string>
 		<key>Word</key>
 		<string>bilkö</string>
 	</dict>
@@ -150,7 +150,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>biskops-arnö</string>
+		<string>biskops-arno</string>
 		<key>Word</key>
 		<string>Biskops-Arnö</string>
 	</dict>
@@ -166,7 +166,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bjälbo</string>
+		<string>bjalbo</string>
 		<key>Word</key>
 		<string>Bjälbo</string>
 	</dict>
@@ -174,7 +174,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>björkö</string>
+		<string>bjorko</string>
 		<key>Word</key>
 		<string>Björkö</string>
 	</dict>
@@ -182,7 +182,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>björnemo</string>
+		<string>bjornemo</string>
 		<key>Word</key>
 		<string>Björnemo</string>
 	</dict>
@@ -230,7 +230,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bostadskö</string>
+		<string>bostadsko</string>
 		<key>Word</key>
 		<string>bostadskö</string>
 	</dict>
@@ -278,7 +278,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>brändö</string>
+		<string>brando</string>
 		<key>Word</key>
 		<string>Brändö</string>
 	</dict>
@@ -286,7 +286,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bränslekonto</string>
+		<string>branslekonto</string>
 		<key>Word</key>
 		<string>bränslekonto</string>
 	</dict>
@@ -310,7 +310,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>busfrö</string>
+		<string>busfro</string>
 		<key>Word</key>
 		<string>busfrö</string>
 	</dict>

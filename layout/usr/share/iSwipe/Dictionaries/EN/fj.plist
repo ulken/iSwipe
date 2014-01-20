@@ -38,7 +38,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>frambesvärj</string>
+		<string>frambesvarj</string>
 		<key>Word</key>
 		<string>frambesvärj</string>
 	</dict>
@@ -54,7 +54,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>fullfölj</string>
+		<string>fullfolj</string>
 		<key>Word</key>
 		<string>fullfölj</string>
 	</dict>
@@ -62,7 +62,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>fåtölj</string>
+		<string>fatolj</string>
 		<key>Word</key>
 		<string>fåtölj</string>
 	</dict>
@@ -70,7 +70,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>följ</string>
+		<string>folj</string>
 		<key>Word</key>
 		<string>följ</string>
 	</dict>
@@ -78,7 +78,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>fördröj</string>
+		<string>fordroj</string>
 		<key>Word</key>
 		<string>fördröj</string>
 	</dict>
@@ -86,7 +86,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>fördölj</string>
+		<string>fordolj</string>
 		<key>Word</key>
 		<string>fördölj</string>
 	</dict>
@@ -94,7 +94,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>förfölj</string>
+		<string>forfolj</string>
 		<key>Word</key>
 		<string>förfölj</string>
 	</dict>
@@ -102,7 +102,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>förgätmigej</string>
+		<string>forgatmigej</string>
 		<key>Word</key>
 		<string>förgätmigej</string>
 	</dict>
@@ -110,7 +110,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>förhöj</string>
+		<string>forhoj</string>
 		<key>Word</key>
 		<string>förhöj</string>
 	</dict>
@@ -118,7 +118,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>förnöj</string>
+		<string>fornoj</string>
 		<key>Word</key>
 		<string>förnöj</string>
 	</dict>
@@ -126,7 +126,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>försälj</string>
+		<string>forsalj</string>
 		<key>Word</key>
 		<string>försälj</string>
 	</dict>
@@ -134,7 +134,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>försörj</string>
+		<string>forsorj</string>
 		<key>Word</key>
 		<string>försörj</string>
 	</dict>
@@ -142,7 +142,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>förtalskampanj</string>
+		<string>fortalskampanj</string>
 		<key>Word</key>
 		<string>förtalskampanj</string>
 	</dict>
@@ -150,7 +150,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>förtälj</string>
+		<string>fortalj</string>
 		<key>Word</key>
 		<string>förtälj</string>
 	</dict>
@@ -158,7 +158,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>förtöj</string>
+		<string>fortoj</string>
 		<key>Word</key>
 		<string>förtöj</string>
 	</dict>

@@ -30,7 +30,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>webbläsare</string>
+		<string>webblasare</string>
 		<key>Word</key>
 		<string>webbläsare</string>
 	</dict>
@@ -86,7 +86,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>wümme</string>
+		<string>wumme</string>
 		<key>Word</key>
 		<string>Wümme</string>
 	</dict>

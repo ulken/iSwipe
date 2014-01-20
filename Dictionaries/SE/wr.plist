@@ -62,7 +62,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>webbfrågor</string>
+		<string>webbfragor</string>
 		<key>Word</key>
 		<string>webbfrågor</string>
 	</dict>
@@ -94,7 +94,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>webbmastertjänster</string>
+		<string>webbmastertjanster</string>
 		<key>Word</key>
 		<string>webbmastertjänster</string>
 	</dict>
@@ -126,7 +126,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>webbredaktör</string>
+		<string>webbredaktor</string>
 		<key>Word</key>
 		<string>webbredaktör</string>
 	</dict>
@@ -174,7 +174,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>webbsöktjänster</string>
+		<string>webbsoktjanster</string>
 		<key>Word</key>
 		<string>webbsöktjänster</string>
 	</dict>
@@ -190,7 +190,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>webbtjänster</string>
+		<string>webbtjanster</string>
 		<key>Word</key>
 		<string>webbtjänster</string>
 	</dict>
@@ -198,7 +198,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>webbyråer</string>
+		<string>webbyraer</string>
 		<key>Word</key>
 		<string>webbyråer</string>
 	</dict>

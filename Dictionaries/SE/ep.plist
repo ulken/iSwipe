@@ -46,7 +46,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>entreprenörskap</string>
+		<string>entreprenorskap</string>
 		<key>Word</key>
 		<string>entreprenörskap</string>
 	</dict>
@@ -54,7 +54,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>entreprenörstyp</string>
+		<string>entreprenorstyp</string>
 		<key>Word</key>
 		<string>entreprenörstyp</string>
 	</dict>

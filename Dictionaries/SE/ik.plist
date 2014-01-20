@@ -78,7 +78,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>idérik</string>
+		<string>iderik</string>
 		<key>Word</key>
 		<string>idérik</string>
 	</dict>
@@ -150,7 +150,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>indianspråk</string>
+		<string>indiansprak</string>
 		<key>Word</key>
 		<string>indianspråk</string>
 	</dict>
@@ -238,7 +238,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>innehållsrik</string>
+		<string>innehallsrik</string>
 		<key>Word</key>
 		<string>innehållsrik</string>
 	</dict>
@@ -286,7 +286,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>inskränk</string>
+		<string>inskrank</string>
 		<key>Word</key>
 		<string>inskränk</string>
 	</dict>
@@ -374,7 +374,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>invandrarspråk</string>
+		<string>invandrarsprak</string>
 		<key>Word</key>
 		<string>invandrarspråk</string>
 	</dict>
@@ -382,7 +382,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>invärtesmedicinsk</string>
+		<string>invartesmedicinsk</string>
 		<key>Word</key>
 		<string>invärtesmedicinsk</string>
 	</dict>
@@ -390,7 +390,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ip-nätmask</string>
+		<string>ip-natmask</string>
 		<key>Word</key>
 		<string>IP-nätmask</string>
 	</dict>
@@ -430,7 +430,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>irländsk</string>
+		<string>irlandsk</string>
 		<key>Word</key>
 		<string>irländsk</string>
 	</dict>
@@ -454,7 +454,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>isdn-länk</string>
+		<string>isdn-lank</string>
 		<key>Word</key>
 		<string>ISDN-länk</string>
 	</dict>
@@ -486,7 +486,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>isländsk</string>
+		<string>islandsk</string>
 		<key>Word</key>
 		<string>isländsk</string>
 	</dict>

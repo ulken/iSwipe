@@ -238,7 +238,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>plågsam</string>
+		<string>plagsam</string>
 		<key>Word</key>
 		<string>plågsam</string>
 	</dict>
@@ -430,7 +430,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>pråm</string>
+		<string>pram</string>
 		<key>Word</key>
 		<string>pråm</string>
 	</dict>
@@ -438,7 +438,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>prüm</string>
+		<string>prum</string>
 		<key>Word</key>
 		<string>Prüm</string>
 	</dict>
@@ -486,7 +486,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>pärm</string>
+		<string>parm</string>
 		<key>Word</key>
 		<string>pärm</string>
 	</dict>
@@ -494,7 +494,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>påkom</string>
+		<string>pakom</string>
 		<key>Word</key>
 		<string>påkom</string>
 	</dict>
@@ -502,7 +502,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>påsklamm</string>
+		<string>pasklamm</string>
 		<key>Word</key>
 		<string>påsklamm</string>
 	</dict>

@@ -54,7 +54,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tappström</string>
+		<string>tappstrom</string>
 		<key>Word</key>
 		<string>Tappström</string>
 	</dict>
@@ -158,7 +158,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tft-skärm</string>
+		<string>tft-skarm</string>
 		<key>Word</key>
 		<string>TFT-skärm</string>
 	</dict>
@@ -182,7 +182,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tilldöm</string>
+		<string>tilldom</string>
 		<key>Word</key>
 		<string>tilldöm</string>
 	</dict>
@@ -318,7 +318,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>träldom</string>
+		<string>traldom</string>
 		<key>Word</key>
 		<string>träldom</string>
 	</dict>
@@ -326,7 +326,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>träram</string>
+		<string>traram</string>
 		<key>Word</key>
 		<string>träram</string>
 	</dict>
@@ -334,7 +334,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tröttsam</string>
+		<string>trottsam</string>
 		<key>Word</key>
 		<string>tröttsam</string>
 	</dict>
@@ -414,7 +414,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tvärsigenom</string>
+		<string>tvarsigenom</string>
 		<key>Word</key>
 		<string>tvärsigenom</string>
 	</dict>
@@ -422,7 +422,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tvärtom</string>
+		<string>tvartom</string>
 		<key>Word</key>
 		<string>tvärtom</string>
 	</dict>
@@ -430,7 +430,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tvättrum</string>
+		<string>tvattrum</string>
 		<key>Word</key>
 		<string>tvättrum</string>
 	</dict>
@@ -438,7 +438,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>typsättningsprogram</string>
+		<string>typsattningsprogram</string>
 		<key>Word</key>
 		<string>typsättningsprogram</string>
 	</dict>
@@ -446,7 +446,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>töm</string>
+		<string>tom</string>
 		<key>Word</key>
 		<string>töm</string>
 	</dict>
@@ -454,7 +454,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>törnblom</string>
+		<string>tornblom</string>
 		<key>Word</key>
 		<string>Törnblom</string>
 	</dict>

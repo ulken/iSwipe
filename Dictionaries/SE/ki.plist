@@ -406,7 +406,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kurunmäki</string>
+		<string>kurunmaki</string>
 		<key>Word</key>
 		<string>Kurunmäki</string>
 	</dict>
@@ -430,7 +430,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>känslosvärmeri</string>
+		<string>kanslosvarmeri</string>
 		<key>Word</key>
 		<string>känslosvärmeri</string>
 	</dict>
@@ -438,7 +438,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kätteri</string>
+		<string>katteri</string>
 		<key>Word</key>
 		<string>kätteri</string>
 	</dict>
@@ -446,7 +446,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kåseri</string>
+		<string>kaseri</string>
 		<key>Word</key>
 		<string>kåseri</string>
 	</dict>
@@ -454,7 +454,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>köteori</string>
+		<string>koteori</string>
 		<key>Word</key>
 		<string>köteori</string>
 	</dict>

@@ -102,7 +102,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>varukännedom</string>
+		<string>varukannedom</string>
 		<key>Word</key>
 		<string>varukännedom</string>
 	</dict>
@@ -262,7 +262,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>väntrum</string>
+		<string>vantrum</string>
 		<key>Word</key>
 		<string>väntrum</string>
 	</dict>
@@ -270,7 +270,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>världskommunism</string>
+		<string>varldskommunism</string>
 		<key>Word</key>
 		<string>världskommunism</string>
 	</dict>
@@ -278,7 +278,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>värm</string>
+		<string>varm</string>
 		<key>Word</key>
 		<string>värm</string>
 	</dict>
@@ -286,7 +286,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>värmeproblem</string>
+		<string>varmeproblem</string>
 		<key>Word</key>
 		<string>värmeproblem</string>
 	</dict>
@@ -294,7 +294,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>växelström</string>
+		<string>vaxelstrom</string>
 		<key>Word</key>
 		<string>växelström</string>
 	</dict>
@@ -302,7 +302,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>våldsam</string>
+		<string>valdsam</string>
 		<key>Word</key>
 		<string>våldsam</string>
 	</dict>
@@ -310,7 +310,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>våldsfilm</string>
+		<string>valdsfilm</string>
 		<key>Word</key>
 		<string>våldsfilm</string>
 	</dict>
@@ -318,7 +318,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>våm</string>
+		<string>vam</string>
 		<key>Word</key>
 		<string>våm</string>
 	</dict>
@@ -326,7 +326,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vördsam</string>
+		<string>vordsam</string>
 		<key>Word</key>
 		<string>vördsam</string>
 	</dict>

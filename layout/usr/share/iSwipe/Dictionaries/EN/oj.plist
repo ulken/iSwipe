@@ -22,7 +22,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ombesörj</string>
+		<string>ombesorj</string>
 		<key>Word</key>
 		<string>ombesörj</string>
 	</dict>
@@ -30,7 +30,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>omvändelsekampanj</string>
+		<string>omvandelsekampanj</string>
 		<key>Word</key>
 		<string>omvändelsekampanj</string>
 	</dict>
@@ -38,7 +38,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>överfamilj</string>
+		<string>overfamilj</string>
 		<key>Word</key>
 		<string>överfamilj</string>
 	</dict>
@@ -46,7 +46,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>överskölj</string>
+		<string>overskolj</string>
 		<key>Word</key>
 		<string>överskölj</string>
 	</dict>

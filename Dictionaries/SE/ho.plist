@@ -38,7 +38,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>halvö</string>
+		<string>halvo</string>
 		<key>Word</key>
 		<string>halvö</string>
 	</dict>
@@ -46,7 +46,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hammarö</string>
+		<string>hammaro</string>
 		<key>Word</key>
 		<string>Hammarö</string>
 	</dict>
@@ -62,7 +62,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>helsjö</string>
+		<string>helsjo</string>
 		<key>Word</key>
 		<string>Helsjö</string>
 	</dict>
@@ -134,7 +134,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hämsko</string>
+		<string>hamsko</string>
 		<key>Word</key>
 		<string>hämsko</string>
 	</dict>
@@ -142,7 +142,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hängbro</string>
+		<string>hangbro</string>
 		<key>Word</key>
 		<string>hängbro</string>
 	</dict>
@@ -150,7 +150,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>häverö</string>
+		<string>havero</string>
 		<key>Word</key>
 		<string>Häverö</string>
 	</dict>
@@ -158,7 +158,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>håbo</string>
+		<string>habo</string>
 		<key>Word</key>
 		<string>Håbo</string>
 	</dict>
@@ -166,7 +166,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hö</string>
+		<string>ho</string>
 		<key>Word</key>
 		<string>hö</string>
 	</dict>

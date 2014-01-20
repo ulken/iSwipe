@@ -86,7 +86,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>naturvårdsverk</string>
+		<string>naturvardsverk</string>
 		<key>Word</key>
 		<string>naturvårdsverk</string>
 	</dict>
@@ -102,7 +102,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>nederländsk</string>
+		<string>nederlandsk</string>
 		<key>Word</key>
 		<string>nederländsk</string>
 	</dict>
@@ -110,7 +110,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>nedsänk</string>
+		<string>nedsank</string>
 		<key>Word</key>
 		<string>nedsänk</string>
 	</dict>
@@ -222,7 +222,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>norrländsk</string>
+		<string>norrlandsk</string>
 		<key>Word</key>
 		<string>norrländsk</string>
 	</dict>
@@ -326,7 +326,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>näck</string>
+		<string>nack</string>
 		<key>Word</key>
 		<string>näck</string>
 	</dict>
@@ -334,7 +334,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>näringsrik</string>
+		<string>naringsrik</string>
 		<key>Word</key>
 		<string>näringsrik</string>
 	</dict>
@@ -342,7 +342,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>näsbypark</string>
+		<string>nasbypark</string>
 		<key>Word</key>
 		<string>Näsbypark</string>
 	</dict>
@@ -350,7 +350,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>näsduk</string>
+		<string>nasduk</string>
 		<key>Word</key>
 		<string>näsduk</string>
 	</dict>
@@ -358,7 +358,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>nätmask</string>
+		<string>natmask</string>
 		<key>Word</key>
 		<string>nätmask</string>
 	</dict>
@@ -366,7 +366,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>nätmusik</string>
+		<string>natmusik</string>
 		<key>Word</key>
 		<string>nätmusik</string>
 	</dict>
@@ -374,7 +374,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>nätverk</string>
+		<string>natverk</string>
 		<key>Word</key>
 		<string>nätverk</string>
 	</dict>

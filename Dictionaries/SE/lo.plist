@@ -78,7 +78,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>lidingö</string>
+		<string>lidingo</string>
 		<key>Word</key>
 		<string>Lidingö</string>
 	</dict>
@@ -94,7 +94,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>livsnärvaro</string>
+		<string>livsnarvaro</string>
 		<key>Word</key>
 		<string>livsnärvaro</string>
 	</dict>
@@ -102,7 +102,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ljusterö</string>
+		<string>ljustero</string>
 		<key>Word</key>
 		<string>Ljusterö</string>
 	</dict>
@@ -174,7 +174,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>långbro</string>
+		<string>langbro</string>
 		<key>Word</key>
 		<string>Långbro</string>
 	</dict>
@@ -182,7 +182,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>lövsjö</string>
+		<string>lovsjo</string>
 		<key>Word</key>
 		<string>Lövsjö</string>
 	</dict>

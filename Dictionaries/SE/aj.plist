@@ -70,7 +70,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avböj</string>
+		<string>avboj</string>
 		<key>Word</key>
 		<string>avböj</string>
 	</dict>
@@ -86,7 +86,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avvärj</string>
+		<string>avvarj</string>
 		<key>Word</key>
 		<string>avvärj</string>
 	</dict>
@@ -94,7 +94,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>äppelpaj</string>
+		<string>appelpaj</string>
 		<key>Word</key>
 		<string>äppelpaj</string>
 	</dict>
@@ -102,7 +102,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ånej</string>
+		<string>anej</string>
 		<key>Word</key>
 		<string>ånej</string>
 	</dict>
@@ -110,7 +110,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>åtfölj</string>
+		<string>atfolj</string>
 		<key>Word</key>
 		<string>åtfölj</string>
 	</dict>
@@ -118,7 +118,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>åtskilj</string>
+		<string>atskilj</string>
 		<key>Word</key>
 		<string>åtskilj</string>
 	</dict>

@@ -62,7 +62,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ornö</string>
+		<string>orno</string>
 		<key>Word</key>
 		<string>Ornö</string>
 	</dict>
@@ -102,7 +102,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>öbo</string>
+		<string>obo</string>
 		<key>Word</key>
 		<string>öbo</string>
 	</dict>
@@ -116,7 +116,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>Öckerö</string>
+		<string>Ockero</string>
 		<key>Word</key>
 		<string>Öckerö</string>
 	</dict>
@@ -124,7 +124,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>Örebro</string>
+		<string>Orebro</string>
 		<key>Word</key>
 		<string>Örebro</string>
 	</dict>
@@ -132,7 +132,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>Österbymo</string>
+		<string>Osterbymo</string>
 		<key>Word</key>
 		<string>Österbymo</string>
 	</dict>
@@ -140,7 +140,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>Överijo</string>
+		<string>Overijo</string>
 		<key>Word</key>
 		<string>Överijo</string>
 	</dict>
@@ -154,7 +154,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ö</string>
+		<string>o</string>
 		<key>Word</key>
 		<string>ö</string>
 	</dict>

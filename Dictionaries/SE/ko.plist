@@ -30,7 +30,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>karlsö</string>
+		<string>karlso</string>
 		<key>Word</key>
 		<string>Karlsö</string>
 	</dict>
@@ -78,7 +78,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>klippö</string>
+		<string>klippo</string>
 		<key>Word</key>
 		<string>klippö</string>
 	</dict>
@@ -214,7 +214,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kymmendö</string>
+		<string>kymmendo</string>
 		<key>Word</key>
 		<string>Kymmendö</string>
 	</dict>
@@ -230,7 +230,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kållandsö</string>
+		<string>kallandso</string>
 		<key>Word</key>
 		<string>Kållandsö</string>
 	</dict>
@@ -238,7 +238,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kö</string>
+		<string>ko</string>
 		<key>Word</key>
 		<string>kö</string>
 	</dict>
@@ -246,7 +246,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>köksbro</string>
+		<string>koksbro</string>
 		<key>Word</key>
 		<string>köksbro</string>
 	</dict>

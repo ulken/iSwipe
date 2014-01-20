@@ -198,7 +198,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>meänkieli</string>
+		<string>meankieli</string>
 		<key>Word</key>
 		<string>meänkieli</string>
 	</dict>
@@ -302,7 +302,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>mjärdevi</string>
+		<string>mjardevi</string>
 		<key>Word</key>
 		<string>Mjärdevi</string>
 	</dict>
@@ -318,7 +318,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>molekylärbiologi</string>
+		<string>molekylarbiologi</string>
 		<key>Word</key>
 		<string>molekylärbiologi</string>
 	</dict>
@@ -446,7 +446,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>måleri</string>
+		<string>maleri</string>
 		<key>Word</key>
 		<string>måleri</string>
 	</dict>
@@ -454,7 +454,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>mångsyssleri</string>
+		<string>mangsyssleri</string>
 		<key>Word</key>
 		<string>mångsyssleri</string>
 	</dict>

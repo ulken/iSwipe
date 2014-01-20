@@ -198,7 +198,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>populärvetenskap</string>
+		<string>popularvetenskap</string>
 		<key>Word</key>
 		<string>populärvetenskap</string>
 	</dict>
@@ -286,7 +286,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>prästerskap</string>
+		<string>prasterskap</string>
 		<key>Word</key>
 		<string>prästerskap</string>
 	</dict>
@@ -302,7 +302,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>påhopp</string>
+		<string>pahopp</string>
 		<key>Word</key>
 		<string>påhopp</string>
 	</dict>

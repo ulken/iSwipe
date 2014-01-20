@@ -110,7 +110,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>människoliv</string>
+		<string>manniskoliv</string>
 		<key>Word</key>
 		<string>människoliv</string>
 	</dict>
@@ -118,7 +118,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>månvarv</string>
+		<string>manvarv</string>
 		<key>Word</key>
 		<string>månvarv</string>
 	</dict>

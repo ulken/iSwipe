@@ -46,7 +46,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>skölj</string>
+		<string>skolj</string>
 		<key>Word</key>
 		<string>skölj</string>
 	</dict>
@@ -54,7 +54,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>skönj</string>
+		<string>skonj</string>
 		<key>Word</key>
 		<string>skönj</string>
 	</dict>
@@ -62,7 +62,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>smörj</string>
+		<string>smorj</string>
 		<key>Word</key>
 		<string>smörj</string>
 	</dict>
@@ -70,7 +70,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>snärj</string>
+		<string>snarj</string>
 		<key>Word</key>
 		<string>snärj</string>
 	</dict>
@@ -86,7 +86,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>språkfamilj</string>
+		<string>sprakfamilj</string>
 		<key>Word</key>
 		<string>språkfamilj</string>
 	</dict>
@@ -94,7 +94,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>spörj</string>
+		<string>sporj</string>
 		<key>Word</key>
 		<string>spörj</string>
 	</dict>
@@ -118,7 +118,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>svälj</string>
+		<string>svalj</string>
 		<key>Word</key>
 		<string>svälj</string>
 	</dict>
@@ -126,7 +126,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>säj</string>
+		<string>saj</string>
 		<key>Word</key>
 		<string>säj</string>
 	</dict>
@@ -134,7 +134,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>sälj</string>
+		<string>salj</string>
 		<key>Word</key>
 		<string>sälj</string>
 	</dict>
@@ -142,7 +142,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>särskilj</string>
+		<string>sarskilj</string>
 		<key>Word</key>
 		<string>särskilj</string>
 	</dict>
@@ -150,7 +150,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>sörj</string>
+		<string>sorj</string>
 		<key>Word</key>
 		<string>sörj</string>
 	</dict>

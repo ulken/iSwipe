@@ -14,7 +14,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>dagdröm</string>
+		<string>dagdrom</string>
 		<key>Word</key>
 		<string>dagdröm</string>
 	</dict>
@@ -38,7 +38,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>dahlström</string>
+		<string>dahlstrom</string>
 		<key>Word</key>
 		<string>Dahlström</string>
 	</dict>
@@ -94,7 +94,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>dataskärm</string>
+		<string>dataskarm</string>
 		<key>Word</key>
 		<string>dataskärm</string>
 	</dict>
@@ -142,7 +142,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>datorskärm</string>
+		<string>datorskarm</string>
 		<key>Word</key>
 		<string>datorskärm</string>
 	</dict>
@@ -406,7 +406,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>dokumentärfilm</string>
+		<string>dokumentarfilm</string>
 		<key>Word</key>
 		<string>dokumentärfilm</string>
 	</dict>
@@ -486,7 +486,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>dräm</string>
+		<string>dram</string>
 		<key>Word</key>
 		<string>dräm</string>
 	</dict>
@@ -494,7 +494,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>dröm</string>
+		<string>drom</string>
 		<key>Word</key>
 		<string>dröm</string>
 	</dict>
@@ -550,7 +550,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>därigenom</string>
+		<string>darigenom</string>
 		<key>Word</key>
 		<string>därigenom</string>
 	</dict>
@@ -558,7 +558,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>därom</string>
+		<string>darom</string>
 		<key>Word</key>
 		<string>därom</string>
 	</dict>
@@ -566,7 +566,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>dödsdom</string>
+		<string>dodsdom</string>
 		<key>Word</key>
 		<string>dödsdom</string>
 	</dict>
@@ -574,7 +574,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>döm</string>
+		<string>dom</string>
 		<key>Word</key>
 		<string>döm</string>
 	</dict>
@@ -582,7 +582,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>dövstum</string>
+		<string>dovstum</string>
 		<key>Word</key>
 		<string>dövstum</string>
 	</dict>

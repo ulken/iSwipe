@@ -118,7 +118,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ihjäl</string>
+		<string>ihjal</string>
 		<key>Word</key>
 		<string>ihjäl</string>
 	</dict>
@@ -126,7 +126,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ikväll</string>
+		<string>ikvall</string>
 		<key>Word</key>
 		<string>ikväll</string>
 	</dict>
@@ -302,7 +302,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>inföll</string>
+		<string>infoll</string>
 		<key>Word</key>
 		<string>inföll</string>
 	</dict>
@@ -310,7 +310,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>införsel</string>
+		<string>inforsel</string>
 		<key>Word</key>
 		<string>införsel</string>
 	</dict>
@@ -406,7 +406,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>innehåll</string>
+		<string>innehall</string>
 		<key>Word</key>
 		<string>innehåll</string>
 	</dict>
@@ -414,7 +414,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>innehöll</string>
+		<string>inneholl</string>
 		<key>Word</key>
 		<string>innehöll</string>
 	</dict>
@@ -510,7 +510,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>inställ</string>
+		<string>install</string>
 		<key>Word</key>
 		<string>inställ</string>
 	</dict>
@@ -582,7 +582,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>invånarantal</string>
+		<string>invanarantal</string>
 		<key>Word</key>
 		<string>invånarantal</string>
 	</dict>
@@ -590,7 +590,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>iordningställ</string>
+		<string>iordningstall</string>
 		<key>Word</key>
 		<string>iordningställ</string>
 	</dict>
@@ -710,7 +710,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>isåfall</string>
+		<string>isafall</string>
 		<key>Word</key>
 		<string>isåfall</string>
 	</dict>

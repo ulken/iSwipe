@@ -118,7 +118,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hängav</string>
+		<string>hangav</string>
 		<key>Word</key>
 		<string>hängav</string>
 	</dict>
@@ -126,7 +126,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hängiv</string>
+		<string>hangiv</string>
 		<key>Word</key>
 		<string>hängiv</string>
 	</dict>
@@ -134,7 +134,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>härav</string>
+		<string>harav</string>
 		<key>Word</key>
 		<string>härav</string>
 	</dict>
@@ -142,7 +142,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>häv</string>
+		<string>hav</string>
 		<key>Word</key>
 		<string>häv</string>
 	</dict>
@@ -150,7 +150,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>håv</string>
+		<string>hav</string>
 		<key>Word</key>
 		<string>håv</string>
 	</dict>
@@ -158,7 +158,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>högkvalitativ</string>
+		<string>hogkvalitativ</string>
 		<key>Word</key>
 		<string>högkvalitativ</string>
 	</dict>
@@ -166,7 +166,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>högradioaktiv</string>
+		<string>hogradioaktiv</string>
 		<key>Word</key>
 		<string>högradioaktiv</string>
 	</dict>
@@ -174,7 +174,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>högskoleprov</string>
+		<string>hogskoleprov</string>
 		<key>Word</key>
 		<string>högskoleprov</string>
 	</dict>

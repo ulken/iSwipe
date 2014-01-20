@@ -14,7 +14,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>samhällskropp</string>
+		<string>samhallskropp</string>
 		<key>Word</key>
 		<string>samhällskropp</string>
 	</dict>
@@ -22,7 +22,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>samhällskunskap</string>
+		<string>samhallskunskap</string>
 		<key>Word</key>
 		<string>samhällskunskap</string>
 	</dict>
@@ -30,7 +30,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>samhällsvetenskap</string>
+		<string>samhallsvetenskap</string>
 		<key>Word</key>
 		<string>samhällsvetenskap</string>
 	</dict>
@@ -46,7 +46,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>samrådsgrupp</string>
+		<string>samradsgrupp</string>
 		<key>Word</key>
 		<string>samrådsgrupp</string>
 	</dict>
@@ -86,7 +86,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>silverbröllop</string>
+		<string>silverbrollop</string>
 		<key>Word</key>
 		<string>silverbröllop</string>
 	</dict>
@@ -118,7 +118,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>själsgemenskap</string>
+		<string>sjalsgemenskap</string>
 		<key>Word</key>
 		<string>själsgemenskap</string>
 	</dict>
@@ -126,7 +126,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>självhjälp</string>
+		<string>sjalvhjalp</string>
 		<key>Word</key>
 		<string>självhjälp</string>
 	</dict>
@@ -134,7 +134,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>sjölandskap</string>
+		<string>sjolandskap</string>
 		<key>Word</key>
 		<string>sjölandskap</string>
 	</dict>
@@ -174,7 +174,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>skivsläpp</string>
+		<string>skivslapp</string>
 		<key>Word</key>
 		<string>skivsläpp</string>
 	</dict>
@@ -198,7 +198,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>skräp</string>
+		<string>skrap</string>
 		<key>Word</key>
 		<string>skräp</string>
 	</dict>
@@ -222,7 +222,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>skäggetorp</string>
+		<string>skaggetorp</string>
 		<key>Word</key>
 		<string>Skäggetorp</string>
 	</dict>
@@ -230,7 +230,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>skärmdump</string>
+		<string>skarmdump</string>
 		<key>Word</key>
 		<string>skärmdump</string>
 	</dict>
@@ -238,7 +238,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>skärp</string>
+		<string>skarp</string>
 		<key>Word</key>
 		<string>skärp</string>
 	</dict>
@@ -246,7 +246,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>skåp</string>
+		<string>skap</string>
 		<key>Word</key>
 		<string>skåp</string>
 	</dict>
@@ -310,7 +310,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>släktskap</string>
+		<string>slaktskap</string>
 		<key>Word</key>
 		<string>släktskap</string>
 	</dict>
@@ -318,7 +318,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>släp</string>
+		<string>slap</string>
 		<key>Word</key>
 		<string>släp</string>
 	</dict>
@@ -326,7 +326,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>släpp</string>
+		<string>slapp</string>
 		<key>Word</key>
 		<string>släpp</string>
 	</dict>
@@ -342,7 +342,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>småboskap</string>
+		<string>smaboskap</string>
 		<key>Word</key>
 		<string>småboskap</string>
 	</dict>
@@ -350,7 +350,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>snabbköp</string>
+		<string>snabbkop</string>
 		<key>Word</key>
 		<string>snabbköp</string>
 	</dict>
@@ -366,7 +366,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>snäpp</string>
+		<string>snapp</string>
 		<key>Word</key>
 		<string>snäpp</string>
 	</dict>
@@ -374,7 +374,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>snödjup</string>
+		<string>snodjup</string>
 		<key>Word</key>
 		<string>snödjup</string>
 	</dict>
@@ -398,7 +398,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>socialhjälp</string>
+		<string>socialhjalp</string>
 		<key>Word</key>
 		<string>socialhjälp</string>
 	</dict>
@@ -414,7 +414,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>spatserkäpp</string>
+		<string>spatserkapp</string>
 		<key>Word</key>
 		<string>spatserkäpp</string>
 	</dict>
@@ -422,7 +422,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>språkangrepp</string>
+		<string>sprakangrepp</string>
 		<key>Word</key>
 		<string>språkangrepp</string>
 	</dict>
@@ -430,7 +430,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>språkgemenskap</string>
+		<string>sprakgemenskap</string>
 		<key>Word</key>
 		<string>språkgemenskap</string>
 	</dict>
@@ -438,7 +438,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>språkkunskap</string>
+		<string>sprakkunskap</string>
 		<key>Word</key>
 		<string>språkkunskap</string>
 	</dict>
@@ -446,7 +446,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>språkvetenskap</string>
+		<string>sprakvetenskap</string>
 		<key>Word</key>
 		<string>språkvetenskap</string>
 	</dict>
@@ -494,7 +494,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>statshjälp</string>
+		<string>statshjalp</string>
 		<key>Word</key>
 		<string>statshjälp</string>
 	</dict>
@@ -550,7 +550,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>stjälktopp</string>
+		<string>stjalktopp</string>
 		<key>Word</key>
 		<string>stjälktopp</string>
 	</dict>
@@ -558,7 +558,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>stjälp</string>
+		<string>stjalp</string>
 		<key>Word</key>
 		<string>stjälp</string>
 	</dict>
@@ -646,7 +646,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>stäpp</string>
+		<string>stapp</string>
 		<key>Word</key>
 		<string>stäpp</string>
 	</dict>
@@ -654,7 +654,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ståndarknapp</string>
+		<string>standarknapp</string>
 		<key>Word</key>
 		<string>ståndarknapp</string>
 	</dict>
@@ -662,7 +662,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>stöp</string>
+		<string>stop</string>
 		<key>Word</key>
 		<string>stöp</string>
 	</dict>
@@ -670,7 +670,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>störtlopp</string>
+		<string>stortlopp</string>
 		<key>Word</key>
 		<string>störtlopp</string>
 	</dict>
@@ -726,7 +726,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>syntaxhjälp</string>
+		<string>syntaxhjalp</string>
 		<key>Word</key>
 		<string>syntaxhjälp</string>
 	</dict>
@@ -750,7 +750,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>sällskap</string>
+		<string>sallskap</string>
 		<key>Word</key>
 		<string>sällskap</string>
 	</dict>
@@ -758,7 +758,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>söp</string>
+		<string>sop</string>
 		<key>Word</key>
 		<string>söp</string>
 	</dict>

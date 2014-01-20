@@ -78,7 +78,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>småax</string>
+		<string>smaax</string>
 		<key>Word</key>
 		<string>småax</string>
 	</dict>
@@ -86,7 +86,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>småfix</string>
+		<string>smafix</string>
 		<key>Word</key>
 		<string>småfix</string>
 	</dict>
@@ -94,7 +94,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>solnedgångsreflex</string>
+		<string>solnedgangsreflex</string>
 		<key>Word</key>
 		<string>solnedgångsreflex</string>
 	</dict>

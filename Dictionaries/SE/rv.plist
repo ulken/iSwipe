@@ -206,7 +206,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>räv</string>
+		<string>rav</string>
 		<key>Word</key>
 		<string>räv</string>
 	</dict>
@@ -214,7 +214,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>röv</string>
+		<string>rov</string>
 		<key>Word</key>
 		<string>röv</string>
 	</dict>

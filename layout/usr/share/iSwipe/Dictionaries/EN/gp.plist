@@ -54,7 +54,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>genomlöp</string>
+		<string>genomlop</string>
 		<key>Word</key>
 		<string>genomlöp</string>
 	</dict>
@@ -86,7 +86,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>glädjerop</string>
+		<string>gladjerop</string>
 		<key>Word</key>
 		<string>glädjerop</string>
 	</dict>
@@ -190,7 +190,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>grästorp</string>
+		<string>grastorp</string>
 		<key>Word</key>
 		<string>Grästorp</string>
 	</dict>
@@ -198,7 +198,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>gråarp</string>
+		<string>graarp</string>
 		<key>Word</key>
 		<string>Gråarp</string>
 	</dict>
@@ -206,7 +206,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>gröp</string>
+		<string>grop</string>
 		<key>Word</key>
 		<string>gröp</string>
 	</dict>
@@ -246,7 +246,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>gäsp</string>
+		<string>gasp</string>
 		<key>Word</key>
 		<string>gäsp</string>
 	</dict>
@@ -254,7 +254,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>gårdstyp</string>
+		<string>gardstyp</string>
 		<key>Word</key>
 		<string>gårdstyp</string>
 	</dict>

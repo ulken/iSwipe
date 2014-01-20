@@ -22,7 +22,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>c-näten</string>
+		<string>c-naten</string>
 		<key>Word</key>
 		<string>C-näten</string>
 	</dict>
@@ -110,7 +110,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>californiahalvön</string>
+		<string>californiahalvon</string>
 		<key>Word</key>
 		<string>Californiahalvön</string>
 	</dict>
@@ -182,7 +182,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>cancergåtan</string>
+		<string>cancergatan</string>
 		<key>Word</key>
 		<string>cancergåtan</string>
 	</dict>
@@ -246,7 +246,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>carlén</string>
+		<string>carlen</string>
 		<key>Word</key>
 		<string>Carlén</string>
 	</dict>
@@ -294,7 +294,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>catalinaaffären</string>
+		<string>catalinaaffaren</string>
 		<key>Word</key>
 		<string>Catalinaaffären</string>
 	</dict>
@@ -446,7 +446,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>cellkärnan</string>
+		<string>cellkarnan</string>
 		<key>Word</key>
 		<string>cellkärnan</string>
 	</dict>
@@ -526,7 +526,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>cementrören</string>
+		<string>cementroren</string>
 		<key>Word</key>
 		<string>cementrören</string>
 	</dict>
@@ -550,7 +550,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>censorsämbeten</string>
+		<string>censorsambeten</string>
 		<key>Word</key>
 		<string>censorsämbeten</string>
 	</dict>
@@ -614,7 +614,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>centralbyrån</string>
+		<string>centralbyran</string>
 		<key>Word</key>
 		<string>Centralbyrån</string>
 	</dict>
@@ -670,7 +670,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>centrallåsen</string>
+		<string>centrallasen</string>
 		<key>Word</key>
 		<string>centrallåsen</string>
 	</dict>
@@ -702,7 +702,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>centraluppvärmningen</string>
+		<string>centraluppvarmningen</string>
 		<key>Word</key>
 		<string>centraluppvärmningen</string>
 	</dict>
@@ -710,7 +710,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>centralvärmen</string>
+		<string>centralvarmen</string>
 		<key>Word</key>
 		<string>centralvärmen</string>
 	</dict>
@@ -790,7 +790,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>certifikatbegäran</string>
+		<string>certifikatbegaran</string>
 		<key>Word</key>
 		<string>certifikatbegäran</string>
 	</dict>
@@ -806,7 +806,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>certifikattjänsten</string>
+		<string>certifikattjansten</string>
 		<key>Word</key>
 		<string>certifikattjänsten</string>
 	</dict>
@@ -814,7 +814,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>certifikatutfärdarcertifikaten</string>
+		<string>certifikatutfardarcertifikaten</string>
 		<key>Word</key>
 		<string>certifikatutfärdarcertifikaten</string>
 	</dict>
@@ -822,7 +822,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>certifikatutfärdaren</string>
+		<string>certifikatutfardaren</string>
 		<key>Word</key>
 		<string>certifikatutfärdaren</string>
 	</dict>
@@ -934,7 +934,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>chargén</string>
+		<string>chargen</string>
 		<key>Word</key>
 		<string>chargén</string>
 	</dict>
@@ -1030,7 +1030,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>chauffören</string>
+		<string>chaufforen</string>
 		<key>Word</key>
 		<string>chauffören</string>
 	</dict>
@@ -1070,7 +1070,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>chefredaktören</string>
+		<string>chefredaktoren</string>
 		<key>Word</key>
 		<string>chefredaktören</string>
 	</dict>
@@ -1078,7 +1078,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>chefredaktörn</string>
+		<string>chefredaktorn</string>
 		<key>Word</key>
 		<string>chefredaktörn</string>
 	</dict>
@@ -1118,7 +1118,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>chiffonjén</string>
+		<string>chiffonjen</string>
 		<key>Word</key>
 		<string>chiffonjén</string>
 	</dict>
@@ -1166,7 +1166,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>chilisåsen</string>
+		<string>chilisasen</string>
 		<key>Word</key>
 		<string>chilisåsen</string>
 	</dict>
@@ -1174,7 +1174,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>chimären</string>
+		<string>chimaren</string>
 		<key>Word</key>
 		<string>chimären</string>
 	</dict>
@@ -1334,7 +1334,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>cirkelsågen</string>
+		<string>cirkelsagen</string>
 		<key>Word</key>
 		<string>cirkelsågen</string>
 	</dict>
@@ -1398,7 +1398,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ciselören</string>
+		<string>ciseloren</string>
 		<key>Word</key>
 		<string>ciselören</string>
 	</dict>
@@ -1446,7 +1446,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>citadellvägen</string>
+		<string>citadellvagen</string>
 		<key>Word</key>
 		<string>Citadellvägen</string>
 	</dict>
@@ -1526,7 +1526,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>citroën</string>
+		<string>citroen</string>
 		<key>Word</key>
 		<string>Citroën</string>
 	</dict>
@@ -1558,7 +1558,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>civilingenjören</string>
+		<string>civilingenjoren</string>
 		<key>Word</key>
 		<string>civilingenjören</string>
 	</dict>
@@ -1590,7 +1590,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>civilstånden</string>
+		<string>civilstanden</string>
 		<key>Word</key>
 		<string>civilstånden</string>
 	</dict>
@@ -1630,7 +1630,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>claëson</string>
+		<string>claeson</string>
 		<key>Word</key>
 		<string>Claëson</string>
 	</dict>
@@ -1806,7 +1806,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>columbiaingenjören</string>
+		<string>columbiaingenjoren</string>
 		<key>Word</key>
 		<string>Columbiaingenjören</string>
 	</dict>
@@ -1814,7 +1814,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>comdexmässan</string>
+		<string>comdexmassan</string>
 		<key>Word</key>
 		<string>Comdexmässan</string>
 	</dict>
@@ -1846,7 +1846,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>copingförmågan</string>
+		<string>copingformagan</string>
 		<key>Word</key>
 		<string>copingförmågan</string>
 	</dict>
@@ -1990,7 +1990,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>crusebjörn</string>
+		<string>crusebjorn</string>
 		<key>Word</key>
 		<string>Crusebjörn</string>
 	</dict>
@@ -2038,7 +2038,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>currysåsen</string>
+		<string>currysasen</string>
 		<key>Word</key>
 		<string>currysåsen</string>
 	</dict>
@@ -2062,7 +2062,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>cyanvätedesinfektion</string>
+		<string>cyanvatedesinfektion</string>
 		<key>Word</key>
 		<string>cyanvätedesinfektion</string>
 	</dict>
@@ -2070,7 +2070,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>cyanvätedesinfektionen</string>
+		<string>cyanvatedesinfektionen</string>
 		<key>Word</key>
 		<string>cyanvätedesinfektionen</string>
 	</dict>
@@ -2078,7 +2078,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>cyanväterökningen</string>
+		<string>cyanvaterokningen</string>
 		<key>Word</key>
 		<string>cyanväterökningen</string>
 	</dict>
@@ -2134,7 +2134,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>cykelfärden</string>
+		<string>cykelfarden</string>
 		<key>Word</key>
 		<string>cykelfärden</string>
 	</dict>
@@ -2174,7 +2174,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>cykelvägen</string>
+		<string>cykelvagen</string>
 		<key>Word</key>
 		<string>cykelvägen</string>
 	</dict>

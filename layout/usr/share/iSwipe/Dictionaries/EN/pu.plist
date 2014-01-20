@@ -22,7 +22,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>prästfru</string>
+		<string>prastfru</string>
 		<key>Word</key>
 		<string>prästfru</string>
 	</dict>
@@ -30,7 +30,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>prästhustru</string>
+		<string>prasthustru</string>
 		<key>Word</key>
 		<string>prästhustru</string>
 	</dict>

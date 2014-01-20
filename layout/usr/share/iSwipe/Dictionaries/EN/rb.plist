@@ -38,7 +38,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rålamb</string>
+		<string>ralamb</string>
 		<key>Word</key>
 		<string>Rålamb</string>
 	</dict>
@@ -46,7 +46,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rökbomb</string>
+		<string>rokbomb</string>
 		<key>Word</key>
 		<string>rökbomb</string>
 	</dict>

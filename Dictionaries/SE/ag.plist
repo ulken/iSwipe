@@ -206,7 +206,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>adressändring</string>
+		<string>adressandring</string>
 		<key>Word</key>
 		<string>adressändring</string>
 	</dict>
@@ -214,7 +214,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>adressöversättning</string>
+		<string>adressoversattning</string>
 		<key>Word</key>
 		<string>adressöversättning</string>
 	</dict>
@@ -230,7 +230,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>affärsmässig</string>
+		<string>affarsmassig</string>
 		<key>Word</key>
 		<string>affärsmässig</string>
 	</dict>
@@ -238,7 +238,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>affärsrådgivning</string>
+		<string>affarsradgivning</string>
 		<key>Word</key>
 		<string>affärsrådgivning</string>
 	</dict>
@@ -246,7 +246,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>affärstidning</string>
+		<string>affarstidning</string>
 		<key>Word</key>
 		<string>affärstidning</string>
 	</dict>
@@ -366,7 +366,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>alkoholförsäljning</string>
+		<string>alkoholforsaljning</string>
 		<key>Word</key>
 		<string>alkoholförsäljning</string>
 	</dict>
@@ -374,7 +374,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>alkoholförtäring</string>
+		<string>alkoholfortaring</string>
 		<key>Word</key>
 		<string>alkoholförtäring</string>
 	</dict>
@@ -398,7 +398,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>allmänbildning</string>
+		<string>allmanbildning</string>
 		<key>Word</key>
 		<string>allmänbildning</string>
 	</dict>
@@ -406,7 +406,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>allmängiltig</string>
+		<string>allmangiltig</string>
 		<key>Word</key>
 		<string>allmängiltig</string>
 	</dict>
@@ -414,7 +414,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>allmännyttig</string>
+		<string>allmannyttig</string>
 		<key>Word</key>
 		<string>allmännyttig</string>
 	</dict>
@@ -422,7 +422,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>allmäntjänstgöring</string>
+		<string>allmantjanstgoring</string>
 		<key>Word</key>
 		<string>allmäntjänstgöring</string>
 	</dict>
@@ -446,7 +446,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>allsmäktig</string>
+		<string>allsmaktig</string>
 		<key>Word</key>
 		<string>allsmäktig</string>
 	</dict>
@@ -454,7 +454,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>allsång</string>
+		<string>allsang</string>
 		<key>Word</key>
 		<string>allsång</string>
 	</dict>
@@ -502,7 +502,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>altötting</string>
+		<string>altotting</string>
 		<key>Word</key>
 		<string>Altötting</string>
 	</dict>
@@ -510,7 +510,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>amatörmässig</string>
+		<string>amatormassig</string>
 		<key>Word</key>
 		<string>amatörmässig</string>
 	</dict>
@@ -590,7 +590,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>andhämtning</string>
+		<string>andhamtning</string>
 		<key>Word</key>
 		<string>andhämtning</string>
 	</dict>
@@ -622,7 +622,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>andäktig</string>
+		<string>andaktig</string>
 		<key>Word</key>
 		<string>andäktig</string>
 	</dict>
@@ -630,7 +630,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>anföring</string>
+		<string>anforing</string>
 		<key>Word</key>
 		<string>anföring</string>
 	</dict>
@@ -662,7 +662,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>anhörig</string>
+		<string>anhorig</string>
 		<key>Word</key>
 		<string>anhörig</string>
 	</dict>
@@ -718,7 +718,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>anlägg</string>
+		<string>anlagg</string>
 		<key>Word</key>
 		<string>anlägg</string>
 	</dict>
@@ -726,7 +726,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>anläggning</string>
+		<string>anlaggning</string>
 		<key>Word</key>
 		<string>anläggning</string>
 	</dict>
@@ -742,7 +742,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>anmälning</string>
+		<string>anmalning</string>
 		<key>Word</key>
 		<string>anmälning</string>
 	</dict>
@@ -750,7 +750,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>anmälningspliktig</string>
+		<string>anmalningspliktig</string>
 		<key>Word</key>
 		<string>anmälningspliktig</string>
 	</dict>
@@ -758,7 +758,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>anmärkning</string>
+		<string>anmarkning</string>
 		<key>Word</key>
 		<string>anmärkning</string>
 	</dict>
@@ -822,7 +822,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>anrättning</string>
+		<string>anrattning</string>
 		<key>Word</key>
 		<string>anrättning</string>
 	</dict>
@@ -846,7 +846,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ansiktsfärg</string>
+		<string>ansiktsfarg</string>
 		<key>Word</key>
 		<string>ansiktsfärg</string>
 	</dict>
@@ -862,7 +862,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>anskrämlig</string>
+		<string>anskramlig</string>
 		<key>Word</key>
 		<string>anskrämlig</string>
 	</dict>
@@ -918,7 +918,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ansträng</string>
+		<string>anstrang</string>
 		<key>Word</key>
 		<string>ansträng</string>
 	</dict>
@@ -926,7 +926,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ansträngning</string>
+		<string>anstrangning</string>
 		<key>Word</key>
 		<string>ansträngning</string>
 	</dict>
@@ -934,7 +934,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>anställning</string>
+		<string>anstallning</string>
 		<key>Word</key>
 		<string>anställning</string>
 	</dict>
@@ -942,7 +942,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>anständig</string>
+		<string>anstandig</string>
 		<key>Word</key>
 		<string>anständig</string>
 	</dict>
@@ -950,7 +950,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>anstötlig</string>
+		<string>anstotlig</string>
 		<key>Word</key>
 		<string>anstötlig</string>
 	</dict>
@@ -966,7 +966,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ansvarsfördelning</string>
+		<string>ansvarsfordelning</string>
 		<key>Word</key>
 		<string>ansvarsfördelning</string>
 	</dict>
@@ -974,7 +974,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ansåg</string>
+		<string>ansag</string>
 		<key>Word</key>
 		<string>ansåg</string>
 	</dict>
@@ -982,7 +982,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ansökning</string>
+		<string>ansokning</string>
 		<key>Word</key>
 		<string>ansökning</string>
 	</dict>
@@ -1014,7 +1014,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>antalsmässig</string>
+		<string>antalsmassig</string>
 		<key>Word</key>
 		<string>antalsmässig</string>
 	</dict>
@@ -1062,7 +1062,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>användarvänlig</string>
+		<string>anvandarvanlig</string>
 		<key>Word</key>
 		<string>användarvänlig</string>
 	</dict>
@@ -1070,7 +1070,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>användning</string>
+		<string>anvandning</string>
 		<key>Word</key>
 		<string>användning</string>
 	</dict>
@@ -1094,7 +1094,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>arbetsfördelning</string>
+		<string>arbetsfordelning</string>
 		<key>Word</key>
 		<string>arbetsfördelning</string>
 	</dict>
@@ -1102,7 +1102,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>arbetsförmedling</string>
+		<string>arbetsformedling</string>
 		<key>Word</key>
 		<string>arbetsförmedling</string>
 	</dict>
@@ -1110,7 +1110,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>arbetsgång</string>
+		<string>arbetsgang</string>
 		<key>Word</key>
 		<string>arbetsgång</string>
 	</dict>
@@ -1142,7 +1142,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>arbetsprövning</string>
+		<string>arbetsprovning</string>
 		<key>Word</key>
 		<string>arbetsprövning</string>
 	</dict>
@@ -1222,7 +1222,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>arkivförordning</string>
+		<string>arkivforordning</string>
 		<key>Word</key>
 		<string>arkivförordning</string>
 	</dict>
@@ -1230,7 +1230,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>arkivförteckning</string>
+		<string>arkivforteckning</string>
 		<key>Word</key>
 		<string>arkivförteckning</string>
 	</dict>
@@ -1302,7 +1302,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>armhävning</string>
+		<string>armhavning</string>
 		<key>Word</key>
 		<string>armhävning</string>
 	</dict>
@@ -1406,7 +1406,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>at-tjänstgöring</string>
+		<string>at-tjanstgoring</string>
 		<key>Word</key>
 		<string>AT-tjänstgöring</string>
 	</dict>
@@ -1510,7 +1510,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avbländning</string>
+		<string>avblandning</string>
 		<key>Word</key>
 		<string>avbländning</string>
 	</dict>
@@ -1558,7 +1558,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avfällig</string>
+		<string>avfallig</string>
 		<key>Word</key>
 		<string>avfällig</string>
 	</dict>
@@ -1566,7 +1566,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avfälling</string>
+		<string>avfalling</string>
 		<key>Word</key>
 		<string>avfälling</string>
 	</dict>
@@ -1574,7 +1574,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avföring</string>
+		<string>avforing</string>
 		<key>Word</key>
 		<string>avföring</string>
 	</dict>
@@ -1590,7 +1590,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avgiftsbeläggning</string>
+		<string>avgiftsbelaggning</string>
 		<key>Word</key>
 		<string>avgiftsbeläggning</string>
 	</dict>
@@ -1598,7 +1598,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avgiftsförordning</string>
+		<string>avgiftsforordning</string>
 		<key>Word</key>
 		<string>avgiftsförordning</string>
 	</dict>
@@ -1606,7 +1606,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avgränsning</string>
+		<string>avgransning</string>
 		<key>Word</key>
 		<string>avgränsning</string>
 	</dict>
@@ -1614,7 +1614,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avgång</string>
+		<string>avgang</string>
 		<key>Word</key>
 		<string>avgång</string>
 	</dict>
@@ -1622,7 +1622,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avgångsbetyg</string>
+		<string>avgangsbetyg</string>
 		<key>Word</key>
 		<string>avgångsbetyg</string>
 	</dict>
@@ -1630,7 +1630,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avgångsvederlag</string>
+		<string>avgangsvederlag</string>
 		<key>Word</key>
 		<string>avgångsvederlag</string>
 	</dict>
@@ -1662,7 +1662,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avhämtning</string>
+		<string>avhamtning</string>
 		<key>Word</key>
 		<string>avhämtning</string>
 	</dict>
@@ -1670,7 +1670,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avhängig</string>
+		<string>avhangig</string>
 		<key>Word</key>
 		<string>avhängig</string>
 	</dict>
@@ -1678,7 +1678,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avhögg</string>
+		<string>avhogg</string>
 		<key>Word</key>
 		<string>avhögg</string>
 	</dict>
@@ -1718,7 +1718,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avknoppningsföretag</string>
+		<string>avknoppningsforetag</string>
 		<key>Word</key>
 		<string>avknoppningsföretag</string>
 	</dict>
@@ -1750,7 +1750,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avkänning</string>
+		<string>avkanning</string>
 		<key>Word</key>
 		<string>avkänning</string>
 	</dict>
@@ -1814,7 +1814,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avlägg</string>
+		<string>avlagg</string>
 		<key>Word</key>
 		<string>avlägg</string>
 	</dict>
@@ -1822,7 +1822,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avläsning</string>
+		<string>avlasning</string>
 		<key>Word</key>
 		<string>avläsning</string>
 	</dict>
@@ -1830,7 +1830,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avlång</string>
+		<string>avlang</string>
 		<key>Word</key>
 		<string>avlång</string>
 	</dict>
@@ -1838,7 +1838,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avlöning</string>
+		<string>avloning</string>
 		<key>Word</key>
 		<string>avlöning</string>
 	</dict>
@@ -1846,7 +1846,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avlösning</string>
+		<string>avlosning</string>
 		<key>Word</key>
 		<string>avlösning</string>
 	</dict>
@@ -1902,7 +1902,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avrättning</string>
+		<string>avrattning</string>
 		<key>Word</key>
 		<string>avrättning</string>
 	</dict>
@@ -1918,7 +1918,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avskedshälsning</string>
+		<string>avskedshalsning</string>
 		<key>Word</key>
 		<string>avskedshälsning</string>
 	</dict>
@@ -1950,7 +1950,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avslappningsövning</string>
+		<string>avslappningsovning</string>
 		<key>Word</key>
 		<string>avslappningsövning</string>
 	</dict>
@@ -2006,7 +2006,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avstjälpning</string>
+		<string>avstjalpning</string>
 		<key>Word</key>
 		<string>avstjälpning</string>
 	</dict>
@@ -2014,7 +2014,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avstämning</string>
+		<string>avstamning</string>
 		<key>Word</key>
 		<string>avstämning</string>
 	</dict>
@@ -2022,7 +2022,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avstäng</string>
+		<string>avstang</string>
 		<key>Word</key>
 		<string>avstäng</string>
 	</dict>
@@ -2030,7 +2030,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avstängning</string>
+		<string>avstangning</string>
 		<key>Word</key>
 		<string>avstängning</string>
 	</dict>
@@ -2046,7 +2046,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avsäg</string>
+		<string>avsag</string>
 		<key>Word</key>
 		<string>avsäg</string>
 	</dict>
@@ -2054,7 +2054,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avsättning</string>
+		<string>avsattning</string>
 		<key>Word</key>
 		<string>avsättning</string>
 	</dict>
@@ -2062,7 +2062,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avsåg</string>
+		<string>avsag</string>
 		<key>Word</key>
 		<string>avsåg</string>
 	</dict>
@@ -2070,7 +2070,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avsökning</string>
+		<string>avsokning</string>
 		<key>Word</key>
 		<string>avsökning</string>
 	</dict>
@@ -2142,7 +2142,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avväg</string>
+		<string>avvag</string>
 		<key>Word</key>
 		<string>avväg</string>
 	</dict>
@@ -2150,7 +2150,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avvägning</string>
+		<string>avvagning</string>
 		<key>Word</key>
 		<string>avvägning</string>
 	</dict>
@@ -2158,7 +2158,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avvänjning</string>
+		<string>avvanjning</string>
 		<key>Word</key>
 		<string>avvänjning</string>
 	</dict>
@@ -2166,7 +2166,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avväpning</string>
+		<string>avvapning</string>
 		<key>Word</key>
 		<string>avväpning</string>
 	</dict>
@@ -2182,7 +2182,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>äcklig</string>
+		<string>acklig</string>
 		<key>Word</key>
 		<string>äcklig</string>
 	</dict>
@@ -2190,7 +2190,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ädling</string>
+		<string>adling</string>
 		<key>Word</key>
 		<string>ädling</string>
 	</dict>
@@ -2198,7 +2198,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>äg</string>
+		<string>ag</string>
 		<key>Word</key>
 		<string>äg</string>
 	</dict>
@@ -2206,7 +2206,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ägg</string>
+		<string>agg</string>
 		<key>Word</key>
 		<string>ägg</string>
 	</dict>
@@ -2214,7 +2214,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>äktenskaplig</string>
+		<string>aktenskaplig</string>
 		<key>Word</key>
 		<string>äktenskaplig</string>
 	</dict>
@@ -2222,7 +2222,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>äldreomsorg</string>
+		<string>aldreomsorg</string>
 		<key>Word</key>
 		<string>äldreomsorg</string>
 	</dict>
@@ -2230,7 +2230,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>älg</string>
+		<string>alg</string>
 		<key>Word</key>
 		<string>älg</string>
 	</dict>
@@ -2238,7 +2238,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>älsklig</string>
+		<string>alsklig</string>
 		<key>Word</key>
 		<string>älsklig</string>
 	</dict>
@@ -2246,7 +2246,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>älskling</string>
+		<string>alskling</string>
 		<key>Word</key>
 		<string>älskling</string>
 	</dict>
@@ -2254,7 +2254,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>älskog</string>
+		<string>alskog</string>
 		<key>Word</key>
 		<string>älskog</string>
 	</dict>
@@ -2262,7 +2262,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ämnesförening</string>
+		<string>amnesforening</string>
 		<key>Word</key>
 		<string>ämnesförening</string>
 	</dict>
@@ -2270,7 +2270,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ämnesinriktning</string>
+		<string>amnesinriktning</string>
 		<key>Word</key>
 		<string>ämnesinriktning</string>
 	</dict>
@@ -2278,7 +2278,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ämnesomsättning</string>
+		<string>amnesomsattning</string>
 		<key>Word</key>
 		<string>ämnesomsättning</string>
 	</dict>
@@ -2286,7 +2286,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ämnesundervisning</string>
+		<string>amnesundervisning</string>
 		<key>Word</key>
 		<string>ämnesundervisning</string>
 	</dict>
@@ -2294,7 +2294,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ändamålsenlig</string>
+		<string>andamalsenlig</string>
 		<key>Word</key>
 		<string>ändamålsenlig</string>
 	</dict>
@@ -2302,7 +2302,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ändlig</string>
+		<string>andlig</string>
 		<key>Word</key>
 		<string>ändlig</string>
 	</dict>
@@ -2310,7 +2310,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ändring</string>
+		<string>andring</string>
 		<key>Word</key>
 		<string>ändring</string>
 	</dict>
@@ -2318,7 +2318,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ändringsförslag</string>
+		<string>andringsforslag</string>
 		<key>Word</key>
 		<string>ändringsförslag</string>
 	</dict>
@@ -2326,7 +2326,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ändutrustning</string>
+		<string>andutrustning</string>
 		<key>Word</key>
 		<string>ändutrustning</string>
 	</dict>
@@ -2334,7 +2334,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>äng</string>
+		<string>ang</string>
 		<key>Word</key>
 		<string>äng</string>
 	</dict>
@@ -2342,7 +2342,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ängslig</string>
+		<string>angslig</string>
 		<key>Word</key>
 		<string>ängslig</string>
 	</dict>
@@ -2350,7 +2350,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>änkedrottning</string>
+		<string>ankedrottning</string>
 		<key>Word</key>
 		<string>änkedrottning</string>
 	</dict>
@@ -2358,7 +2358,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>änkling</string>
+		<string>ankling</string>
 		<key>Word</key>
 		<string>änkling</string>
 	</dict>
@@ -2366,7 +2366,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ärekränkning</string>
+		<string>arekrankning</string>
 		<key>Word</key>
 		<string>ärekränkning</string>
 	</dict>
@@ -2374,7 +2374,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ärendehantering</string>
+		<string>arendehantering</string>
 		<key>Word</key>
 		<string>ärendehantering</string>
 	</dict>
@@ -2382,7 +2382,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ärevördig</string>
+		<string>arevordig</string>
 		<key>Word</key>
 		<string>ärevördig</string>
 	</dict>
@@ -2390,7 +2390,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ärftlig</string>
+		<string>arftlig</string>
 		<key>Word</key>
 		<string>ärftlig</string>
 	</dict>
@@ -2398,7 +2398,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ärg</string>
+		<string>arg</string>
 		<key>Word</key>
 		<string>ärg</string>
 	</dict>
@@ -2406,7 +2406,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ärlig</string>
+		<string>arlig</string>
 		<key>Word</key>
 		<string>ärlig</string>
 	</dict>
@@ -2414,7 +2414,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ärrig</string>
+		<string>arrig</string>
 		<key>Word</key>
 		<string>ärrig</string>
 	</dict>
@@ -2422,7 +2422,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ätlig</string>
+		<string>atlig</string>
 		<key>Word</key>
 		<string>ätlig</string>
 	</dict>
@@ -2430,7 +2430,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ätstörning</string>
+		<string>atstorning</string>
 		<key>Word</key>
 		<string>ätstörning</string>
 	</dict>
@@ -2438,7 +2438,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ättling</string>
+		<string>attling</string>
 		<key>Word</key>
 		<string>ättling</string>
 	</dict>
@@ -2446,7 +2446,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>äventyrlig</string>
+		<string>aventyrlig</string>
 		<key>Word</key>
 		<string>äventyrlig</string>
 	</dict>
@@ -2454,7 +2454,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ådagalägg</string>
+		<string>adagalagg</string>
 		<key>Word</key>
 		<string>ådagalägg</string>
 	</dict>
@@ -2462,7 +2462,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>åderförkalkning</string>
+		<string>aderforkalkning</string>
 		<key>Word</key>
 		<string>åderförkalkning</string>
 	</dict>
@@ -2470,7 +2470,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ådrag</string>
+		<string>adrag</string>
 		<key>Word</key>
 		<string>ådrag</string>
 	</dict>
@@ -2478,7 +2478,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ådrog</string>
+		<string>adrog</string>
 		<key>Word</key>
 		<string>ådrog</string>
 	</dict>
@@ -2486,7 +2486,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>åkning</string>
+		<string>akning</string>
 		<key>Word</key>
 		<string>åkning</string>
 	</dict>
@@ -2494,7 +2494,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ålderdomlig</string>
+		<string>alderdomlig</string>
 		<key>Word</key>
 		<string>ålderdomlig</string>
 	</dict>
@@ -2502,7 +2502,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>åldersfördelning</string>
+		<string>aldersfordelning</string>
 		<key>Word</key>
 		<string>åldersfördelning</string>
 	</dict>
@@ -2510,7 +2510,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>åldrig</string>
+		<string>aldrig</string>
 		<key>Word</key>
 		<string>åldrig</string>
 	</dict>
@@ -2518,7 +2518,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ålägg</string>
+		<string>alagg</string>
 		<key>Word</key>
 		<string>ålägg</string>
 	</dict>
@@ -2526,7 +2526,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>åmynning</string>
+		<string>amynning</string>
 		<key>Word</key>
 		<string>åmynning</string>
 	</dict>
@@ -2534,7 +2534,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ångermanlänning</string>
+		<string>angermanlanning</string>
 		<key>Word</key>
 		<string>ångermanlänning</string>
 	</dict>
@@ -2542,7 +2542,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>årgång</string>
+		<string>argang</string>
 		<key>Word</key>
 		<string>årgång</string>
 	</dict>
@@ -2550,7 +2550,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>årig</string>
+		<string>arig</string>
 		<key>Word</key>
 		<string>årig</string>
 	</dict>
@@ -2558,7 +2558,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>åring</string>
+		<string>aring</string>
 		<key>Word</key>
 		<string>åring</string>
 	</dict>
@@ -2566,7 +2566,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>årlig</string>
+		<string>arlig</string>
 		<key>Word</key>
 		<string>årlig</string>
 	</dict>
@@ -2574,7 +2574,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>årsdag</string>
+		<string>arsdag</string>
 		<key>Word</key>
 		<string>årsdag</string>
 	</dict>
@@ -2582,7 +2582,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>årsförbrukning</string>
+		<string>arsforbrukning</string>
 		<key>Word</key>
 		<string>årsförbrukning</string>
 	</dict>
@@ -2590,7 +2590,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>årskörning</string>
+		<string>arskorning</string>
 		<key>Word</key>
 		<string>årskörning</string>
 	</dict>
@@ -2598,7 +2598,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>årsredovisning</string>
+		<string>arsredovisning</string>
 		<key>Word</key>
 		<string>årsredovisning</string>
 	</dict>
@@ -2606,7 +2606,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>årtag</string>
+		<string>artag</string>
 		<key>Word</key>
 		<string>årtag</string>
 	</dict>
@@ -2614,7 +2614,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>åskslag</string>
+		<string>askslag</string>
 		<key>Word</key>
 		<string>åskslag</string>
 	</dict>
@@ -2622,7 +2622,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>åskvigg</string>
+		<string>askvigg</string>
 		<key>Word</key>
 		<string>åskvigg</string>
 	</dict>
@@ -2630,7 +2630,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>åskådlig</string>
+		<string>askadlig</string>
 		<key>Word</key>
 		<string>åskådlig</string>
 	</dict>
@@ -2638,7 +2638,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>åskådning</string>
+		<string>askadning</string>
 		<key>Word</key>
 		<string>åskådning</string>
 	</dict>
@@ -2646,7 +2646,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>åsåg</string>
+		<string>asag</string>
 		<key>Word</key>
 		<string>åsåg</string>
 	</dict>
@@ -2654,7 +2654,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>åtag</string>
+		<string>atag</string>
 		<key>Word</key>
 		<string>åtag</string>
 	</dict>
@@ -2662,7 +2662,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>återanpassning</string>
+		<string>ateranpassning</string>
 		<key>Word</key>
 		<string>återanpassning</string>
 	</dict>
@@ -2670,7 +2670,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>återanvändning</string>
+		<string>ateranvandning</string>
 		<key>Word</key>
 		<string>återanvändning</string>
 	</dict>
@@ -2678,7 +2678,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>återbetalning</string>
+		<string>aterbetalning</string>
 		<key>Word</key>
 		<string>återbetalning</string>
 	</dict>
@@ -2686,7 +2686,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>återförening</string>
+		<string>aterforening</string>
 		<key>Word</key>
 		<string>återförening</string>
 	</dict>
@@ -2694,7 +2694,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>återgivning</string>
+		<string>atergivning</string>
 		<key>Word</key>
 		<string>återgivning</string>
 	</dict>
@@ -2702,7 +2702,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>återgång</string>
+		<string>atergang</string>
 		<key>Word</key>
 		<string>återgång</string>
 	</dict>
@@ -2710,7 +2710,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>återkoppling</string>
+		<string>aterkoppling</string>
 		<key>Word</key>
 		<string>återkoppling</string>
 	</dict>
@@ -2718,7 +2718,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>återrapportering</string>
+		<string>aterrapportering</string>
 		<key>Word</key>
 		<string>återrapportering</string>
 	</dict>
@@ -2726,7 +2726,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>återställning</string>
+		<string>aterstallning</string>
 		<key>Word</key>
 		<string>återställning</string>
 	</dict>
@@ -2734,7 +2734,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>återsåg</string>
+		<string>atersag</string>
 		<key>Word</key>
 		<string>återsåg</string>
 	</dict>
@@ -2742,7 +2742,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>återtag</string>
+		<string>atertag</string>
 		<key>Word</key>
 		<string>återtag</string>
 	</dict>
@@ -2750,7 +2750,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>återtog</string>
+		<string>atertog</string>
 		<key>Word</key>
 		<string>återtog</string>
 	</dict>
@@ -2758,7 +2758,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>återtåg</string>
+		<string>atertag</string>
 		<key>Word</key>
 		<string>återtåg</string>
 	</dict>
@@ -2766,7 +2766,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>återuppbygg</string>
+		<string>ateruppbygg</string>
 		<key>Word</key>
 		<string>återuppbygg</string>
 	</dict>
@@ -2774,7 +2774,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>återupptag</string>
+		<string>aterupptag</string>
 		<key>Word</key>
 		<string>återupptag</string>
 	</dict>
@@ -2782,7 +2782,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>återupptog</string>
+		<string>aterupptog</string>
 		<key>Word</key>
 		<string>återupptog</string>
 	</dict>
@@ -2790,7 +2790,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>återvinning</string>
+		<string>atervinning</string>
 		<key>Word</key>
 		<string>återvinning</string>
 	</dict>
@@ -2798,7 +2798,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>åtgång</string>
+		<string>atgang</string>
 		<key>Word</key>
 		<string>åtgång</string>
 	</dict>
@@ -2806,7 +2806,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>åtkomlig</string>
+		<string>atkomlig</string>
 		<key>Word</key>
 		<string>åtkomlig</string>
 	</dict>
@@ -2814,7 +2814,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>åtog</string>
+		<string>atog</string>
 		<key>Word</key>
 		<string>åtog</string>
 	</dict>
@@ -2822,7 +2822,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>åtskillig</string>
+		<string>atskillig</string>
 		<key>Word</key>
 		<string>åtskillig</string>
 	</dict>
@@ -2830,7 +2830,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>åttafaldig</string>
+		<string>attafaldig</string>
 		<key>Word</key>
 		<string>åttafaldig</string>
 	</dict>
@@ -2838,7 +2838,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>åttaårig</string>
+		<string>attaarig</string>
 		<key>Word</key>
 		<string>åttaårig</string>
 	</dict>
@@ -2846,7 +2846,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>åttaåring</string>
+		<string>attaaring</string>
 		<key>Word</key>
 		<string>åttaåring</string>
 	</dict>
@@ -2860,7 +2860,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>Älvsborg</string>
+		<string>Alvsborg</string>
 		<key>Word</key>
 		<string>Älvsborg</string>
 	</dict>
@@ -2868,7 +2868,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>Åberg</string>
+		<string>Aberg</string>
 		<key>Word</key>
 		<string>Åberg</string>
 	</dict>
@@ -2876,7 +2876,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>Ålborg</string>
+		<string>Alborg</string>
 		<key>Word</key>
 		<string>Ålborg</string>
 	</dict>
@@ -2884,7 +2884,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>Årjäng</string>
+		<string>Arjang</string>
 		<key>Word</key>
 		<string>Årjäng</string>
 	</dict>
@@ -2892,7 +2892,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>Åslög</string>
+		<string>Aslog</string>
 		<key>Word</key>
 		<string>Åslög</string>
 	</dict>
@@ -2900,7 +2900,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>Åtvidaberg</string>
+		<string>Atvidaberg</string>
 		<key>Word</key>
 		<string>Åtvidaberg</string>
 	</dict>

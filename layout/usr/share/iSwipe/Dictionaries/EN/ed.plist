@@ -46,7 +46,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>edelsvärd</string>
+		<string>edelsvard</string>
 		<key>Word</key>
 		<string>Edelsvärd</string>
 	</dict>
@@ -158,7 +158,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>efterfrågad</string>
+		<string>efterfragad</string>
 		<key>Word</key>
 		<string>efterfrågad</string>
 	</dict>
@@ -166,7 +166,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>efterföljd</string>
+		<string>efterfoljd</string>
 		<key>Word</key>
 		<string>efterföljd</string>
 	</dict>
@@ -214,7 +214,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>efterlämnad</string>
+		<string>efterlamnad</string>
 		<key>Word</key>
 		<string>efterlämnad</string>
 	</dict>
@@ -222,7 +222,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>efterlängtad</string>
+		<string>efterlangtad</string>
 		<key>Word</key>
 		<string>efterlängtad</string>
 	</dict>
@@ -238,7 +238,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>eftersträvad</string>
+		<string>efterstravad</string>
 		<key>Word</key>
 		<string>eftersträvad</string>
 	</dict>
@@ -246,7 +246,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>eftersträvansvärd</string>
+		<string>efterstravansvard</string>
 		<key>Word</key>
 		<string>eftersträvansvärd</string>
 	</dict>
@@ -254,7 +254,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>eftersänd</string>
+		<string>eftersand</string>
 		<key>Word</key>
 		<string>eftersänd</string>
 	</dict>
@@ -270,7 +270,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>eftertraktansvärd</string>
+		<string>eftertraktansvard</string>
 		<key>Word</key>
 		<string>eftertraktansvärd</string>
 	</dict>
@@ -278,7 +278,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>efterträd</string>
+		<string>eftertrad</string>
 		<key>Word</key>
 		<string>efterträd</string>
 	</dict>
@@ -286,7 +286,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>efterträdd</string>
+		<string>eftertradd</string>
 		<key>Word</key>
 		<string>efterträdd</string>
 	</dict>
@@ -294,7 +294,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>eftertrånad</string>
+		<string>eftertranad</string>
 		<key>Word</key>
 		<string>eftertrånad</string>
 	</dict>
@@ -302,7 +302,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>eftervärld</string>
+		<string>eftervarld</string>
 		<key>Word</key>
 		<string>eftervärld</string>
 	</dict>
@@ -342,7 +342,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>egnahemsnämnd</string>
+		<string>egnahemsnamnd</string>
 		<key>Word</key>
 		<string>egnahemsnämnd</string>
 	</dict>
@@ -350,7 +350,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ehrensvärd</string>
+		<string>ehrensvard</string>
 		<key>Word</key>
 		<string>Ehrensvärd</string>
 	</dict>
@@ -454,7 +454,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>eldröd</string>
+		<string>eldrod</string>
 		<key>Word</key>
 		<string>eldröd</string>
 	</dict>
@@ -614,7 +614,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>enfärgad</string>
+		<string>enfargad</string>
 		<key>Word</key>
 		<string>enfärgad</string>
 	</dict>
@@ -646,7 +646,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>engångskostnad</string>
+		<string>engangskostnad</string>
 		<key>Word</key>
 		<string>engångskostnad</string>
 	</dict>
@@ -654,7 +654,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>enkönad</string>
+		<string>enkonad</string>
 		<key>Word</key>
 		<string>enkönad</string>
 	</dict>
@@ -702,7 +702,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>enögd</string>
+		<string>enogd</string>
 		<key>Word</key>
 		<string>enögd</string>
 	</dict>
@@ -734,7 +734,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>erbjöd</string>
+		<string>erbjod</string>
 		<key>Word</key>
 		<string>erbjöd</string>
 	</dict>
@@ -766,7 +766,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>erkänd</string>
+		<string>erkand</string>
 		<key>Word</key>
 		<string>erkänd</string>
 	</dict>
@@ -798,7 +798,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ernådd</string>
+		<string>ernadd</string>
 		<key>Word</key>
 		<string>ernådd</string>
 	</dict>
@@ -822,7 +822,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>erövrad</string>
+		<string>erovrad</string>
 		<key>Word</key>
 		<string>erövrad</string>
 	</dict>
@@ -1108,7 +1108,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>Édouard</string>
+		<string>Edouard</string>
 		<key>Word</key>
 		<string>Édouard</string>
 	</dict>

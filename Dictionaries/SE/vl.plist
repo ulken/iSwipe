@@ -94,7 +94,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vanställ</string>
+		<string>vanstall</string>
 		<key>Word</key>
 		<string>vanställ</string>
 	</dict>
@@ -150,7 +150,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vattenpöl</string>
+		<string>vattenpol</string>
 		<key>Word</key>
 		<string>vattenpöl</string>
 	</dict>
@@ -158,7 +158,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vedergäll</string>
+		<string>vedergall</string>
 		<key>Word</key>
 		<string>vedergäll</string>
 	</dict>
@@ -206,7 +206,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>verkställ</string>
+		<string>verkstall</string>
 		<key>Word</key>
 		<string>verkställ</string>
 	</dict>
@@ -230,7 +230,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vetemjöl</string>
+		<string>vetemjol</string>
 		<key>Word</key>
 		<string>vetemjöl</string>
 	</dict>
@@ -254,7 +254,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vidhåll</string>
+		<string>vidhall</string>
 		<key>Word</key>
 		<string>vidhåll</string>
 	</dict>
@@ -262,7 +262,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vidhöll</string>
+		<string>vidholl</string>
 		<key>Word</key>
 		<string>vidhöll</string>
 	</dict>
@@ -270,7 +270,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vidmakthåll</string>
+		<string>vidmakthall</string>
 		<key>Word</key>
 		<string>vidmakthåll</string>
 	</dict>
@@ -278,7 +278,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vidmakthöll</string>
+		<string>vidmaktholl</string>
 		<key>Word</key>
 		<string>vidmakthöll</string>
 	</dict>
@@ -430,7 +430,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vittnesmål</string>
+		<string>vittnesmal</string>
 		<key>Word</key>
 		<string>vittnesmål</string>
 	</dict>
@@ -494,7 +494,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vrål</string>
+		<string>vral</string>
 		<key>Word</key>
 		<string>vrål</string>
 	</dict>
@@ -502,7 +502,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>väbel</string>
+		<string>vabel</string>
 		<key>Word</key>
 		<string>väbel</string>
 	</dict>
@@ -510,7 +510,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vägskäl</string>
+		<string>vagskal</string>
 		<key>Word</key>
 		<string>vägskäl</string>
 	</dict>
@@ -518,7 +518,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vägval</string>
+		<string>vagval</string>
 		<key>Word</key>
 		<string>vägval</string>
 	</dict>
@@ -526,7 +526,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>väl</string>
+		<string>val</string>
 		<key>Word</key>
 		<string>väl</string>
 	</dict>
@@ -534,7 +534,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>väll</string>
+		<string>vall</string>
 		<key>Word</key>
 		<string>väll</string>
 	</dict>
@@ -542,7 +542,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vänsterintellektuell</string>
+		<string>vansterintellektuell</string>
 		<key>Word</key>
 		<string>vänsterintellektuell</string>
 	</dict>
@@ -550,7 +550,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vänsterpil</string>
+		<string>vansterpil</string>
 		<key>Word</key>
 		<string>vänsterpil</string>
 	</dict>
@@ -558,7 +558,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vänsterprassel</string>
+		<string>vansterprassel</string>
 		<key>Word</key>
 		<string>vänsterprassel</string>
 	</dict>
@@ -566,7 +566,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vänsäll</string>
+		<string>vansall</string>
 		<key>Word</key>
 		<string>vänsäll</string>
 	</dict>
@@ -574,7 +574,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vänthall</string>
+		<string>vanthall</string>
 		<key>Word</key>
 		<string>vänthall</string>
 	</dict>
@@ -582,7 +582,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>väntsal</string>
+		<string>vantsal</string>
 		<key>Word</key>
 		<string>väntsal</string>
 	</dict>
@@ -590,7 +590,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>värdefull</string>
+		<string>vardefull</string>
 		<key>Word</key>
 		<string>värdefull</string>
 	</dict>
@@ -598,7 +598,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>världsdel</string>
+		<string>varldsdel</string>
 		<key>Word</key>
 		<string>världsdel</string>
 	</dict>
@@ -606,7 +606,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>världskulturell</string>
+		<string>varldskulturell</string>
 		<key>Word</key>
 		<string>världskulturell</string>
 	</dict>
@@ -614,7 +614,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vävstol</string>
+		<string>vavstol</string>
 		<key>Word</key>
 		<string>vävstol</string>
 	</dict>
@@ -622,7 +622,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>växel</string>
+		<string>vaxel</string>
 		<key>Word</key>
 		<string>växel</string>
 	</dict>
@@ -630,7 +630,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>växlingsfil</string>
+		<string>vaxlingsfil</string>
 		<key>Word</key>
 		<string>växlingsfil</string>
 	</dict>
@@ -638,7 +638,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>växtlokal</string>
+		<string>vaxtlokal</string>
 		<key>Word</key>
 		<string>växtlokal</string>
 	</dict>
@@ -646,7 +646,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>växtmaterial</string>
+		<string>vaxtmaterial</string>
 		<key>Word</key>
 		<string>växtmaterial</string>
 	</dict>
@@ -654,7 +654,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>växtnäringsinnehåll</string>
+		<string>vaxtnaringsinnehall</string>
 		<key>Word</key>
 		<string>växtnäringsinnehåll</string>
 	</dict>
@@ -662,7 +662,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>växtnäringspool</string>
+		<string>vaxtnaringspool</string>
 		<key>Word</key>
 		<string>växtnäringspool</string>
 	</dict>
@@ -670,7 +670,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>växtpool</string>
+		<string>vaxtpool</string>
 		<key>Word</key>
 		<string>växtpool</string>
 	</dict>
@@ -678,7 +678,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vågspel</string>
+		<string>vagspel</string>
 		<key>Word</key>
 		<string>vågspel</string>
 	</dict>
@@ -686,7 +686,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>våldsdataspel</string>
+		<string>valdsdataspel</string>
 		<key>Word</key>
 		<string>våldsdataspel</string>
 	</dict>
@@ -694,7 +694,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vårdcentral</string>
+		<string>vardcentral</string>
 		<key>Word</key>
 		<string>vårdcentral</string>
 	</dict>
@@ -702,7 +702,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vårdpersonal</string>
+		<string>vardpersonal</string>
 		<key>Word</key>
 		<string>vårdpersonal</string>
 	</dict>
@@ -710,7 +710,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vårsol</string>
+		<string>varsol</string>
 		<key>Word</key>
 		<string>vårsol</string>
 	</dict>
@@ -718,7 +718,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vördnadsfull</string>
+		<string>vordnadsfull</string>
 		<key>Word</key>
 		<string>vördnadsfull</string>
 	</dict>

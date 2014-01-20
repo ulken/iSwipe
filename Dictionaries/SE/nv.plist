@@ -126,7 +126,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>näringsliv</string>
+		<string>naringsliv</string>
 		<key>Word</key>
 		<string>näringsliv</string>
 	</dict>
@@ -134,7 +134,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>näringslivsarkiv</string>
+		<string>naringslivsarkiv</string>
 		<key>Word</key>
 		<string>näringslivsarkiv</string>
 	</dict>
@@ -142,7 +142,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>nöjesliv</string>
+		<string>nojesliv</string>
 		<key>Word</key>
 		<string>nöjesliv</string>
 	</dict>

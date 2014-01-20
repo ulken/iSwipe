@@ -38,7 +38,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>janácek</string>
+		<string>janacek</string>
 		<key>Word</key>
 		<string>Janácek</string>
 	</dict>
@@ -198,7 +198,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jämlik</string>
+		<string>jamlik</string>
 		<key>Word</key>
 		<string>jämlik</string>
 	</dict>
@@ -206,7 +206,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jämtländsk</string>
+		<string>jamtlandsk</string>
 		<key>Word</key>
 		<string>jämtländsk</string>
 	</dict>
@@ -214,7 +214,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>jättelik</string>
+		<string>jattelik</string>
 		<key>Word</key>
 		<string>jättelik</string>
 	</dict>

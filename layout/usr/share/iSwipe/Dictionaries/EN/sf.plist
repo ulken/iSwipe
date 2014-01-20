@@ -30,7 +30,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>sjömansbiff</string>
+		<string>sjomansbiff</string>
 		<key>Word</key>
 		<string>sjömansbiff</string>
 	</dict>
@@ -150,7 +150,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>sökträff</string>
+		<string>soktraff</string>
 		<key>Word</key>
 		<string>sökträff</string>
 	</dict>

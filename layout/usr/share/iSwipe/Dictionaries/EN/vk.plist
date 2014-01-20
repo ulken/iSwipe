@@ -30,7 +30,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>valspråk</string>
+		<string>valsprak</string>
 		<key>Word</key>
 		<string>valspråk</string>
 	</dict>
@@ -198,7 +198,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>viebäck</string>
+		<string>vieback</string>
 		<key>Word</key>
 		<string>Viebäck</string>
 	</dict>
@@ -286,7 +286,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vitlök</string>
+		<string>vitlok</string>
 		<key>Word</key>
 		<string>vitlök</string>
 	</dict>
@@ -334,7 +334,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vräk</string>
+		<string>vrak</string>
 		<key>Word</key>
 		<string>vräk</string>
 	</dict>
@@ -342,7 +342,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>väck</string>
+		<string>vack</string>
 		<key>Word</key>
 		<string>väck</string>
 	</dict>
@@ -350,7 +350,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>väderlek</string>
+		<string>vaderlek</string>
 		<key>Word</key>
 		<string>väderlek</string>
 	</dict>
@@ -358,7 +358,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>väderstreck</string>
+		<string>vaderstreck</string>
 		<key>Word</key>
 		<string>väderstreck</string>
 	</dict>
@@ -366,7 +366,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vägverk</string>
+		<string>vagverk</string>
 		<key>Word</key>
 		<string>vägverk</string>
 	</dict>
@@ -374,7 +374,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>välsk</string>
+		<string>valsk</string>
 		<key>Word</key>
 		<string>välsk</string>
 	</dict>
@@ -382,7 +382,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vänsterpartistisk</string>
+		<string>vansterpartistisk</string>
 		<key>Word</key>
 		<string>vänsterpartistisk</string>
 	</dict>
@@ -390,7 +390,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>värk</string>
+		<string>vark</string>
 		<key>Word</key>
 		<string>värk</string>
 	</dict>
@@ -398,7 +398,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>världsmusik</string>
+		<string>varldsmusik</string>
 		<key>Word</key>
 		<string>världsmusik</string>
 	</dict>
@@ -406,7 +406,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>världspolitik</string>
+		<string>varldspolitik</string>
 		<key>Word</key>
 		<string>världspolitik</string>
 	</dict>
@@ -414,7 +414,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>världspolitisk</string>
+		<string>varldspolitisk</string>
 		<key>Word</key>
 		<string>världspolitisk</string>
 	</dict>
@@ -422,7 +422,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>värmländsk</string>
+		<string>varmlandsk</string>
 		<key>Word</key>
 		<string>värmländsk</string>
 	</dict>
@@ -430,7 +430,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>västanvik</string>
+		<string>vastanvik</string>
 		<key>Word</key>
 		<string>Västanvik</string>
 	</dict>
@@ -438,7 +438,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>västerbottnisk</string>
+		<string>vasterbottnisk</string>
 		<key>Word</key>
 		<string>västerbottnisk</string>
 	</dict>
@@ -446,7 +446,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>västerländsk</string>
+		<string>vasterlandsk</string>
 		<key>Word</key>
 		<string>västerländsk</string>
 	</dict>
@@ -454,7 +454,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>västervik</string>
+		<string>vastervik</string>
 		<key>Word</key>
 		<string>Västervik</string>
 	</dict>
@@ -462,7 +462,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>västeuropeisk</string>
+		<string>vasteuropeisk</string>
 		<key>Word</key>
 		<string>västeuropeisk</string>
 	</dict>
@@ -470,7 +470,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>västgötsk</string>
+		<string>vastgotsk</string>
 		<key>Word</key>
 		<string>västgötsk</string>
 	</dict>
@@ -478,7 +478,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>västindisk</string>
+		<string>vastindisk</string>
 		<key>Word</key>
 		<string>västindisk</string>
 	</dict>
@@ -486,7 +486,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>västtysk</string>
+		<string>vasttysk</string>
 		<key>Word</key>
 		<string>västtysk</string>
 	</dict>

@@ -86,7 +86,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>klöv</string>
+		<string>klov</string>
 		<key>Word</key>
 		<string>klöv</string>
 	</dict>
@@ -126,7 +126,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kommittédirektiv</string>
+		<string>kommittedirektiv</string>
 		<key>Word</key>
 		<string>kommittédirektiv</string>
 	</dict>
@@ -270,7 +270,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kräv</string>
+		<string>krav</string>
 		<key>Word</key>
 		<string>kräv</string>
 	</dict>
@@ -302,7 +302,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kungälv</string>
+		<string>kungalv</string>
 		<key>Word</key>
 		<string>Kungälv</string>
 	</dict>
@@ -358,7 +358,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kväv</string>
+		<string>kvav</string>
 		<key>Word</key>
 		<string>kväv</string>
 	</dict>
@@ -374,7 +374,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kändisliv</string>
+		<string>kandisliv</string>
 		<key>Word</key>
 		<string>kändisliv</string>
 	</dict>
@@ -382,7 +382,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kärv</string>
+		<string>karv</string>
 		<key>Word</key>
 		<string>kärv</string>
 	</dict>
@@ -390,7 +390,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>köksgolv</string>
+		<string>koksgolv</string>
 		<key>Word</key>
 		<string>köksgolv</string>
 	</dict>
@@ -398,7 +398,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kökskniv</string>
+		<string>kokskniv</string>
 		<key>Word</key>
 		<string>kökskniv</string>
 	</dict>
@@ -406,7 +406,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>könsperspektiv</string>
+		<string>konsperspektiv</string>
 		<key>Word</key>
 		<string>könsperspektiv</string>
 	</dict>

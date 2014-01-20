@@ -86,7 +86,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>gnosjö</string>
+		<string>gnosjo</string>
 		<key>Word</key>
 		<string>Gnosjö</string>
 	</dict>
@@ -134,7 +134,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>grönesjö</string>
+		<string>gronesjo</string>
 		<key>Word</key>
 		<string>Grönesjö</string>
 	</dict>
@@ -150,7 +150,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>guantánamo</string>
+		<string>guantanamo</string>
 		<key>Word</key>
 		<string>Guantánamo</string>
 	</dict>

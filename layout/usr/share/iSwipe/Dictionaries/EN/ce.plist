@@ -30,7 +30,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>café</string>
+		<string>cafe</string>
 		<key>Word</key>
 		<string>café</string>
 	</dict>
@@ -150,7 +150,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>censorsämbete</string>
+		<string>censorsambete</string>
 		<key>Word</key>
 		<string>censorsämbete</string>
 	</dict>
@@ -214,7 +214,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>centralvärme</string>
+		<string>centralvarme</string>
 		<key>Word</key>
 		<string>centralvärme</string>
 	</dict>
@@ -238,7 +238,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>certifikatutfärdare</string>
+		<string>certifikatutfardare</string>
 		<key>Word</key>
 		<string>certifikatutfärdare</string>
 	</dict>
@@ -278,7 +278,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>chargé</string>
+		<string>charge</string>
 		<key>Word</key>
 		<string>chargé</string>
 	</dict>
@@ -422,7 +422,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>chiffonjé</string>
+		<string>chiffonje</string>
 		<key>Word</key>
 		<string>chiffonjé</string>
 	</dict>
@@ -694,7 +694,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>cyanväte</string>
+		<string>cyanvate</string>
 		<key>Word</key>
 		<string>cyanväte</string>
 	</dict>
@@ -726,7 +726,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>côte</string>
+		<string>cote</string>
 		<key>Word</key>
 		<string>Côte</string>
 	</dict>

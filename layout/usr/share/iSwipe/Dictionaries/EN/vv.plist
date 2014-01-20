@@ -132,7 +132,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>välv</string>
+		<string>valv</string>
 		<key>Word</key>
 		<string>välv</string>
 	</dict>
@@ -140,7 +140,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>världshav</string>
+		<string>varldshav</string>
 		<key>Word</key>
 		<string>världshav</string>
 	</dict>
@@ -148,7 +148,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>värmlandsarkiv</string>
+		<string>varmlandsarkiv</string>
 		<key>Word</key>
 		<string>Värmlandsarkiv</string>
 	</dict>
@@ -156,7 +156,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>värv</string>
+		<string>varv</string>
 		<key>Word</key>
 		<string>värv</string>
 	</dict>
@@ -164,7 +164,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>väv</string>
+		<string>vav</string>
 		<key>Word</key>
 		<string>väv</string>
 	</dict>
@@ -172,7 +172,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>växtnäringsbehov</string>
+		<string>vaxtnaringsbehov</string>
 		<key>Word</key>
 		<string>växtnäringsbehov</string>
 	</dict>
@@ -180,7 +180,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vårlöv</string>
+		<string>varlov</string>
 		<key>Word</key>
 		<string>vårlöv</string>
 	</dict>

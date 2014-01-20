@@ -38,7 +38,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rabén</string>
+		<string>raben</string>
 		<key>Word</key>
 		<string>Rabén</string>
 	</dict>
@@ -110,7 +110,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>radavstånden</string>
+		<string>radavstanden</string>
 		<key>Word</key>
 		<string>radavstånden</string>
 	</dict>
@@ -270,7 +270,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>radioföredragen</string>
+		<string>radioforedragen</string>
 		<key>Word</key>
 		<string>radioföredragen</string>
 	</dict>
@@ -326,7 +326,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>radiolänken</string>
+		<string>radiolanken</string>
 		<key>Word</key>
 		<string>radiolänken</string>
 	</dict>
@@ -350,7 +350,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>radionäten</string>
+		<string>radionaten</string>
 		<key>Word</key>
 		<string>radionäten</string>
 	</dict>
@@ -374,7 +374,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>radioreparatören</string>
+		<string>radioreparatoren</string>
 		<key>Word</key>
 		<string>radioreparatören</string>
 	</dict>
@@ -414,7 +414,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>radiostrålningen</string>
+		<string>radiostralningen</string>
 		<key>Word</key>
 		<string>radiostrålningen</string>
 	</dict>
@@ -430,7 +430,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>radiosändaren</string>
+		<string>radiosandaren</string>
 		<key>Word</key>
 		<string>radiosändaren</string>
 	</dict>
@@ -446,7 +446,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>radioteaterpjäsen</string>
+		<string>radioteaterpjasen</string>
 		<key>Word</key>
 		<string>radioteaterpjäsen</string>
 	</dict>
@@ -478,7 +478,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>radiovågen</string>
+		<string>radiovagen</string>
 		<key>Word</key>
 		<string>radiovågen</string>
 	</dict>
@@ -486,7 +486,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>radlängden</string>
+		<string>radlangden</string>
 		<key>Word</key>
 		<string>radlängden</string>
 	</dict>
@@ -606,7 +606,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ramberättelsen</string>
+		<string>ramberattelsen</string>
 		<key>Word</key>
 		<string>ramberättelsen</string>
 	</dict>
@@ -670,7 +670,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ramón</string>
+		<string>ramon</string>
 		<key>Word</key>
 		<string>Ramón</string>
 	</dict>
@@ -766,7 +766,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rannsakningshäkten</string>
+		<string>rannsakningshakten</string>
 		<key>Word</key>
 		<string>rannsakningshäkten</string>
 	</dict>
@@ -822,7 +822,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rapphönan</string>
+		<string>rapphonan</string>
 		<key>Word</key>
 		<string>rapphönan</string>
 	</dict>
@@ -870,7 +870,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rapsfälten</string>
+		<string>rapsfalten</string>
 		<key>Word</key>
 		<string>rapsfälten</string>
 	</dict>
@@ -918,7 +918,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rasförsämringen</string>
+		<string>rasforsamringen</string>
 		<key>Word</key>
 		<string>rasförsämringen</string>
 	</dict>
@@ -1110,7 +1110,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>reaktionsförmågan</string>
+		<string>reaktionsformagan</string>
 		<key>Word</key>
 		<string>reaktionsförmågan</string>
 	</dict>
@@ -1118,7 +1118,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>reaktorhärden</string>
+		<string>reaktorharden</string>
 		<key>Word</key>
 		<string>reaktorhärden</string>
 	</dict>
@@ -1134,7 +1134,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>reaktorsäkerhetsutredningen</string>
+		<string>reaktorsakerhetsutredningen</string>
 		<key>Word</key>
 		<string>reaktorsäkerhetsutredningen</string>
 	</dict>
@@ -1198,7 +1198,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>realläroverken</string>
+		<string>reallaroverken</string>
 		<key>Word</key>
 		<string>realläroverken</string>
 	</dict>
@@ -1350,7 +1350,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>redaktionskommittén</string>
+		<string>redaktionskommitten</string>
 		<key>Word</key>
 		<string>redaktionskommittén</string>
 	</dict>
@@ -1366,7 +1366,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>redaktören</string>
+		<string>redaktoren</string>
 		<key>Word</key>
 		<string>redaktören</string>
 	</dict>
@@ -1430,7 +1430,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>redigeringsavstånden</string>
+		<string>redigeringsavstanden</string>
 		<key>Word</key>
 		<string>redigeringsavstånden</string>
 	</dict>
@@ -1438,7 +1438,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>redigeringsförloppen</string>
+		<string>redigeringsforloppen</string>
 		<key>Word</key>
 		<string>redigeringsförloppen</string>
 	</dict>
@@ -1462,7 +1462,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>redigeringslåsen</string>
+		<string>redigeringslasen</string>
 		<key>Word</key>
 		<string>redigeringslåsen</string>
 	</dict>
@@ -1470,7 +1470,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>redigeringslåsningen</string>
+		<string>redigeringslasningen</string>
 		<key>Word</key>
 		<string>redigeringslåsningen</string>
 	</dict>
@@ -1502,7 +1502,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>redogörelsen</string>
+		<string>redogorelsen</string>
 		<key>Word</key>
 		<string>redogörelsen</string>
 	</dict>
@@ -1758,7 +1758,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>reformrörelsen</string>
+		<string>reformrorelsen</string>
 		<key>Word</key>
 		<string>reformrörelsen</string>
 	</dict>
@@ -1766,7 +1766,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>refrängen</string>
+		<string>refrangen</string>
 		<key>Word</key>
 		<string>refrängen</string>
 	</dict>
@@ -1862,7 +1862,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>regentlängden</string>
+		<string>regentlangden</string>
 		<key>Word</key>
 		<string>regentlängden</string>
 	</dict>
@@ -1886,7 +1886,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>regeringsförhandlingen</string>
+		<string>regeringsforhandlingen</string>
 		<key>Word</key>
 		<string>regeringsförhandlingen</string>
 	</dict>
@@ -1902,7 +1902,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>regeringsområden</string>
+		<string>regeringsomraden</string>
 		<key>Word</key>
 		<string>regeringsområden</string>
 	</dict>
@@ -1918,7 +1918,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>regeringsrätten</string>
+		<string>regeringsratten</string>
 		<key>Word</key>
 		<string>regeringsrätten</string>
 	</dict>
@@ -1926,7 +1926,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>regeringssammanträden</string>
+		<string>regeringssammantraden</string>
 		<key>Word</key>
 		<string>regeringssammanträden</string>
 	</dict>
@@ -1942,7 +1942,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>regeringsställningen</string>
+		<string>regeringsstallningen</string>
 		<key>Word</key>
 		<string>regeringsställningen</string>
 	</dict>
@@ -1950,7 +1950,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>regeringsåren</string>
+		<string>regeringsaren</string>
 		<key>Word</key>
 		<string>regeringsåren</string>
 	</dict>
@@ -2030,7 +2030,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>regionkommittén</string>
+		<string>regionkommitten</string>
 		<key>Word</key>
 		<string>regionkommittén</string>
 	</dict>
@@ -2038,7 +2038,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>regissören</string>
+		<string>regissoren</string>
 		<key>Word</key>
 		<string>regissören</string>
 	</dict>
@@ -2070,7 +2070,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>registervärden</string>
+		<string>registervarden</string>
 		<key>Word</key>
 		<string>registervärden</string>
 	</dict>
@@ -2166,7 +2166,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>regnbågen</string>
+		<string>regnbagen</string>
 		<key>Word</key>
 		<string>regnbågen</string>
 	</dict>
@@ -2174,7 +2174,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>regnbågsbron</string>
+		<string>regnbagsbron</string>
 		<key>Word</key>
 		<string>regnbågsbron</string>
 	</dict>
@@ -2182,7 +2182,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>regnbågshinnan</string>
+		<string>regnbagshinnan</string>
 		<key>Word</key>
 		<string>regnbågshinnan</string>
 	</dict>
@@ -2222,7 +2222,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>regnskogsbälten</string>
+		<string>regnskogsbalten</string>
 		<key>Word</key>
 		<string>regnskogsbälten</string>
 	</dict>
@@ -2238,7 +2238,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>regnvädren</string>
+		<string>regnvadren</string>
 		<key>Word</key>
 		<string>regnvädren</string>
 	</dict>
@@ -2286,7 +2286,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rehabiliteringsaktören</string>
+		<string>rehabiliteringsaktoren</string>
 		<key>Word</key>
 		<string>rehabiliteringsaktören</string>
 	</dict>
@@ -2294,7 +2294,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rehabiliteringsfrågan</string>
+		<string>rehabiliteringsfragan</string>
 		<key>Word</key>
 		<string>rehabiliteringsfrågan</string>
 	</dict>
@@ -2310,7 +2310,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rehabiliteringskarriären</string>
+		<string>rehabiliteringskarriaren</string>
 		<key>Word</key>
 		<string>rehabiliteringskarriären</string>
 	</dict>
@@ -2430,7 +2430,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>reklambyrån</string>
+		<string>reklambyran</string>
 		<key>Word</key>
 		<string>reklambyrån</string>
 	</dict>
@@ -2566,7 +2566,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rekordskörden</string>
+		<string>rekordskorden</string>
 		<key>Word</key>
 		<string>rekordskörden</string>
 	</dict>
@@ -2806,7 +2806,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rem-sömn</string>
+		<string>rem-somn</string>
 		<key>Word</key>
 		<string>REM-sömn</string>
 	</dict>
@@ -2814,7 +2814,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rem-sömnen</string>
+		<string>rem-somnen</string>
 		<key>Word</key>
 		<string>REM-sömnen</string>
 	</dict>
@@ -2862,7 +2862,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>remsläsaren</string>
+		<string>remslasaren</string>
 		<key>Word</key>
 		<string>remsläsaren</string>
 	</dict>
@@ -2894,7 +2894,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rengöringsmedlen</string>
+		<string>rengoringsmedlen</string>
 		<key>Word</key>
 		<string>rengöringsmedlen</string>
 	</dict>
@@ -2918,7 +2918,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>renhållningen</string>
+		<string>renhallningen</string>
 		<key>Word</key>
 		<string>renhållningen</string>
 	</dict>
@@ -2958,7 +2958,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>renlärigheten</string>
+		<string>renlarigheten</string>
 		<key>Word</key>
 		<string>renlärigheten</string>
 	</dict>
@@ -2990,7 +2990,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>renskötaren</string>
+		<string>renskotaren</string>
 		<key>Word</key>
 		<string>renskötaren</string>
 	</dict>
@@ -2998,7 +2998,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>renskötseln</string>
+		<string>renskotseln</string>
 		<key>Word</key>
 		<string>renskötseln</string>
 	</dict>
@@ -3022,7 +3022,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>renässansen</string>
+		<string>renassansen</string>
 		<key>Word</key>
 		<string>renässansen</string>
 	</dict>
@@ -3030,7 +3030,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>renässanspoeten</string>
+		<string>renassanspoeten</string>
 		<key>Word</key>
 		<string>renässanspoeten</string>
 	</dict>
@@ -3038,7 +3038,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>renässanstiden</string>
+		<string>renassanstiden</string>
 		<key>Word</key>
 		<string>renässanstiden</string>
 	</dict>
@@ -3062,7 +3062,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>reorganisatören</string>
+		<string>reorganisatoren</string>
 		<key>Word</key>
 		<string>reorganisatören</string>
 	</dict>
@@ -3094,7 +3094,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>reparatören</string>
+		<string>reparatoren</string>
 		<key>Word</key>
 		<string>reparatören</string>
 	</dict>
@@ -3150,7 +3150,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>replikuppsättningen</string>
+		<string>replikuppsattningen</string>
 		<key>Word</key>
 		<string>replikuppsättningen</string>
 	</dict>
@@ -3214,7 +3214,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>representationsförändringen</string>
+		<string>representationsforandringen</string>
 		<key>Word</key>
 		<string>representationsförändringen</string>
 	</dict>
@@ -3318,7 +3318,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>researrangören</string>
+		<string>researrangoren</string>
 		<key>Word</key>
 		<string>researrangören</string>
 	</dict>
@@ -3326,7 +3326,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>reseberättelsen</string>
+		<string>reseberattelsen</string>
 		<key>Word</key>
 		<string>reseberättelsen</string>
 	</dict>
@@ -3350,7 +3350,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>resebyrån</string>
+		<string>resebyran</string>
 		<key>Word</key>
 		<string>resebyrån</string>
 	</dict>
@@ -3358,7 +3358,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>reseföretagen</string>
+		<string>reseforetagen</string>
 		<key>Word</key>
 		<string>reseföretagen</string>
 	</dict>
@@ -3390,7 +3390,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>resenären</string>
+		<string>resenaren</string>
 		<key>Word</key>
 		<string>resenären</string>
 	</dict>
@@ -3590,7 +3590,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>resmålen</string>
+		<string>resmalen</string>
 		<key>Word</key>
 		<string>resmålen</string>
 	</dict>
@@ -3702,7 +3702,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ressällskapen</string>
+		<string>ressallskapen</string>
 		<key>Word</key>
 		<string>ressällskapen</string>
 	</dict>
@@ -3718,7 +3718,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>restaurangköken</string>
+		<string>restaurangkoken</string>
 		<key>Word</key>
 		<string>restaurangköken</string>
 	</dict>
@@ -3726,7 +3726,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>restaurangvärlden</string>
+		<string>restaurangvarlden</string>
 		<key>Word</key>
 		<string>restaurangvärlden</string>
 	</dict>
@@ -3790,7 +3790,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>resultatbörsen</string>
+		<string>resultatborsen</string>
 		<key>Word</key>
 		<string>resultatbörsen</string>
 	</dict>
@@ -3862,7 +3862,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>resväskan</string>
+		<string>resvaskan</string>
 		<key>Word</key>
 		<string>resväskan</string>
 	</dict>
@@ -3902,7 +3902,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>reträtten</string>
+		<string>retratten</string>
 		<key>Word</key>
 		<string>reträtten</string>
 	</dict>
@@ -4046,7 +4046,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>revisionsberättelsen</string>
+		<string>revisionsberattelsen</string>
 		<key>Word</key>
 		<string>revisionsberättelsen</string>
 	</dict>
@@ -4110,7 +4110,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>revolutionsrörelsen</string>
+		<string>revolutionsrorelsen</string>
 		<key>Word</key>
 		<string>revolutionsrörelsen</string>
 	</dict>
@@ -4118,7 +4118,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>revolutionären</string>
+		<string>revolutionaren</string>
 		<key>Word</key>
 		<string>revolutionären</string>
 	</dict>
@@ -4214,7 +4214,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>riddarsläkten</string>
+		<string>riddarslakten</string>
 		<key>Word</key>
 		<string>riddarsläkten</string>
 	</dict>
@@ -4230,7 +4230,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ridån</string>
+		<string>ridan</string>
 		<key>Word</key>
 		<string>ridån</string>
 	</dict>
@@ -4366,7 +4366,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>riksdagsmän</string>
+		<string>riksdagsman</string>
 		<key>Word</key>
 		<string>riksdagsmän</string>
 	</dict>
@@ -4374,7 +4374,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>riksdagsmännen</string>
+		<string>riksdagsmannen</string>
 		<key>Word</key>
 		<string>riksdagsmännen</string>
 	</dict>
@@ -4406,7 +4406,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>riksförbunden</string>
+		<string>riksforbunden</string>
 		<key>Word</key>
 		<string>riksförbunden</string>
 	</dict>
@@ -4414,7 +4414,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>riksföreståndaren</string>
+		<string>riksforestandaren</string>
 		<key>Word</key>
 		<string>riksföreståndaren</string>
 	</dict>
@@ -4422,7 +4422,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>riksgälden</string>
+		<string>riksgalden</string>
 		<key>Word</key>
 		<string>riksgälden</string>
 	</dict>
@@ -4462,7 +4462,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>riksmöten</string>
+		<string>riksmoten</string>
 		<key>Word</key>
 		<string>riksmöten</string>
 	</dict>
@@ -4486,7 +4486,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>riksråden</string>
+		<string>riksraden</string>
 		<key>Word</key>
 		<string>riksråden</string>
 	</dict>
@@ -4494,7 +4494,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>riksstämman</string>
+		<string>riksstamman</string>
 		<key>Word</key>
 		<string>riksstämman</string>
 	</dict>
@@ -4510,7 +4510,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>riksvägen</string>
+		<string>riksvagen</string>
 		<key>Word</key>
 		<string>riksvägen</string>
 	</dict>
@@ -4550,7 +4550,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>riktmärken</string>
+		<string>riktmarken</string>
 		<key>Word</key>
 		<string>riktmärken</string>
 	</dict>
@@ -4574,7 +4574,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>riktvärden</string>
+		<string>riktvarden</string>
 		<key>Word</key>
 		<string>riktvärden</string>
 	</dict>
@@ -4590,7 +4590,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rimkrönikan</string>
+		<string>rimkronikan</string>
 		<key>Word</key>
 		<string>rimkrönikan</string>
 	</dict>
@@ -4614,7 +4614,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rimlighetsbedömningen</string>
+		<string>rimlighetsbedomningen</string>
 		<key>Word</key>
 		<string>rimlighetsbedömningen</string>
 	</dict>
@@ -4734,7 +4734,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ringsjön</string>
+		<string>ringsjon</string>
 		<key>Word</key>
 		<string>Ringsjön</string>
 	</dict>
@@ -4742,7 +4742,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ringvägen</string>
+		<string>ringvagen</string>
 		<key>Word</key>
 		<string>Ringvägen</string>
 	</dict>
@@ -4806,7 +4806,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>risgrynsgröten</string>
+		<string>risgrynsgroten</string>
 		<key>Word</key>
 		<string>risgrynsgröten</string>
 	</dict>
@@ -4814,7 +4814,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rishögen</string>
+		<string>rishogen</string>
 		<key>Word</key>
 		<string>rishögen</string>
 	</dict>
@@ -5046,7 +5046,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rocklåten</string>
+		<string>rocklaten</string>
 		<key>Word</key>
 		<string>rocklåten</string>
 	</dict>
@@ -5070,7 +5070,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rockuppsättningen</string>
+		<string>rockuppsattningen</string>
 		<key>Word</key>
 		<string>rockuppsättningen</string>
 	</dict>
@@ -5110,7 +5110,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rolf-göran</string>
+		<string>rolf-goran</string>
 		<key>Word</key>
 		<string>Rolf-Göran</string>
 	</dict>
@@ -5126,7 +5126,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rollförståelsen</string>
+		<string>rollforstaelsen</string>
 		<key>Word</key>
 		<string>rollförståelsen</string>
 	</dict>
@@ -5254,7 +5254,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rosenhäcken</string>
+		<string>rosenhacken</string>
 		<key>Word</key>
 		<string>rosenhäcken</string>
 	</dict>
@@ -5374,7 +5374,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rosén</string>
+		<string>rosen</string>
 		<key>Word</key>
 		<string>Rosén</string>
 	</dict>
@@ -5470,7 +5470,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rotrötan</string>
+		<string>rotrotan</string>
 		<key>Word</key>
 		<string>rotrötan</string>
 	</dict>
@@ -5598,7 +5598,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rovfågeln</string>
+		<string>rovfageln</string>
 		<key>Word</key>
 		<string>rovfågeln</string>
 	</dict>
@@ -5734,7 +5734,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ruinhögen</string>
+		<string>ruinhogen</string>
 		<key>Word</key>
 		<string>ruinhögen</string>
 	</dict>
@@ -5758,7 +5758,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rullbrädan</string>
+		<string>rullbradan</string>
 		<key>Word</key>
 		<string>rullbrädan</string>
 	</dict>
@@ -5838,7 +5838,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rumsuppvärmningen</string>
+		<string>rumsuppvarmningen</string>
 		<key>Word</key>
 		<string>rumsuppvärmningen</string>
 	</dict>
@@ -5854,7 +5854,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rumän</string>
+		<string>ruman</string>
 		<key>Word</key>
 		<string>rumän</string>
 	</dict>
@@ -5862,7 +5862,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rumänen</string>
+		<string>rumanen</string>
 		<key>Word</key>
 		<string>rumänen</string>
 	</dict>
@@ -5870,7 +5870,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rumänien</string>
+		<string>rumanien</string>
 		<key>Word</key>
 		<string>Rumänien</string>
 	</dict>
@@ -5878,7 +5878,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rumänskan</string>
+		<string>rumanskan</string>
 		<key>Word</key>
 		<string>rumänskan</string>
 	</dict>
@@ -5894,7 +5894,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rundgången</string>
+		<string>rundgangen</string>
 		<key>Word</key>
 		<string>rundgången</string>
 	</dict>
@@ -6030,7 +6030,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rusthållaren</string>
+		<string>rusthallaren</string>
 		<key>Word</key>
 		<string>rusthållaren</string>
 	</dict>
@@ -6078,7 +6078,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rutinräkningen</string>
+		<string>rutinrakningen</string>
 		<key>Word</key>
 		<string>rutinräkningen</string>
 	</dict>
@@ -6086,7 +6086,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rutmönstren</string>
+		<string>rutmonstren</string>
 		<key>Word</key>
 		<string>rutmönstren</string>
 	</dict>
@@ -6094,7 +6094,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rutnäten</string>
+		<string>rutnaten</string>
 		<key>Word</key>
 		<string>rutnäten</string>
 	</dict>
@@ -6134,7 +6134,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rydsvägen</string>
+		<string>rydsvagen</string>
 		<key>Word</key>
 		<string>Rydsvägen</string>
 	</dict>
@@ -6142,7 +6142,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rydén</string>
+		<string>ryden</string>
 		<key>Word</key>
 		<string>Rydén</string>
 	</dict>
@@ -6174,7 +6174,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ryggradsnäten</string>
+		<string>ryggradsnaten</string>
 		<key>Word</key>
 		<string>ryggradsnäten</string>
 	</dict>
@@ -6182,7 +6182,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ryggsträngsdjuren</string>
+		<string>ryggstrangsdjuren</string>
 		<key>Word</key>
 		<string>ryggsträngsdjuren</string>
 	</dict>
@@ -6190,7 +6190,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ryggstöden</string>
+		<string>ryggstoden</string>
 		<key>Word</key>
 		<string>ryggstöden</string>
 	</dict>
@@ -6198,7 +6198,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ryggsäcken</string>
+		<string>ryggsacken</string>
 		<key>Word</key>
 		<string>ryggsäcken</string>
 	</dict>
@@ -6206,7 +6206,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ryggvärken</string>
+		<string>ryggvarken</string>
 		<key>Word</key>
 		<string>ryggvärken</string>
 	</dict>
@@ -6214,7 +6214,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ryggåsstugan</string>
+		<string>ryggasstugan</string>
 		<key>Word</key>
 		<string>ryggåsstugan</string>
 	</dict>
@@ -6262,7 +6262,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rymddräkten</string>
+		<string>rymddrakten</string>
 		<key>Word</key>
 		<string>rymddräkten</string>
 	</dict>
@@ -6294,7 +6294,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rymdfärden</string>
+		<string>rymdfarden</string>
 		<key>Word</key>
 		<string>rymdfärden</string>
 	</dict>
@@ -6302,7 +6302,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rymdfärjan</string>
+		<string>rymdfarjan</string>
 		<key>Word</key>
 		<string>rymdfärjan</string>
 	</dict>
@@ -6310,7 +6310,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rymdfärjeuppskjutningen</string>
+		<string>rymdfarjeuppskjutningen</string>
 		<key>Word</key>
 		<string>rymdfärjeuppskjutningen</string>
 	</dict>
@@ -6342,7 +6342,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rymdmåtten</string>
+		<string>rymdmatten</string>
 		<key>Word</key>
 		<string>rymdmåtten</string>
 	</dict>
@@ -6510,7 +6510,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ryttarstöveln</string>
+		<string>ryttarstoveln</string>
 		<key>Word</key>
 		<string>ryttarstöveln</string>
 	</dict>
@@ -6518,7 +6518,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ryttmästaren</string>
+		<string>ryttmastaren</string>
 		<key>Word</key>
 		<string>ryttmästaren</string>
 	</dict>
@@ -6526,7 +6526,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>räcken</string>
+		<string>racken</string>
 		<key>Word</key>
 		<string>räcken</string>
 	</dict>
@@ -6534,7 +6534,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>räckvidden</string>
+		<string>rackvidden</string>
 		<key>Word</key>
 		<string>räckvidden</string>
 	</dict>
@@ -6542,7 +6542,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>räddaren</string>
+		<string>raddaren</string>
 		<key>Word</key>
 		<string>räddaren</string>
 	</dict>
@@ -6550,7 +6550,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>räddningen</string>
+		<string>raddningen</string>
 		<key>Word</key>
 		<string>räddningen</string>
 	</dict>
@@ -6558,7 +6558,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>räddningsplankan</string>
+		<string>raddningsplankan</string>
 		<key>Word</key>
 		<string>räddningsplankan</string>
 	</dict>
@@ -6566,7 +6566,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>räddningstjänsten</string>
+		<string>raddningstjansten</string>
 		<key>Word</key>
 		<string>räddningstjänsten</string>
 	</dict>
@@ -6574,7 +6574,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>räden</string>
+		<string>raden</string>
 		<key>Word</key>
 		<string>räden</string>
 	</dict>
@@ -6582,7 +6582,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rädslan</string>
+		<string>radslan</string>
 		<key>Word</key>
 		<string>rädslan</string>
 	</dict>
@@ -6590,7 +6590,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>räfflan</string>
+		<string>rafflan</string>
 		<key>Word</key>
 		<string>räfflan</string>
 	</dict>
@@ -6598,7 +6598,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>räfsan</string>
+		<string>rafsan</string>
 		<key>Word</key>
 		<string>räfsan</string>
 	</dict>
@@ -6606,7 +6606,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>räfsten</string>
+		<string>rafsten</string>
 		<key>Word</key>
 		<string>räfsten</string>
 	</dict>
@@ -6614,7 +6614,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>räkan</string>
+		<string>rakan</string>
 		<key>Word</key>
 		<string>räkan</string>
 	</dict>
@@ -6622,7 +6622,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>räkenskapen</string>
+		<string>rakenskapen</string>
 		<key>Word</key>
 		<string>räkenskapen</string>
 	</dict>
@@ -6630,7 +6630,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>räkenskapsåren</string>
+		<string>rakenskapsaren</string>
 		<key>Word</key>
 		<string>räkenskapsåren</string>
 	</dict>
@@ -6638,7 +6638,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>räkmackan</string>
+		<string>rakmackan</string>
 		<key>Word</key>
 		<string>räkmackan</string>
 	</dict>
@@ -6646,7 +6646,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>räknaren</string>
+		<string>raknaren</string>
 		<key>Word</key>
 		<string>räknaren</string>
 	</dict>
@@ -6654,7 +6654,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>räkneorden</string>
+		<string>rakneorden</string>
 		<key>Word</key>
 		<string>räkneorden</string>
 	</dict>
@@ -6662,7 +6662,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>räkneprogrammen</string>
+		<string>rakneprogrammen</string>
 		<key>Word</key>
 		<string>räkneprogrammen</string>
 	</dict>
@@ -6670,7 +6670,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>räkneregeln</string>
+		<string>rakneregeln</string>
 		<key>Word</key>
 		<string>räkneregeln</string>
 	</dict>
@@ -6678,7 +6678,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>räknesnurran</string>
+		<string>raknesnurran</string>
 		<key>Word</key>
 		<string>räknesnurran</string>
 	</dict>
@@ -6686,7 +6686,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>räknestickan</string>
+		<string>raknestickan</string>
 		<key>Word</key>
 		<string>räknestickan</string>
 	</dict>
@@ -6694,7 +6694,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>räknesätten</string>
+		<string>raknesatten</string>
 		<key>Word</key>
 		<string>räknesätten</string>
 	</dict>
@@ -6702,7 +6702,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>räkningen</string>
+		<string>rakningen</string>
 		<key>Word</key>
 		<string>räkningen</string>
 	</dict>
@@ -6710,7 +6710,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rälen</string>
+		<string>ralen</string>
 		<key>Word</key>
 		<string>rälen</string>
 	</dict>
@@ -6718,7 +6718,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rälsen</string>
+		<string>ralsen</string>
 		<key>Word</key>
 		<string>rälsen</string>
 	</dict>
@@ -6726,7 +6726,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rämnan</string>
+		<string>ramnan</string>
 		<key>Word</key>
 		<string>rämnan</string>
 	</dict>
@@ -6734,7 +6734,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ränn</string>
+		<string>rann</string>
 		<key>Word</key>
 		<string>ränn</string>
 	</dict>
@@ -6742,7 +6742,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rännan</string>
+		<string>rannan</string>
 		<key>Word</key>
 		<string>rännan</string>
 	</dict>
@@ -6750,7 +6750,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rännilen</string>
+		<string>rannilen</string>
 		<key>Word</key>
 		<string>rännilen</string>
 	</dict>
@@ -6758,7 +6758,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rännsten</string>
+		<string>rannsten</string>
 		<key>Word</key>
 		<string>rännsten</string>
 	</dict>
@@ -6766,7 +6766,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rännstenen</string>
+		<string>rannstenen</string>
 		<key>Word</key>
 		<string>rännstenen</string>
 	</dict>
@@ -6774,7 +6774,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ränseln</string>
+		<string>ranseln</string>
 		<key>Word</key>
 		<string>ränseln</string>
 	</dict>
@@ -6782,7 +6782,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>räntabiliteten</string>
+		<string>rantabiliteten</string>
 		<key>Word</key>
 		<string>räntabiliteten</string>
 	</dict>
@@ -6790,7 +6790,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>räntan</string>
+		<string>rantan</string>
 		<key>Word</key>
 		<string>räntan</string>
 	</dict>
@@ -6798,7 +6798,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ränteavdragen</string>
+		<string>ranteavdragen</string>
 		<key>Word</key>
 		<string>ränteavdragen</string>
 	</dict>
@@ -6806,7 +6806,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ränteinbetalningen</string>
+		<string>ranteinbetalningen</string>
 		<key>Word</key>
 		<string>ränteinbetalningen</string>
 	</dict>
@@ -6814,7 +6814,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>räntekostnaden</string>
+		<string>rantekostnaden</string>
 		<key>Word</key>
 		<string>räntekostnaden</string>
 	</dict>
@@ -6822,7 +6822,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>räntesatsen</string>
+		<string>rantesatsen</string>
 		<key>Word</key>
 		<string>räntesatsen</string>
 	</dict>
@@ -6830,7 +6830,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ränteuppgiften</string>
+		<string>ranteuppgiften</string>
 		<key>Word</key>
 		<string>ränteuppgiften</string>
 	</dict>
@@ -6838,7 +6838,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rätoromanskan</string>
+		<string>ratoromanskan</string>
 		<key>Word</key>
 		<string>rätoromanskan</string>
 	</dict>
@@ -6846,7 +6846,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rätsidan</string>
+		<string>ratsidan</string>
 		<key>Word</key>
 		<string>rätsidan</string>
 	</dict>
@@ -6854,7 +6854,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rättan</string>
+		<string>rattan</string>
 		<key>Word</key>
 		<string>rättan</string>
 	</dict>
@@ -6862,7 +6862,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rättaren</string>
+		<string>rattaren</string>
 		<key>Word</key>
 		<string>rättaren</string>
 	</dict>
@@ -6870,7 +6870,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rättegången</string>
+		<string>rattegangen</string>
 		<key>Word</key>
 		<string>rättegången</string>
 	</dict>
@@ -6878,7 +6878,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rätteligen</string>
+		<string>ratteligen</string>
 		<key>Word</key>
 		<string>rätteligen</string>
 	</dict>
@@ -6886,7 +6886,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rättelsen</string>
+		<string>rattelsen</string>
 		<key>Word</key>
 		<string>rättelsen</string>
 	</dict>
@@ -6894,7 +6894,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rätten</string>
+		<string>ratten</string>
 		<key>Word</key>
 		<string>rätten</string>
 	</dict>
@@ -6902,7 +6902,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rättfärdigheten</string>
+		<string>rattfardigheten</string>
 		<key>Word</key>
 		<string>rättfärdigheten</string>
 	</dict>
@@ -6910,7 +6910,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rättigheten</string>
+		<string>rattigheten</string>
 		<key>Word</key>
 		<string>rättigheten</string>
 	</dict>
@@ -6918,7 +6918,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rättningen</string>
+		<string>rattningen</string>
 		<key>Word</key>
 		<string>rättningen</string>
 	</dict>
@@ -6926,7 +6926,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rättrogen</string>
+		<string>rattrogen</string>
 		<key>Word</key>
 		<string>rättrogen</string>
 	</dict>
@@ -6934,7 +6934,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rättrådigheten</string>
+		<string>rattradigheten</string>
 		<key>Word</key>
 		<string>rättrådigheten</string>
 	</dict>
@@ -6942,7 +6942,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rättsfiguren</string>
+		<string>rattsfiguren</string>
 		<key>Word</key>
 		<string>rättsfiguren</string>
 	</dict>
@@ -6950,7 +6950,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rättshandlingen</string>
+		<string>rattshandlingen</string>
 		<key>Word</key>
 		<string>rättshandlingen</string>
 	</dict>
@@ -6958,7 +6958,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rättshaveristen</string>
+		<string>rattshaveristen</string>
 		<key>Word</key>
 		<string>rättshaveristen</string>
 	</dict>
@@ -6966,7 +6966,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rättsinformatiken</string>
+		<string>rattsinformatiken</string>
 		<key>Word</key>
 		<string>rättsinformatiken</string>
 	</dict>
@@ -6974,7 +6974,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rättskrivningen</string>
+		<string>rattskrivningen</string>
 		<key>Word</key>
 		<string>rättskrivningen</string>
 	</dict>
@@ -6982,7 +6982,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rättsmedicin</string>
+		<string>rattsmedicin</string>
 		<key>Word</key>
 		<string>rättsmedicin</string>
 	</dict>
@@ -6990,7 +6990,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rättsmedicinen</string>
+		<string>rattsmedicinen</string>
 		<key>Word</key>
 		<string>rättsmedicinen</string>
 	</dict>
@@ -6998,7 +6998,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rättspsykiatrin</string>
+		<string>rattspsykiatrin</string>
 		<key>Word</key>
 		<string>rättspsykiatrin</string>
 	</dict>
@@ -7006,7 +7006,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rättsskipningen</string>
+		<string>rattsskipningen</string>
 		<key>Word</key>
 		<string>rättsskipningen</string>
 	</dict>
@@ -7014,7 +7014,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rättsstaten</string>
+		<string>rattsstaten</string>
 		<key>Word</key>
 		<string>rättsstaten</string>
 	</dict>
@@ -7022,7 +7022,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rättssubjekten</string>
+		<string>rattssubjekten</string>
 		<key>Word</key>
 		<string>rättssubjekten</string>
 	</dict>
@@ -7030,7 +7030,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rättssystemen</string>
+		<string>rattssystemen</string>
 		<key>Word</key>
 		<string>rättssystemen</string>
 	</dict>
@@ -7038,7 +7038,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rättssäkerheten</string>
+		<string>rattssakerheten</string>
 		<key>Word</key>
 		<string>rättssäkerheten</string>
 	</dict>
@@ -7046,7 +7046,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rättstavningen</string>
+		<string>rattstavningen</string>
 		<key>Word</key>
 		<string>rättstavningen</string>
 	</dict>
@@ -7054,7 +7054,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rättstavningsprogrammen</string>
+		<string>rattstavningsprogrammen</string>
 		<key>Word</key>
 		<string>rättstavningsprogrammen</string>
 	</dict>
@@ -7062,7 +7062,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rättsundersökningen</string>
+		<string>rattsundersokningen</string>
 		<key>Word</key>
 		<string>rättsundersökningen</string>
 	</dict>
@@ -7070,7 +7070,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rättvisan</string>
+		<string>rattvisan</string>
 		<key>Word</key>
 		<string>rättvisan</string>
 	</dict>
@@ -7078,7 +7078,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>räven</string>
+		<string>raven</string>
 		<key>Word</key>
 		<string>räven</string>
 	</dict>
@@ -7086,7 +7086,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rävgryten</string>
+		<string>ravgryten</string>
 		<key>Word</key>
 		<string>rävgryten</string>
 	</dict>
@@ -7094,7 +7094,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rävkulan</string>
+		<string>ravkulan</string>
 		<key>Word</key>
 		<string>rävkulan</string>
 	</dict>
@@ -7102,7 +7102,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>råden</string>
+		<string>raden</string>
 		<key>Word</key>
 		<string>råden</string>
 	</dict>
@@ -7110,7 +7110,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rådgivaren</string>
+		<string>radgivaren</string>
 		<key>Word</key>
 		<string>rådgivaren</string>
 	</dict>
@@ -7118,7 +7118,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rådgivningen</string>
+		<string>radgivningen</string>
 		<key>Word</key>
 		<string>rådgivningen</string>
 	</dict>
@@ -7126,7 +7126,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rådgivningsverksamheten</string>
+		<string>radgivningsverksamheten</string>
 		<key>Word</key>
 		<string>rådgivningsverksamheten</string>
 	</dict>
@@ -7134,7 +7134,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rådhusen</string>
+		<string>radhusen</string>
 		<key>Word</key>
 		<string>rådhusen</string>
 	</dict>
@@ -7142,7 +7142,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rådhuskällaren</string>
+		<string>radhuskallaren</string>
 		<key>Word</key>
 		<string>rådhuskällaren</string>
 	</dict>
@@ -7150,7 +7150,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rådigheten</string>
+		<string>radigheten</string>
 		<key>Word</key>
 		<string>rådigheten</string>
 	</dict>
@@ -7158,7 +7158,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rådjuren</string>
+		<string>radjuren</string>
 		<key>Word</key>
 		<string>rådjuren</string>
 	</dict>
@@ -7166,7 +7166,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rådman</string>
+		<string>radman</string>
 		<key>Word</key>
 		<string>rådman</string>
 	</dict>
@@ -7174,7 +7174,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rådmannen</string>
+		<string>radmannen</string>
 		<key>Word</key>
 		<string>rådmannen</string>
 	</dict>
@@ -7182,7 +7182,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rådmansgatan</string>
+		<string>radmansgatan</string>
 		<key>Word</key>
 		<string>Rådmansgatan</string>
 	</dict>
@@ -7190,7 +7190,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rådmän</string>
+		<string>radman</string>
 		<key>Word</key>
 		<string>rådmän</string>
 	</dict>
@@ -7198,7 +7198,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rådmännen</string>
+		<string>radmannen</string>
 		<key>Word</key>
 		<string>rådmännen</string>
 	</dict>
@@ -7206,7 +7206,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rådsherren</string>
+		<string>radsherren</string>
 		<key>Word</key>
 		<string>rådsherren</string>
 	</dict>
@@ -7214,7 +7214,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rådskammaren</string>
+		<string>radskammaren</string>
 		<key>Word</key>
 		<string>rådskammaren</string>
 	</dict>
@@ -7222,7 +7222,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rådslagen</string>
+		<string>radslagen</string>
 		<key>Word</key>
 		<string>rådslagen</string>
 	</dict>
@@ -7230,7 +7230,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rådsluten</string>
+		<string>radsluten</string>
 		<key>Word</key>
 		<string>rådsluten</string>
 	</dict>
@@ -7238,7 +7238,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>råformaten</string>
+		<string>raformaten</string>
 		<key>Word</key>
 		<string>råformaten</string>
 	</dict>
@@ -7246,7 +7246,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rågbullen</string>
+		<string>ragbullen</string>
 		<key>Word</key>
 		<string>rågbullen</string>
 	</dict>
@@ -7254,7 +7254,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rågen</string>
+		<string>ragen</string>
 		<key>Word</key>
 		<string>rågen</string>
 	</dict>
@@ -7262,7 +7262,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rågångaren</string>
+		<string>ragangaren</string>
 		<key>Word</key>
 		<string>rågångaren</string>
 	</dict>
@@ -7270,7 +7270,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rågången</string>
+		<string>ragangen</string>
 		<key>Word</key>
 		<string>rågången</string>
 	</dict>
@@ -7278,7 +7278,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rålambshovsparken</string>
+		<string>ralambshovsparken</string>
 		<key>Word</key>
 		<string>Rålambshovsparken</string>
 	</dict>
@@ -7286,7 +7286,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>råmärken</string>
+		<string>ramarken</string>
 		<key>Word</key>
 		<string>råmärken</string>
 	</dict>
@@ -7294,7 +7294,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rån</string>
+		<string>ran</string>
 		<key>Word</key>
 		<string>rån</string>
 	</dict>
@@ -7302,7 +7302,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rånaren</string>
+		<string>ranaren</string>
 		<key>Word</key>
 		<string>rånaren</string>
 	</dict>
@@ -7310,7 +7310,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rånen</string>
+		<string>ranen</string>
 		<key>Word</key>
 		<string>rånen</string>
 	</dict>
@@ -7318,7 +7318,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rånmördaren</string>
+		<string>ranmordaren</string>
 		<key>Word</key>
 		<string>rånmördaren</string>
 	</dict>
@@ -7326,7 +7326,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rårakan</string>
+		<string>rarakan</string>
 		<key>Word</key>
 		<string>rårakan</string>
 	</dict>
@@ -7334,7 +7334,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>råspriten</string>
+		<string>raspriten</string>
 		<key>Word</key>
 		<string>råspriten</string>
 	</dict>
@@ -7342,7 +7342,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>råttan</string>
+		<string>rattan</string>
 		<key>Word</key>
 		<string>råttan</string>
 	</dict>
@@ -7350,7 +7350,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>råvaran</string>
+		<string>ravaran</string>
 		<key>Word</key>
 		<string>råvaran</string>
 	</dict>
@@ -7358,7 +7358,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>råvaruförbrukningen</string>
+		<string>ravaruforbrukningen</string>
 		<key>Word</key>
 		<string>råvaruförbrukningen</string>
 	</dict>
@@ -7366,7 +7366,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>réunion</string>
+		<string>reunion</string>
 		<key>Word</key>
 		<string>Réunion</string>
 	</dict>
@@ -7374,7 +7374,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rödbrun</string>
+		<string>rodbrun</string>
 		<key>Word</key>
 		<string>rödbrun</string>
 	</dict>
@@ -7382,7 +7382,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rödfärgen</string>
+		<string>rodfargen</string>
 		<key>Word</key>
 		<string>rödfärgen</string>
 	</dict>
@@ -7390,7 +7390,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rödgardisten</string>
+		<string>rodgardisten</string>
 		<key>Word</key>
 		<string>rödgardisten</string>
 	</dict>
@@ -7398,7 +7398,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rödlistan</string>
+		<string>rodlistan</string>
 		<key>Word</key>
 		<string>rödlistan</string>
 	</dict>
@@ -7406,7 +7406,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rödlistningen</string>
+		<string>rodlistningen</string>
 		<key>Word</key>
 		<string>rödlistningen</string>
 	</dict>
@@ -7414,7 +7414,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rödluvan</string>
+		<string>rodluvan</string>
 		<key>Word</key>
 		<string>Rödluvan</string>
 	</dict>
@@ -7422,7 +7422,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rödpennan</string>
+		<string>rodpennan</string>
 		<key>Word</key>
 		<string>rödpennan</string>
 	</dict>
@@ -7430,7 +7430,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rödvin</string>
+		<string>rodvin</string>
 		<key>Word</key>
 		<string>rödvin</string>
 	</dict>
@@ -7438,7 +7438,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rökaren</string>
+		<string>rokaren</string>
 		<key>Word</key>
 		<string>rökaren</string>
 	</dict>
@@ -7446,7 +7446,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rökbomben</string>
+		<string>rokbomben</string>
 		<key>Word</key>
 		<string>rökbomben</string>
 	</dict>
@@ -7454,7 +7454,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rökborden</string>
+		<string>rokborden</string>
 		<key>Word</key>
 		<string>rökborden</string>
 	</dict>
@@ -7462,7 +7462,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rökelsen</string>
+		<string>rokelsen</string>
 		<key>Word</key>
 		<string>rökelsen</string>
 	</dict>
@@ -7470,7 +7470,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>röken</string>
+		<string>roken</string>
 		<key>Word</key>
 		<string>röken</string>
 	</dict>
@@ -7478,7 +7478,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rökmaskin</string>
+		<string>rokmaskin</string>
 		<key>Word</key>
 		<string>rökmaskin</string>
 	</dict>
@@ -7486,7 +7486,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rökmaskinen</string>
+		<string>rokmaskinen</string>
 		<key>Word</key>
 		<string>rökmaskinen</string>
 	</dict>
@@ -7494,7 +7494,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rökmoln</string>
+		<string>rokmoln</string>
 		<key>Word</key>
 		<string>rökmoln</string>
 	</dict>
@@ -7502,7 +7502,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rökmolnen</string>
+		<string>rokmolnen</string>
 		<key>Word</key>
 		<string>rökmolnen</string>
 	</dict>
@@ -7510,7 +7510,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rökningen</string>
+		<string>rokningen</string>
 		<key>Word</key>
 		<string>rökningen</string>
 	</dict>
@@ -7518,7 +7518,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rökpusten</string>
+		<string>rokpusten</string>
 		<key>Word</key>
 		<string>rökpusten</string>
 	</dict>
@@ -7526,7 +7526,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rökverken</string>
+		<string>rokverken</string>
 		<key>Word</key>
 		<string>rökverken</string>
 	</dict>
@@ -7534,7 +7534,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rön</string>
+		<string>ron</string>
 		<key>Word</key>
 		<string>rön</string>
 	</dict>
@@ -7542,7 +7542,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rönen</string>
+		<string>ronen</string>
 		<key>Word</key>
 		<string>rönen</string>
 	</dict>
@@ -7550,7 +7550,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rönn</string>
+		<string>ronn</string>
 		<key>Word</key>
 		<string>rönn</string>
 	</dict>
@@ -7558,7 +7558,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rönnbären</string>
+		<string>ronnbaren</string>
 		<key>Word</key>
 		<string>rönnbären</string>
 	</dict>
@@ -7566,7 +7566,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rönnen</string>
+		<string>ronnen</string>
 		<key>Word</key>
 		<string>rönnen</string>
 	</dict>
@@ -7574,7 +7574,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>röntgen</string>
+		<string>rontgen</string>
 		<key>Word</key>
 		<string>röntgen</string>
 	</dict>
@@ -7582,7 +7582,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>röntgenstrålen</string>
+		<string>rontgenstralen</string>
 		<key>Word</key>
 		<string>röntgenstrålen</string>
 	</dict>
@@ -7590,7 +7590,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rörelseenergin</string>
+		<string>rorelseenergin</string>
 		<key>Word</key>
 		<string>rörelseenergin</string>
 	</dict>
@@ -7598,7 +7598,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rörelsefriheten</string>
+		<string>rorelsefriheten</string>
 		<key>Word</key>
 		<string>rörelsefriheten</string>
 	</dict>
@@ -7606,7 +7606,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rörelseförlusten</string>
+		<string>rorelseforlusten</string>
 		<key>Word</key>
 		<string>rörelseförlusten</string>
 	</dict>
@@ -7614,7 +7614,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rörelsen</string>
+		<string>rorelsen</string>
 		<key>Word</key>
 		<string>rörelsen</string>
 	</dict>
@@ -7622,7 +7622,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rörelseorgan</string>
+		<string>rorelseorgan</string>
 		<key>Word</key>
 		<string>rörelseorgan</string>
 	</dict>
@@ -7630,7 +7630,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rörelseorganen</string>
+		<string>rorelseorganen</string>
 		<key>Word</key>
 		<string>rörelseorganen</string>
 	</dict>
@@ -7638,7 +7638,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rören</string>
+		<string>roren</string>
 		<key>Word</key>
 		<string>rören</string>
 	</dict>
@@ -7646,7 +7646,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rörigheten</string>
+		<string>rorigheten</string>
 		<key>Word</key>
 		<string>rörigheten</string>
 	</dict>
@@ -7654,7 +7654,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rörledningen</string>
+		<string>rorledningen</string>
 		<key>Word</key>
 		<string>rörledningen</string>
 	</dict>
@@ -7662,7 +7662,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rörligheten</string>
+		<string>rorligheten</string>
 		<key>Word</key>
 		<string>rörligheten</string>
 	</dict>
@@ -7670,7 +7670,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rörmokaren</string>
+		<string>rormokaren</string>
 		<key>Word</key>
 		<string>rörmokaren</string>
 	</dict>
@@ -7678,7 +7678,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rörspiseln</string>
+		<string>rorspiseln</string>
 		<key>Word</key>
 		<string>rörspiseln</string>
 	</dict>
@@ -7686,7 +7686,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rörstrandsgatan</string>
+		<string>rorstrandsgatan</string>
 		<key>Word</key>
 		<string>Rörstrandsgatan</string>
 	</dict>
@@ -7694,7 +7694,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rösen</string>
+		<string>rosen</string>
 		<key>Word</key>
 		<string>rösen</string>
 	</dict>
@@ -7702,7 +7702,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>röstbrevlådan</string>
+		<string>rostbrevladan</string>
 		<key>Word</key>
 		<string>röstbrevlådan</string>
 	</dict>
@@ -7710,7 +7710,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>röstbrevlådetjänsten</string>
+		<string>rostbrevladetjansten</string>
 		<key>Word</key>
 		<string>röstbrevlådetjänsten</string>
 	</dict>
@@ -7718,7 +7718,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rösten</string>
+		<string>rosten</string>
 		<key>Word</key>
 		<string>rösten</string>
 	</dict>
@@ -7726,7 +7726,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>röstigenkänningen</string>
+		<string>rostigenkanningen</string>
 		<key>Word</key>
 		<string>röstigenkänningen</string>
 	</dict>
@@ -7734,7 +7734,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>röstlägen</string>
+		<string>rostlagen</string>
 		<key>Word</key>
 		<string>röstlägen</string>
 	</dict>
@@ -7742,7 +7742,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>röstlängden</string>
+		<string>rostlangden</string>
 		<key>Word</key>
 		<string>röstlängden</string>
 	</dict>
@@ -7750,7 +7750,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>röstmajoriteten</string>
+		<string>rostmajoriteten</string>
 		<key>Word</key>
 		<string>röstmajoriteten</string>
 	</dict>
@@ -7758,7 +7758,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rösträtten</string>
+		<string>rostratten</string>
 		<key>Word</key>
 		<string>rösträtten</string>
 	</dict>
@@ -7766,7 +7766,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rösträttsreformen</string>
+		<string>rostrattsreformen</string>
 		<key>Word</key>
 		<string>rösträttsreformen</string>
 	</dict>
@@ -7774,7 +7774,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>röststyrkan</string>
+		<string>roststyrkan</string>
 		<key>Word</key>
 		<string>röststyrkan</string>
 	</dict>
@@ -7782,7 +7782,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rötan</string>
+		<string>rotan</string>
 		<key>Word</key>
 		<string>rötan</string>
 	</dict>
@@ -7790,7 +7790,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rötäggen</string>
+		<string>rotaggen</string>
 		<key>Word</key>
 		<string>rötäggen</string>
 	</dict>
@@ -7798,7 +7798,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rövaren</string>
+		<string>rovaren</string>
 		<key>Word</key>
 		<string>rövaren</string>
 	</dict>
@@ -7806,7 +7806,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rövarkulan</string>
+		<string>rovarkulan</string>
 		<key>Word</key>
 		<string>rövarkulan</string>
 	</dict>
@@ -7814,7 +7814,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rövarroman</string>
+		<string>rovarroman</string>
 		<key>Word</key>
 		<string>rövarroman</string>
 	</dict>
@@ -7822,7 +7822,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rövarromanen</string>
+		<string>rovarromanen</string>
 		<key>Word</key>
 		<string>rövarromanen</string>
 	</dict>
@@ -7830,7 +7830,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>röven</string>
+		<string>roven</string>
 		<key>Word</key>
 		<string>röven</string>
 	</dict>
@@ -7838,7 +7838,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rügen</string>
+		<string>rugen</string>
 		<key>Word</key>
 		<string>Rügen</string>
 	</dict>

@@ -246,7 +246,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>torvströ</string>
+		<string>torvstro</string>
 		<key>Word</key>
 		<string>torvströ</string>
 	</dict>
@@ -302,7 +302,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>träsko</string>
+		<string>trasko</string>
 		<key>Word</key>
 		<string>träsko</string>
 	</dict>
@@ -326,7 +326,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tynningö</string>
+		<string>tynningo</string>
 		<key>Word</key>
 		<string>Tynningö</string>
 	</dict>
@@ -334,7 +334,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tyresö</string>
+		<string>tyreso</string>
 		<key>Word</key>
 		<string>Tyresö</string>
 	</dict>
@@ -342,7 +342,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tärendö</string>
+		<string>tarendo</string>
 		<key>Word</key>
 		<string>Tärendö</string>
 	</dict>
@@ -350,7 +350,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tö</string>
+		<string>to</string>
 		<key>Word</key>
 		<string>tö</string>
 	</dict>

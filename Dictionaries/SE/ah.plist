@@ -62,7 +62,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>affärslunch</string>
+		<string>affarslunch</string>
 		<key>Word</key>
 		<string>affärslunch</string>
 	</dict>
@@ -142,7 +142,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>äh</string>
+		<string>ah</string>
 		<key>Word</key>
 		<string>äh</string>
 	</dict>
@@ -150,7 +150,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>äsch</string>
+		<string>asch</string>
 		<key>Word</key>
 		<string>äsch</string>
 	</dict>
@@ -158,7 +158,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>åh</string>
+		<string>ah</string>
 		<key>Word</key>
 		<string>åh</string>
 	</dict>

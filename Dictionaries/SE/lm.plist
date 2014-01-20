@@ -102,7 +102,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>lcd-skärm</string>
+		<string>lcd-skarm</string>
 		<key>Word</key>
 		<string>LCD-skärm</string>
 	</dict>
@@ -182,7 +182,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>likström</string>
+		<string>likstrom</string>
 		<key>Word</key>
 		<string>likström</string>
 	</dict>
@@ -206,7 +206,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>lindström</string>
+		<string>lindstrom</string>
 		<key>Word</key>
 		<string>Lindström</string>
 	</dict>
@@ -318,7 +318,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>lundström</string>
+		<string>lundstrom</string>
 		<key>Word</key>
 		<string>Lundström</string>
 	</dict>
@@ -350,7 +350,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>lärdom</string>
+		<string>lardom</string>
 		<key>Word</key>
 		<string>lärdom</string>
 	</dict>
@@ -358,7 +358,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>läroschism</string>
+		<string>laroschism</string>
 		<key>Word</key>
 		<string>läroschism</string>
 	</dict>
@@ -366,7 +366,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>lättsam</string>
+		<string>lattsam</string>
 		<key>Word</key>
 		<string>lättsam</string>
 	</dict>
@@ -374,7 +374,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>långsam</string>
+		<string>langsam</string>
 		<key>Word</key>
 		<string>långsam</string>
 	</dict>
@@ -382,7 +382,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>læstadianism</string>
+		<string>laestadianism</string>
 		<key>Word</key>
 		<string>læstadianism</string>
 	</dict>
@@ -390,7 +390,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>lönsam</string>
+		<string>lonsam</string>
 		<key>Word</key>
 		<string>lönsam</string>
 	</dict>
@@ -398,7 +398,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>löwenhielm</string>
+		<string>lowenhielm</string>
 		<key>Word</key>
 		<string>Löwenhielm</string>
 	</dict>

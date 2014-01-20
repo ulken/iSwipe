@@ -166,7 +166,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>yaoundés</string>
+		<string>yaoundes</string>
 		<key>Word</key>
 		<string>Yaoundés</string>
 	</dict>
@@ -270,7 +270,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ylihärmäs</string>
+		<string>yliharmas</string>
 		<key>Word</key>
 		<string>Ylihärmäs</string>
 	</dict>
@@ -342,7 +342,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ylämaas</string>
+		<string>ylamaas</string>
 		<key>Word</key>
 		<string>Ylämaas</string>
 	</dict>
@@ -350,7 +350,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ylänes</string>
+		<string>ylanes</string>
 		<key>Word</key>
 		<string>Ylänes</string>
 	</dict>
@@ -358,7 +358,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ylöjärvis</string>
+		<string>ylojarvis</string>
 		<key>Word</key>
 		<string>Ylöjärvis</string>
 	</dict>
@@ -478,7 +478,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ynglingaättens</string>
+		<string>ynglingaattens</string>
 		<key>Word</key>
 		<string>ynglingaättens</string>
 	</dict>
@@ -822,7 +822,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ypäjäs</string>
+		<string>ypajas</string>
 		<key>Word</key>
 		<string>Ypäjäs</string>
 	</dict>
@@ -878,7 +878,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>yrfänas</string>
+		<string>yrfanas</string>
 		<key>Word</key>
 		<string>yrfänas</string>
 	</dict>
@@ -886,7 +886,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>yrfäns</string>
+		<string>yrfans</string>
 		<key>Word</key>
 		<string>yrfäns</string>
 	</dict>
@@ -894,7 +894,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>yrfäs</string>
+		<string>yrfas</string>
 		<key>Word</key>
 		<string>yrfäs</string>
 	</dict>
@@ -902,7 +902,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>yrfäts</string>
+		<string>yrfats</string>
 		<key>Word</key>
 		<string>yrfäts</string>
 	</dict>
@@ -910,7 +910,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>yrhättans</string>
+		<string>yrhattans</string>
 		<key>Word</key>
 		<string>yrhättans</string>
 	</dict>
@@ -918,7 +918,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>yrhättas</string>
+		<string>yrhattas</string>
 		<key>Word</key>
 		<string>yrhättas</string>
 	</dict>
@@ -926,7 +926,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>yrhättornas</string>
+		<string>yrhattornas</string>
 		<key>Word</key>
 		<string>yrhättornas</string>
 	</dict>
@@ -934,7 +934,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>yrhättors</string>
+		<string>yrhattors</string>
 		<key>Word</key>
 		<string>yrhättors</string>
 	</dict>
@@ -942,7 +942,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>yrjös</string>
+		<string>yrjos</string>
 		<key>Word</key>
 		<string>Yrjös</string>
 	</dict>
@@ -1198,7 +1198,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>yrkesmännens</string>
+		<string>yrkesmannens</string>
 		<key>Word</key>
 		<string>yrkesmännens</string>
 	</dict>
@@ -1206,7 +1206,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>yrkesmäns</string>
+		<string>yrkesmans</string>
 		<key>Word</key>
 		<string>yrkesmäns</string>
 	</dict>
@@ -1214,7 +1214,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>yrkesmässigas</string>
+		<string>yrkesmassigas</string>
 		<key>Word</key>
 		<string>yrkesmässigas</string>
 	</dict>
@@ -1222,7 +1222,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>yrkesmässigs</string>
+		<string>yrkesmassigs</string>
 		<key>Word</key>
 		<string>yrkesmässigs</string>
 	</dict>
@@ -1230,7 +1230,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>yrkesmässigts</string>
+		<string>yrkesmassigts</string>
 		<key>Word</key>
 		<string>yrkesmässigts</string>
 	</dict>
@@ -1238,7 +1238,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>yrkesområdenas</string>
+		<string>yrkesomradenas</string>
 		<key>Word</key>
 		<string>yrkesområdenas</string>
 	</dict>
@@ -1246,7 +1246,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>yrkesområdens</string>
+		<string>yrkesomradens</string>
 		<key>Word</key>
 		<string>yrkesområdens</string>
 	</dict>
@@ -1254,7 +1254,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>yrkesområdes</string>
+		<string>yrkesomrades</string>
 		<key>Word</key>
 		<string>yrkesområdes</string>
 	</dict>
@@ -1262,7 +1262,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>yrkesområdets</string>
+		<string>yrkesomradets</string>
 		<key>Word</key>
 		<string>yrkesområdets</string>
 	</dict>
@@ -1302,7 +1302,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>yrkesutövarens</string>
+		<string>yrkesutovarens</string>
 		<key>Word</key>
 		<string>yrkesutövarens</string>
 	</dict>
@@ -1310,7 +1310,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>yrkesutövares</string>
+		<string>yrkesutovares</string>
 		<key>Word</key>
 		<string>yrkesutövares</string>
 	</dict>
@@ -1318,7 +1318,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>yrkesutövarnas</string>
+		<string>yrkesutovarnas</string>
 		<key>Word</key>
 		<string>yrkesutövarnas</string>
 	</dict>
@@ -1518,7 +1518,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ysätters-kajsas</string>
+		<string>ysatters-kajsas</string>
 		<key>Word</key>
 		<string>Ysätters-Kajsas</string>
 	</dict>
@@ -1590,7 +1590,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ytfärgens</string>
+		<string>ytfargens</string>
 		<key>Word</key>
 		<string>ytfärgens</string>
 	</dict>
@@ -1598,7 +1598,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ytfärgernas</string>
+		<string>ytfargernas</string>
 		<key>Word</key>
 		<string>ytfärgernas</string>
 	</dict>
@@ -1606,7 +1606,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ytfärgers</string>
+		<string>ytfargers</string>
 		<key>Word</key>
 		<string>ytfärgers</string>
 	</dict>
@@ -1614,7 +1614,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ytfärgs</string>
+		<string>ytfargs</string>
 		<key>Word</key>
 		<string>ytfärgs</string>
 	</dict>
@@ -1622,7 +1622,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ytjämnhetens</string>
+		<string>ytjamnhetens</string>
 		<key>Word</key>
 		<string>ytjämnhetens</string>
 	</dict>
@@ -1630,7 +1630,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ytjämnhets</string>
+		<string>ytjamnhets</string>
 		<key>Word</key>
 		<string>ytjämnhets</string>
 	</dict>
@@ -1726,7 +1726,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ytmåttens</string>
+		<string>ytmattens</string>
 		<key>Word</key>
 		<string>ytmåttens</string>
 	</dict>
@@ -1734,7 +1734,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ytmåttets</string>
+		<string>ytmattets</string>
 		<key>Word</key>
 		<string>ytmåttets</string>
 	</dict>
@@ -1742,7 +1742,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ytmåtts</string>
+		<string>ytmatts</string>
 		<key>Word</key>
 		<string>ytmåtts</string>
 	</dict>
@@ -1782,7 +1782,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ytterblomfjällens</string>
+		<string>ytterblomfjallens</string>
 		<key>Word</key>
 		<string>ytterblomfjällens</string>
 	</dict>
@@ -1790,7 +1790,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ytterblomfjällets</string>
+		<string>ytterblomfjallets</string>
 		<key>Word</key>
 		<string>ytterblomfjällets</string>
 	</dict>
@@ -1798,7 +1798,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ytterblomfjälls</string>
+		<string>ytterblomfjalls</string>
 		<key>Word</key>
 		<string>ytterblomfjälls</string>
 	</dict>
@@ -1806,7 +1806,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ytterdörrarnas</string>
+		<string>ytterdorrarnas</string>
 		<key>Word</key>
 		<string>ytterdörrarnas</string>
 	</dict>
@@ -1814,7 +1814,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ytterdörrars</string>
+		<string>ytterdorrars</string>
 		<key>Word</key>
 		<string>ytterdörrars</string>
 	</dict>
@@ -1822,7 +1822,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ytterdörrens</string>
+		<string>ytterdorrens</string>
 		<key>Word</key>
 		<string>ytterdörrens</string>
 	</dict>
@@ -1830,7 +1830,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ytterdörrs</string>
+		<string>ytterdorrs</string>
 		<key>Word</key>
 		<string>ytterdörrs</string>
 	</dict>
@@ -1838,7 +1838,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ytterklädernas</string>
+		<string>ytterkladernas</string>
 		<key>Word</key>
 		<string>ytterklädernas</string>
 	</dict>
@@ -1846,7 +1846,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ytterkläders</string>
+		<string>ytterkladers</string>
 		<key>Word</key>
 		<string>ytterkläders</string>
 	</dict>
@@ -2022,7 +2022,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ytterväggarnas</string>
+		<string>yttervaggarnas</string>
 		<key>Word</key>
 		<string>ytterväggarnas</string>
 	</dict>
@@ -2030,7 +2030,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ytterväggars</string>
+		<string>yttervaggars</string>
 		<key>Word</key>
 		<string>ytterväggars</string>
 	</dict>
@@ -2038,7 +2038,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ytterväggens</string>
+		<string>yttervaggens</string>
 		<key>Word</key>
 		<string>ytterväggens</string>
 	</dict>
@@ -2046,7 +2046,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ytterväggs</string>
+		<string>yttervaggs</string>
 		<key>Word</key>
 		<string>ytterväggs</string>
 	</dict>
@@ -2054,7 +2054,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>yttervärldens</string>
+		<string>yttervarldens</string>
 		<key>Word</key>
 		<string>yttervärldens</string>
 	</dict>

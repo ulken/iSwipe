@@ -54,7 +54,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>adelöv</string>
+		<string>adelov</string>
 		<key>Word</key>
 		<string>Adelöv</string>
 	</dict>
@@ -78,7 +78,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>affärsliv</string>
+		<string>affarsliv</string>
 		<key>Word</key>
 		<string>affärsliv</string>
 	</dict>
@@ -238,7 +238,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avföringsprov</string>
+		<string>avforingsprov</string>
 		<key>Word</key>
 		<string>avföringsprov</string>
 	</dict>
@@ -270,7 +270,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avkräv</string>
+		<string>avkrav</string>
 		<key>Word</key>
 		<string>avkräv</string>
 	</dict>
@@ -294,7 +294,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>älv</string>
+		<string>alv</string>
 		<key>Word</key>
 		<string>älv</string>
 	</dict>
@@ -302,7 +302,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ärv</string>
+		<string>arv</string>
 		<key>Word</key>
 		<string>ärv</string>
 	</dict>
@@ -310,7 +310,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>årsbehov</string>
+		<string>arsbehov</string>
 		<key>Word</key>
 		<string>årsbehov</string>
 	</dict>
@@ -318,7 +318,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>årsperspektiv</string>
+		<string>arsperspektiv</string>
 		<key>Word</key>
 		<string>årsperspektiv</string>
 	</dict>
@@ -326,7 +326,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>återgav</string>
+		<string>atergav</string>
 		<key>Word</key>
 		<string>återgav</string>
 	</dict>
@@ -334,7 +334,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>återgiv</string>
+		<string>atergiv</string>
 		<key>Word</key>
 		<string>återgiv</string>
 	</dict>
@@ -342,7 +342,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>återskrev</string>
+		<string>aterskrev</string>
 		<key>Word</key>
 		<string>återskrev</string>
 	</dict>
@@ -350,7 +350,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>återskriv</string>
+		<string>aterskriv</string>
 		<key>Word</key>
 		<string>återskriv</string>
 	</dict>
@@ -358,7 +358,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>återupplev</string>
+		<string>aterupplev</string>
 		<key>Word</key>
 		<string>återupplev</string>
 	</dict>

@@ -14,7 +14,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>nationalräkenskap</string>
+		<string>nationalrakenskap</string>
 		<key>Word</key>
 		<string>nationalräkenskap</string>
 	</dict>
@@ -62,7 +62,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>nästipp</string>
+		<string>nastipp</string>
 		<key>Word</key>
 		<string>nästipp</string>
 	</dict>
@@ -70,7 +70,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>nödrop</string>
+		<string>nodrop</string>
 		<key>Word</key>
 		<string>nödrop</string>
 	</dict>
@@ -78,7 +78,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>nöp</string>
+		<string>nop</string>
 		<key>Word</key>
 		<string>nöp</string>
 	</dict>

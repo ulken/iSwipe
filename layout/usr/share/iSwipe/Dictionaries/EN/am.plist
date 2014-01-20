@@ -198,7 +198,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>affärscentrum</string>
+		<string>affarscentrum</string>
 		<key>Word</key>
 		<string>affärscentrum</string>
 	</dict>
@@ -206,7 +206,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>affärssystem</string>
+		<string>affarssystem</string>
 		<key>Word</key>
 		<string>affärssystem</string>
 	</dict>
@@ -366,7 +366,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>allström</string>
+		<string>allstrom</string>
 		<key>Word</key>
 		<string>allström</string>
 	</dict>
@@ -494,7 +494,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>anckarström</string>
+		<string>anckarstrom</string>
 		<key>Word</key>
 		<string>Anckarström</string>
 	</dict>
@@ -502,7 +502,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>angenäm</string>
+		<string>angenam</string>
 		<key>Word</key>
 		<string>angenäm</string>
 	</dict>
@@ -582,7 +582,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>användarforum</string>
+		<string>anvandarforum</string>
 		<key>Word</key>
 		<string>användarforum</string>
 	</dict>
@@ -790,7 +790,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>avstäm</string>
+		<string>avstam</string>
 		<key>Word</key>
 		<string>avstäm</string>
 	</dict>
@@ -822,7 +822,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ämbetsrum</string>
+		<string>ambetsrum</string>
 		<key>Word</key>
 		<string>ämbetsrum</string>
 	</dict>
@@ -830,7 +830,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ärm</string>
+		<string>arm</string>
 		<key>Word</key>
 		<string>ärm</string>
 	</dict>
@@ -838,7 +838,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ävensom</string>
+		<string>avensom</string>
 		<key>Word</key>
 		<string>ävensom</string>
 	</dict>
@@ -846,7 +846,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ålderdom</string>
+		<string>alderdom</string>
 		<key>Word</key>
 		<string>ålderdom</string>
 	</dict>
@@ -854,7 +854,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ålderdomshem</string>
+		<string>alderdomshem</string>
 		<key>Word</key>
 		<string>ålderdomshem</string>
 	</dict>
@@ -862,7 +862,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>årsjubileum</string>
+		<string>arsjubileum</string>
 		<key>Word</key>
 		<string>årsjubileum</string>
 	</dict>
@@ -870,7 +870,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>åstadkom</string>
+		<string>astadkom</string>
 		<key>Word</key>
 		<string>åstadkom</string>
 	</dict>
@@ -878,7 +878,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>återhållsam</string>
+		<string>aterhallsam</string>
 		<key>Word</key>
 		<string>återhållsam</string>
 	</dict>
@@ -886,7 +886,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>återkom</string>
+		<string>aterkom</string>
 		<key>Word</key>
 		<string>återkom</string>
 	</dict>
@@ -894,7 +894,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>åttiofem</string>
+		<string>attiofem</string>
 		<key>Word</key>
 		<string>åttiofem</string>
 	</dict>
@@ -908,7 +908,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>Ängelholm</string>
+		<string>Angelholm</string>
 		<key>Word</key>
 		<string>Ängelholm</string>
 	</dict>
@@ -916,7 +916,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>Åkerheim</string>
+		<string>Akerheim</string>
 		<key>Word</key>
 		<string>Åkerheim</string>
 	</dict>
@@ -924,7 +924,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>Åkerhielm</string>
+		<string>Akerhielm</string>
 		<key>Word</key>
 		<string>Åkerhielm</string>
 	</dict>
@@ -932,7 +932,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>Ångström</string>
+		<string>Angstrom</string>
 		<key>Word</key>
 		<string>Ångström</string>
 	</dict>
@@ -940,7 +940,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>Åström</string>
+		<string>Astrom</string>
 		<key>Word</key>
 		<string>Åström</string>
 	</dict>

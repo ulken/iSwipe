@@ -78,7 +78,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>vällingby</string>
+		<string>vallingby</string>
 		<key>Word</key>
 		<string>Vällingby</string>
 	</dict>
@@ -86,7 +86,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>väsby</string>
+		<string>vasby</string>
 		<key>Word</key>
 		<string>Väsby</string>
 	</dict>

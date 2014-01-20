@@ -142,7 +142,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>djurplågeri</string>
+		<string>djurplageri</string>
 		<key>Word</key>
 		<string>djurplågeri</string>
 	</dict>
@@ -182,7 +182,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>drömmeri</string>
+		<string>drommeri</string>
 		<key>Word</key>
 		<string>drömmeri</string>
 	</dict>
@@ -230,7 +230,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>däri</string>
+		<string>dari</string>
 		<key>Word</key>
 		<string>däri</string>
 	</dict>
@@ -238,7 +238,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>däruti</string>
+		<string>daruti</string>
 		<key>Word</key>
 		<string>däruti</string>
 	</dict>

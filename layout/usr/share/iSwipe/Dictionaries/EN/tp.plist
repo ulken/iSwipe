@@ -94,7 +94,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tillhjälp</string>
+		<string>tillhjalp</string>
 		<key>Word</key>
 		<string>tillhjälp</string>
 	</dict>
@@ -102,7 +102,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tillköp</string>
+		<string>tillkop</string>
 		<key>Word</key>
 		<string>tillköp</string>
 	</dict>
@@ -222,7 +222,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>trädgårdsredskap</string>
+		<string>tradgardsredskap</string>
 		<key>Word</key>
 		<string>trädgårdsredskap</string>
 	</dict>
@@ -246,7 +246,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tvärvetenskap</string>
+		<string>tvarvetenskap</string>
 		<key>Word</key>
 		<string>tvärvetenskap</string>
 	</dict>
@@ -262,7 +262,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>täpp</string>
+		<string>tapp</string>
 		<key>Word</key>
 		<string>täpp</string>
 	</dict>

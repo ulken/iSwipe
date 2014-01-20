@@ -30,7 +30,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>paradisö</string>
+		<string>paradiso</string>
 		<key>Word</key>
 		<string>paradisö</string>
 	</dict>
@@ -118,7 +118,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>pimpelspö</string>
+		<string>pimpelspo</string>
 		<key>Word</key>
 		<string>pimpelspö</string>
 	</dict>
@@ -174,7 +174,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>populärmusikvideo</string>
+		<string>popularmusikvideo</string>
 		<key>Word</key>
 		<string>populärmusikvideo</string>
 	</dict>
@@ -238,7 +238,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>produktionsmiljö</string>
+		<string>produktionsmiljo</string>
 		<key>Word</key>
 		<string>produktionsmiljö</string>
 	</dict>

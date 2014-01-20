@@ -6,7 +6,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>yaoundé</string>
+		<string>yaounde</string>
 		<key>Word</key>
 		<string>Yaoundé</string>
 	</dict>
@@ -46,7 +46,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>yläne</string>
+		<string>ylane</string>
 		<key>Word</key>
 		<string>Yläne</string>
 	</dict>
@@ -222,7 +222,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>yrkesområde</string>
+		<string>yrkesomrade</string>
 		<key>Word</key>
 		<string>yrkesområde</string>
 	</dict>
@@ -230,7 +230,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>yrkesutövare</string>
+		<string>yrkesutovare</string>
 		<key>Word</key>
 		<string>yrkesutövare</string>
 	</dict>

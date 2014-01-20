@@ -6,7 +6,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>landsförräderi</string>
+		<string>landsforraderi</string>
 		<key>Word</key>
 		<string>landsförräderi</string>
 	</dict>
@@ -14,7 +14,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>lantmäteri</string>
+		<string>lantmateri</string>
 		<key>Word</key>
 		<string>lantmäteri</string>
 	</dict>
@@ -214,7 +214,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>lösdriveri</string>
+		<string>losdriveri</string>
 		<key>Word</key>
 		<string>lösdriveri</string>
 	</dict>

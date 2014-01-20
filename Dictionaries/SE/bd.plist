@@ -86,7 +86,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bakgård</string>
+		<string>bakgard</string>
 		<key>Word</key>
 		<string>bakgård</string>
 	</dict>
@@ -102,7 +102,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bakteriehärd</string>
+		<string>bakteriehard</string>
 		<key>Word</key>
 		<string>bakteriehärd</string>
 	</dict>
@@ -110,7 +110,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bakvänd</string>
+		<string>bakvand</string>
 		<key>Word</key>
 		<string>bakvänd</string>
 	</dict>
@@ -182,7 +182,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bankanställd</string>
+		<string>bankanstalld</string>
 		<key>Word</key>
 		<string>bankanställd</string>
 	</dict>
@@ -246,7 +246,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>barnavårdsnämnd</string>
+		<string>barnavardsnamnd</string>
 		<key>Word</key>
 		<string>barnavårdsnämnd</string>
 	</dict>
@@ -262,7 +262,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>barnträdgård</string>
+		<string>barntradgard</string>
 		<key>Word</key>
 		<string>barnträdgård</string>
 	</dict>
@@ -270,7 +270,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>barnunderstöd</string>
+		<string>barnunderstod</string>
 		<key>Word</key>
 		<string>barnunderstöd</string>
 	</dict>
@@ -350,7 +350,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>beaktansvärd</string>
+		<string>beaktansvard</string>
 		<key>Word</key>
 		<string>beaktansvärd</string>
 	</dict>
@@ -390,7 +390,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bebådad</string>
+		<string>bebadad</string>
 		<key>Word</key>
 		<string>bebådad</string>
 	</dict>
@@ -414,7 +414,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bedrövad</string>
+		<string>bedrovad</string>
 		<key>Word</key>
 		<string>bedrövad</string>
 	</dict>
@@ -430,7 +430,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bedårad</string>
+		<string>bedarad</string>
 		<key>Word</key>
 		<string>bedårad</string>
 	</dict>
@@ -438,7 +438,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bedömd</string>
+		<string>bedomd</string>
 		<key>Word</key>
 		<string>bedömd</string>
 	</dict>
@@ -446,7 +446,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bedövad</string>
+		<string>bedovad</string>
 		<key>Word</key>
 		<string>bedövad</string>
 	</dict>
@@ -478,7 +478,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>befjädrad</string>
+		<string>befjadrad</string>
 		<key>Word</key>
 		<string>befjädrad</string>
 	</dict>
@@ -486,7 +486,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>befläckad</string>
+		<string>beflackad</string>
 		<key>Word</key>
 		<string>befläckad</string>
 	</dict>
@@ -542,7 +542,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>befrämjad</string>
+		<string>beframjad</string>
 		<key>Word</key>
 		<string>befrämjad</string>
 	</dict>
@@ -550,7 +550,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>befängd</string>
+		<string>befangd</string>
 		<key>Word</key>
 		<string>befängd</string>
 	</dict>
@@ -590,7 +590,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>begränsad</string>
+		<string>begransad</string>
 		<key>Word</key>
 		<string>begränsad</string>
 	</dict>
@@ -598,7 +598,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>begärd</string>
+		<string>begard</string>
 		<key>Word</key>
 		<string>begärd</string>
 	</dict>
@@ -606,7 +606,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>begåvad</string>
+		<string>begavad</string>
 		<key>Word</key>
 		<string>begåvad</string>
 	</dict>
@@ -630,7 +630,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>behjärtansvärd</string>
+		<string>behjartansvard</string>
 		<key>Word</key>
 		<string>behjärtansvärd</string>
 	</dict>
@@ -638,7 +638,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>behovsprövad</string>
+		<string>behovsprovad</string>
 		<key>Word</key>
 		<string>behovsprövad</string>
 	</dict>
@@ -646,7 +646,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>behäftad</string>
+		<string>behaftad</string>
 		<key>Word</key>
 		<string>behäftad</string>
 	</dict>
@@ -654,7 +654,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>behärskad</string>
+		<string>beharskad</string>
 		<key>Word</key>
 		<string>behärskad</string>
 	</dict>
@@ -662,7 +662,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>behövd</string>
+		<string>behovd</string>
 		<key>Word</key>
 		<string>behövd</string>
 	</dict>
@@ -702,7 +702,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>beklagansvärd</string>
+		<string>beklagansvard</string>
 		<key>Word</key>
 		<string>beklagansvärd</string>
 	</dict>
@@ -710,7 +710,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bekläd</string>
+		<string>beklad</string>
 		<key>Word</key>
 		<string>bekläd</string>
 	</dict>
@@ -718,7 +718,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>beklädd</string>
+		<string>bekladd</string>
 		<key>Word</key>
 		<string>beklädd</string>
 	</dict>
@@ -726,7 +726,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>beklädnad</string>
+		<string>bekladnad</string>
 		<key>Word</key>
 		<string>beklädnad</string>
 	</dict>
@@ -734,7 +734,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>beklämd</string>
+		<string>beklamd</string>
 		<key>Word</key>
 		<string>beklämd</string>
 	</dict>
@@ -774,7 +774,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bekräftad</string>
+		<string>bekraftad</string>
 		<key>Word</key>
 		<string>bekräftad</string>
 	</dict>
@@ -790,7 +790,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bekämpad</string>
+		<string>bekampad</string>
 		<key>Word</key>
 		<string>bekämpad</string>
 	</dict>
@@ -798,7 +798,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bekänd</string>
+		<string>bekand</string>
 		<key>Word</key>
 		<string>bekänd</string>
 	</dict>
@@ -862,7 +862,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>belägrad</string>
+		<string>belagrad</string>
 		<key>Word</key>
 		<string>belägrad</string>
 	</dict>
@@ -870,7 +870,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>belånad</string>
+		<string>belanad</string>
 		<key>Word</key>
 		<string>belånad</string>
 	</dict>
@@ -878,7 +878,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>belönad</string>
+		<string>belonad</string>
 		<key>Word</key>
 		<string>belönad</string>
 	</dict>
@@ -918,7 +918,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bemästrad</string>
+		<string>bemastrad</string>
 		<key>Word</key>
 		<string>bemästrad</string>
 	</dict>
@@ -926,7 +926,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bemödad</string>
+		<string>bemodad</string>
 		<key>Word</key>
 		<string>bemödad</string>
 	</dict>
@@ -958,7 +958,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>benämnd</string>
+		<string>benamnd</string>
 		<key>Word</key>
 		<string>benämnd</string>
 	</dict>
@@ -966,7 +966,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>benådad</string>
+		<string>benadad</string>
 		<key>Word</key>
 		<string>benådad</string>
 	</dict>
@@ -1006,7 +1006,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>beprövad</string>
+		<string>beprovad</string>
 		<key>Word</key>
 		<string>beprövad</string>
 	</dict>
@@ -1118,7 +1118,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>beräknad</string>
+		<string>beraknad</string>
 		<key>Word</key>
 		<string>beräknad</string>
 	</dict>
@@ -1126,7 +1126,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>berättad</string>
+		<string>berattad</string>
 		<key>Word</key>
 		<string>berättad</string>
 	</dict>
@@ -1134,7 +1134,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>berättigad</string>
+		<string>berattigad</string>
 		<key>Word</key>
 		<string>berättigad</string>
 	</dict>
@@ -1142,7 +1142,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>beråd</string>
+		<string>berad</string>
 		<key>Word</key>
 		<string>beråd</string>
 	</dict>
@@ -1150,7 +1150,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>berömd</string>
+		<string>beromd</string>
 		<key>Word</key>
 		<string>berömd</string>
 	</dict>
@@ -1158,7 +1158,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>berömvärd</string>
+		<string>beromvard</string>
 		<key>Word</key>
 		<string>berömvärd</string>
 	</dict>
@@ -1166,7 +1166,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>berörd</string>
+		<string>berord</string>
 		<key>Word</key>
 		<string>berörd</string>
 	</dict>
@@ -1174,7 +1174,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>berövad</string>
+		<string>berovad</string>
 		<key>Word</key>
 		<string>berövad</string>
 	</dict>
@@ -1238,7 +1238,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>besjälad</string>
+		<string>besjalad</string>
 		<key>Word</key>
 		<string>besjälad</string>
 	</dict>
@@ -1302,7 +1302,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>beskärd</string>
+		<string>beskard</string>
 		<key>Word</key>
 		<string>beskärd</string>
 	</dict>
@@ -1310,7 +1310,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>beskådad</string>
+		<string>beskadad</string>
 		<key>Word</key>
 		<string>beskådad</string>
 	</dict>
@@ -1318,7 +1318,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>besköljd</string>
+		<string>beskoljd</string>
 		<key>Word</key>
 		<string>besköljd</string>
 	</dict>
@@ -1334,7 +1334,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>besläktad</string>
+		<string>beslaktad</string>
 		<key>Word</key>
 		<string>besläktad</string>
 	</dict>
@@ -1342,7 +1342,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>beslöjad</string>
+		<string>beslojad</string>
 		<key>Word</key>
 		<string>beslöjad</string>
 	</dict>
@@ -1438,7 +1438,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bestrålad</string>
+		<string>bestralad</string>
 		<key>Word</key>
 		<string>bestrålad</string>
 	</dict>
@@ -1454,7 +1454,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>beställd</string>
+		<string>bestalld</string>
 		<key>Word</key>
 		<string>beställd</string>
 	</dict>
@@ -1462,7 +1462,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bestämd</string>
+		<string>bestamd</string>
 		<key>Word</key>
 		<string>bestämd</string>
 	</dict>
@@ -1470,7 +1470,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bestådd</string>
+		<string>bestadd</string>
 		<key>Word</key>
 		<string>bestådd</string>
 	</dict>
@@ -1478,7 +1478,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bestånd</string>
+		<string>bestand</string>
 		<key>Word</key>
 		<string>bestånd</string>
 	</dict>
@@ -1502,7 +1502,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>besvärad</string>
+		<string>besvarad</string>
 		<key>Word</key>
 		<string>besvärad</string>
 	</dict>
@@ -1510,7 +1510,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>besörjd</string>
+		<string>besorjd</string>
 		<key>Word</key>
 		<string>besörjd</string>
 	</dict>
@@ -1566,7 +1566,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>betjänad</string>
+		<string>betjanad</string>
 		<key>Word</key>
 		<string>betjänad</string>
 	</dict>
@@ -1614,7 +1614,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>beträd</string>
+		<string>betrad</string>
 		<key>Word</key>
 		<string>beträd</string>
 	</dict>
@@ -1622,7 +1622,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>beträdd</string>
+		<string>betradd</string>
 		<key>Word</key>
 		<string>beträdd</string>
 	</dict>
@@ -1630,7 +1630,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>beträngd</string>
+		<string>betrangd</string>
 		<key>Word</key>
 		<string>beträngd</string>
 	</dict>
@@ -1670,7 +1670,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>betänketid</string>
+		<string>betanketid</string>
 		<key>Word</key>
 		<string>betänketid</string>
 	</dict>
@@ -1686,7 +1686,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>beundransvärd</string>
+		<string>beundransvard</string>
 		<key>Word</key>
 		<string>beundransvärd</string>
 	</dict>
@@ -1774,7 +1774,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>beväpnad</string>
+		<string>bevapnad</string>
 		<key>Word</key>
 		<string>beväpnad</string>
 	</dict>
@@ -1782,7 +1782,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bevärdigad</string>
+		<string>bevardigad</string>
 		<key>Word</key>
 		<string>bevärdigad</string>
 	</dict>
@@ -1918,7 +1918,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bistånd</string>
+		<string>bistand</string>
 		<key>Word</key>
 		<string>bistånd</string>
 	</dict>
@@ -1926,7 +1926,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>biträd</string>
+		<string>bitrad</string>
 		<key>Word</key>
 		<string>biträd</string>
 	</dict>
@@ -1934,7 +1934,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>biträdd</string>
+		<string>bitradd</string>
 		<key>Word</key>
 		<string>biträdd</string>
 	</dict>
@@ -1958,7 +1958,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bjärred</string>
+		<string>bjarred</string>
 		<key>Word</key>
 		<string>Bjärred</string>
 	</dict>
@@ -1966,7 +1966,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bjöd</string>
+		<string>bjod</string>
 		<key>Word</key>
 		<string>bjöd</string>
 	</dict>
@@ -1974,7 +1974,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>björklund</string>
+		<string>bjorklund</string>
 		<key>Word</key>
 		<string>Björklund</string>
 	</dict>
@@ -1982,7 +1982,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>björkved</string>
+		<string>bjorkved</string>
 		<key>Word</key>
 		<string>björkved</string>
 	</dict>
@@ -2022,7 +2022,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>blanksvärd</string>
+		<string>blanksvard</string>
 		<key>Word</key>
 		<string>Blanksvärd</string>
 	</dict>
@@ -2046,7 +2046,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>blekröd</string>
+		<string>blekrod</string>
 		<key>Word</key>
 		<string>blekröd</string>
 	</dict>
@@ -2126,7 +2126,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>blodröd</string>
+		<string>blodrod</string>
 		<key>Word</key>
 		<string>blodröd</string>
 	</dict>
@@ -2134,7 +2134,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>blodsdåd</string>
+		<string>blodsdad</string>
 		<key>Word</key>
 		<string>blodsdåd</string>
 	</dict>
@@ -2142,7 +2142,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>blodshämnd</string>
+		<string>blodshamnd</string>
 		<key>Word</key>
 		<string>blodshämnd</string>
 	</dict>
@@ -2230,7 +2230,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bländad</string>
+		<string>blandad</string>
 		<key>Word</key>
 		<string>bländad</string>
 	</dict>
@@ -2238,7 +2238,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>blåeldad</string>
+		<string>blaeldad</string>
 		<key>Word</key>
 		<string>blåeldad</string>
 	</dict>
@@ -2246,7 +2246,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>blåklädd</string>
+		<string>blakladd</string>
 		<key>Word</key>
 		<string>blåklädd</string>
 	</dict>
@@ -2254,7 +2254,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>blåsljud</string>
+		<string>blasljud</string>
 		<key>Word</key>
 		<string>blåsljud</string>
 	</dict>
@@ -2262,7 +2262,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>blåögd</string>
+		<string>blaogd</string>
 		<key>Word</key>
 		<string>blåögd</string>
 	</dict>
@@ -2270,7 +2270,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>blöd</string>
+		<string>blod</string>
 		<key>Word</key>
 		<string>blöd</string>
 	</dict>
@@ -2334,7 +2334,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bokförd</string>
+		<string>bokford</string>
 		<key>Word</key>
 		<string>bokförd</string>
 	</dict>
@@ -2374,7 +2374,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bolånemarknad</string>
+		<string>bolanemarknad</string>
 		<key>Word</key>
 		<string>bolånemarknad</string>
 	</dict>
@@ -2422,7 +2422,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bondgård</string>
+		<string>bondgard</string>
 		<key>Word</key>
 		<string>bondgård</string>
 	</dict>
@@ -2462,7 +2462,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>borgarstånd</string>
+		<string>borgarstand</string>
 		<key>Word</key>
 		<string>borgarstånd</string>
 	</dict>
@@ -2510,7 +2510,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bortförd</string>
+		<string>bortford</string>
 		<key>Word</key>
 		<string>bortförd</string>
 	</dict>
@@ -2518,7 +2518,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bortglömd</string>
+		<string>bortglomd</string>
 		<key>Word</key>
 		<string>bortglömd</string>
 	</dict>
@@ -2558,7 +2558,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bortrövad</string>
+		<string>bortrovad</string>
 		<key>Word</key>
 		<string>bortrövad</string>
 	</dict>
@@ -2582,7 +2582,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bortskämd</string>
+		<string>bortskamd</string>
 		<key>Word</key>
 		<string>bortskämd</string>
 	</dict>
@@ -2598,7 +2598,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bortslösad</string>
+		<string>bortslosad</string>
 		<key>Word</key>
 		<string>bortslösad</string>
 	</dict>
@@ -2614,7 +2614,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bortträngd</string>
+		<string>borttrangd</string>
 		<key>Word</key>
 		<string>bortträngd</string>
 	</dict>
@@ -2622,7 +2622,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bortvänd</string>
+		<string>bortvand</string>
 		<key>Word</key>
 		<string>bortvänd</string>
 	</dict>
@@ -2638,7 +2638,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bostadsbestånd</string>
+		<string>bostadsbestand</string>
 		<key>Word</key>
 		<string>bostadsbestånd</string>
 	</dict>
@@ -2646,7 +2646,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bostadsfärd</string>
+		<string>bostadsfard</string>
 		<key>Word</key>
 		<string>bostadsfärd</string>
 	</dict>
@@ -2662,7 +2662,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bostadstillstånd</string>
+		<string>bostadstillstand</string>
 		<key>Word</key>
 		<string>bostadstillstånd</string>
 	</dict>
@@ -2670,7 +2670,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bostadsunderstöd</string>
+		<string>bostadsunderstod</string>
 		<key>Word</key>
 		<string>bostadsunderstöd</string>
 	</dict>
@@ -2694,7 +2694,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bottendöd</string>
+		<string>bottendod</string>
 		<key>Word</key>
 		<string>bottendöd</string>
 	</dict>
@@ -2798,7 +2798,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bredbrättad</string>
+		<string>bredbrattad</string>
 		<key>Word</key>
 		<string>bredbrättad</string>
 	</dict>
@@ -2926,7 +2926,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>brunnsvård</string>
+		<string>brunnsvard</string>
 		<key>Word</key>
 		<string>brunnsvård</string>
 	</dict>
@@ -2934,7 +2934,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>brunögd</string>
+		<string>brunogd</string>
 		<key>Word</key>
 		<string>brunögd</string>
 	</dict>
@@ -2974,7 +2974,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>brädd</string>
+		<string>bradd</string>
 		<key>Word</key>
 		<string>brädd</string>
 	</dict>
@@ -2982,7 +2982,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bräddad</string>
+		<string>braddad</string>
 		<key>Word</key>
 		<string>bräddad</string>
 	</dict>
@@ -2990,7 +2990,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bränd</string>
+		<string>brand</string>
 		<key>Word</key>
 		<string>bränd</string>
 	</dict>
@@ -2998,7 +2998,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>brännved</string>
+		<string>brannved</string>
 		<key>Word</key>
 		<string>brännved</string>
 	</dict>
@@ -3006,7 +3006,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bråd</string>
+		<string>brad</string>
 		<key>Word</key>
 		<string>bråd</string>
 	</dict>
@@ -3014,7 +3014,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bråkad</string>
+		<string>brakad</string>
 		<key>Word</key>
 		<string>bråkad</string>
 	</dict>
@@ -3022,7 +3022,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bröd</string>
+		<string>brod</string>
 		<key>Word</key>
 		<string>bröd</string>
 	</dict>
@@ -3030,7 +3030,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>brödsäd</string>
+		<string>brodsad</string>
 		<key>Word</key>
 		<string>brödsäd</string>
 	</dict>
@@ -3038,7 +3038,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>brønlund</string>
+		<string>bronlund</string>
 		<key>Word</key>
 		<string>Brønlund</string>
 	</dict>
@@ -3214,7 +3214,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bädd</string>
+		<string>badd</string>
 		<key>Word</key>
 		<string>bädd</string>
 	</dict>
@@ -3222,7 +3222,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bäddad</string>
+		<string>baddad</string>
 		<key>Word</key>
 		<string>bäddad</string>
 	</dict>
@@ -3230,7 +3230,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bänd</string>
+		<string>band</string>
 		<key>Word</key>
 		<string>bänd</string>
 	</dict>
@@ -3238,7 +3238,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bänkad</string>
+		<string>bankad</string>
 		<key>Word</key>
 		<string>bänkad</string>
 	</dict>
@@ -3246,7 +3246,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bärgad</string>
+		<string>bargad</string>
 		<key>Word</key>
 		<string>bärgad</string>
 	</dict>
@@ -3254,7 +3254,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bättrad</string>
+		<string>battrad</string>
 		<key>Word</key>
 		<string>bättrad</string>
 	</dict>
@@ -3262,7 +3262,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bådad</string>
+		<string>badad</string>
 		<key>Word</key>
 		<string>bådad</string>
 	</dict>
@@ -3270,7 +3270,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>båld</string>
+		<string>bald</string>
 		<key>Word</key>
 		<string>båld</string>
 	</dict>
@@ -3278,7 +3278,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>båstad</string>
+		<string>bastad</string>
 		<key>Word</key>
 		<string>Båstad</string>
 	</dict>
@@ -3286,7 +3286,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bödelssvärd</string>
+		<string>bodelssvard</string>
 		<key>Word</key>
 		<string>bödelssvärd</string>
 	</dict>
@@ -3294,7 +3294,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>böjd</string>
+		<string>bojd</string>
 		<key>Word</key>
 		<string>böjd</string>
 	</dict>
@@ -3302,7 +3302,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>böld</string>
+		<string>bold</string>
 		<key>Word</key>
 		<string>böld</string>
 	</dict>
@@ -3310,7 +3310,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bönhörd</string>
+		<string>bonhord</string>
 		<key>Word</key>
 		<string>bönhörd</string>
 	</dict>
@@ -3318,7 +3318,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>börd</string>
+		<string>bord</string>
 		<key>Word</key>
 		<string>börd</string>
 	</dict>
@@ -3326,7 +3326,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>börsnoterad</string>
+		<string>borsnoterad</string>
 		<key>Word</key>
 		<string>börsnoterad</string>
 	</dict>
@@ -3334,7 +3334,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>bötfälld</string>
+		<string>botfalld</string>
 		<key>Word</key>
 		<string>bötfälld</string>
 	</dict>

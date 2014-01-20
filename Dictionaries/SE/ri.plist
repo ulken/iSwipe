@@ -206,7 +206,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rättspsykiatri</string>
+		<string>rattspsykiatri</string>
 		<key>Word</key>
 		<string>rättspsykiatri</string>
 	</dict>
@@ -214,7 +214,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rökeri</string>
+		<string>rokeri</string>
 		<key>Word</key>
 		<string>rökeri</string>
 	</dict>
@@ -222,7 +222,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>rörelseenergi</string>
+		<string>rorelseenergi</string>
 		<key>Word</key>
 		<string>rörelseenergi</string>
 	</dict>

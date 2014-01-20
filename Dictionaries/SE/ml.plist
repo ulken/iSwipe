@@ -110,7 +110,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>manöverpanel</string>
+		<string>manoverpanel</string>
 		<key>Word</key>
 		<string>manöverpanel</string>
 	</dict>
@@ -262,7 +262,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>medhåll</string>
+		<string>medhall</string>
 		<key>Word</key>
 		<string>medhåll</string>
 	</dict>
@@ -318,7 +318,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>mellanmål</string>
+		<string>mellanmal</string>
 		<key>Word</key>
 		<string>mellanmål</string>
 	</dict>
@@ -334,7 +334,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>mellanöl</string>
+		<string>mellanol</string>
 		<key>Word</key>
 		<string>mellanöl</string>
 	</dict>
@@ -502,7 +502,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>miljödomstol</string>
+		<string>miljodomstol</string>
 		<key>Word</key>
 		<string>miljödomstol</string>
 	</dict>
@@ -510,7 +510,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>miljövariabel</string>
+		<string>miljovariabel</string>
 		<key>Word</key>
 		<string>miljövariabel</string>
 	</dict>
@@ -566,7 +566,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>misskötsel</string>
+		<string>misskotsel</string>
 		<key>Word</key>
 		<string>misskötsel</string>
 	</dict>
@@ -590,7 +590,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>mjöl</string>
+		<string>mjol</string>
 		<key>Word</key>
 		<string>mjöl</string>
 	</dict>
@@ -654,7 +654,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>modersmål</string>
+		<string>modersmal</string>
 		<key>Word</key>
 		<string>modersmål</string>
 	</dict>
@@ -758,7 +758,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>motsägelsefull</string>
+		<string>motsagelsefull</string>
 		<key>Word</key>
 		<string>motsägelsefull</string>
 	</dict>
@@ -830,7 +830,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>museiföremål</string>
+		<string>museiforemal</string>
 		<key>Word</key>
 		<string>museiföremål</string>
 	</dict>
@@ -910,7 +910,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>människokapital</string>
+		<string>manniskokapital</string>
 		<key>Word</key>
 		<string>människokapital</string>
 	</dict>
@@ -918,7 +918,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>människopool</string>
+		<string>manniskopool</string>
 		<key>Word</key>
 		<string>människopool</string>
 	</dict>
@@ -926,7 +926,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>mål</string>
+		<string>mal</string>
 		<key>Word</key>
 		<string>mål</string>
 	</dict>
@@ -934,7 +934,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>mångdimensionell</string>
+		<string>mangdimensionell</string>
 		<key>Word</key>
 		<string>mångdimensionell</string>
 	</dict>
@@ -942,7 +942,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>mångdubbel</string>
+		<string>mangdubbel</string>
 		<key>Word</key>
 		<string>mångdubbel</string>
 	</dict>
@@ -950,7 +950,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>mångkulturell</string>
+		<string>mangkulturell</string>
 		<key>Word</key>
 		<string>mångkulturell</string>
 	</dict>
@@ -958,7 +958,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>måttfull</string>
+		<string>mattfull</string>
 		<key>Word</key>
 		<string>måttfull</string>
 	</dict>
@@ -966,7 +966,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>möbel</string>
+		<string>mobel</string>
 		<key>Word</key>
 		<string>möbel</string>
 	</dict>
@@ -974,7 +974,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>mögel</string>
+		<string>mogel</string>
 		<key>Word</key>
 		<string>mögel</string>
 	</dict>
@@ -982,7 +982,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>mölndal</string>
+		<string>molndal</string>
 		<key>Word</key>
 		<string>Mölndal</string>
 	</dict>
@@ -990,7 +990,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>mönstergill</string>
+		<string>monstergill</string>
 		<key>Word</key>
 		<string>mönstergill</string>
 	</dict>

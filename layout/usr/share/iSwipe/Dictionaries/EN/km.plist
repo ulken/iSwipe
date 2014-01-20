@@ -174,7 +174,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>klarström</string>
+		<string>klarstrom</string>
 		<key>Word</key>
 		<string>Klarström</string>
 	</dict>
@@ -198,7 +198,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>klinckowström</string>
+		<string>klinckowstrom</string>
 		<key>Word</key>
 		<string>Klinckowström</string>
 	</dict>
@@ -222,7 +222,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>klädsam</string>
+		<string>kladsam</string>
 		<key>Word</key>
 		<string>klädsam</string>
 	</dict>
@@ -230,7 +230,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kläm</string>
+		<string>klam</string>
 		<key>Word</key>
 		<string>kläm</string>
 	</dict>
@@ -606,7 +606,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kräm</string>
+		<string>kram</string>
 		<key>Word</key>
 		<string>kräm</string>
 	</dict>
@@ -710,7 +710,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kvarnström</string>
+		<string>kvarnstrom</string>
 		<key>Word</key>
 		<string>Kvarnström</string>
 	</dict>
@@ -750,7 +750,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>källkods-rpm</string>
+		<string>kallkods-rpm</string>
 		<key>Word</key>
 		<string>källkods-RPM</string>
 	</dict>
@@ -758,7 +758,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kännedom</string>
+		<string>kannedom</string>
 		<key>Word</key>
 		<string>kännedom</string>
 	</dict>
@@ -766,7 +766,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>känslosam</string>
+		<string>kanslosam</string>
 		<key>Word</key>
 		<string>känslosam</string>
 	</dict>
@@ -774,7 +774,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kärlsjukdom</string>
+		<string>karlsjukdom</string>
 		<key>Word</key>
 		<string>kärlsjukdom</string>
 	</dict>
@@ -782,7 +782,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>könssjukdom</string>
+		<string>konssjukdom</string>
 		<key>Word</key>
 		<string>könssjukdom</string>
 	</dict>
@@ -790,7 +790,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>kösystem</string>
+		<string>kosystem</string>
 		<key>Word</key>
 		<string>kösystem</string>
 	</dict>

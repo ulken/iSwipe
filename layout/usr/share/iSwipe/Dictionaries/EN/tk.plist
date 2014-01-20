@@ -70,7 +70,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>talspråk</string>
+		<string>talsprak</string>
 		<key>Word</key>
 		<string>talspråk</string>
 	</dict>
@@ -78,7 +78,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tandvärk</string>
+		<string>tandvark</string>
 		<key>Word</key>
 		<string>tandvärk</string>
 	</dict>
@@ -126,7 +126,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>teckenspråk</string>
+		<string>teckensprak</string>
 		<key>Word</key>
 		<string>teckenspråk</string>
 	</dict>
@@ -294,7 +294,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>terroristnätverk</string>
+		<string>terroristnatverk</string>
 		<key>Word</key>
 		<string>terroristnätverk</string>
 	</dict>
@@ -358,7 +358,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tillmötesgick</string>
+		<string>tillmotesgick</string>
 		<key>Word</key>
 		<string>tillmötesgick</string>
 	</dict>
@@ -422,7 +422,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tjänstefolk</string>
+		<string>tjanstefolk</string>
 		<key>Word</key>
 		<string>tjänstefolk</string>
 	</dict>
@@ -454,7 +454,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>toksänk</string>
+		<string>toksank</string>
 		<key>Word</key>
 		<string>toksänk</string>
 	</dict>
@@ -654,7 +654,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>trädgårdsbruk</string>
+		<string>tradgardsbruk</string>
 		<key>Word</key>
 		<string>trädgårdsbruk</string>
 	</dict>
@@ -662,7 +662,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>trädgårdshäck</string>
+		<string>tradgardshack</string>
 		<key>Word</key>
 		<string>trädgårdshäck</string>
 	</dict>
@@ -670,7 +670,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>träningsvärk</string>
+		<string>traningsvark</string>
 		<key>Word</key>
 		<string>träningsvärk</string>
 	</dict>
@@ -678,7 +678,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>träsk</string>
+		<string>trask</string>
 		<key>Word</key>
 		<string>träsk</string>
 	</dict>
@@ -686,7 +686,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>trådlik</string>
+		<string>tradlik</string>
 		<key>Word</key>
 		<string>trådlik</string>
 	</dict>
@@ -694,7 +694,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tröskverk</string>
+		<string>troskverk</string>
 		<key>Word</key>
 		<string>tröskverk</string>
 	</dict>
@@ -702,7 +702,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>trösterik</string>
+		<string>trosterik</string>
 		<key>Word</key>
 		<string>trösterik</string>
 	</dict>
@@ -758,7 +758,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tvånivågrammatik</string>
+		<string>tvanivagrammatik</string>
 		<key>Word</key>
 		<string>tvånivågrammatik</string>
 	</dict>
@@ -814,7 +814,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>täck</string>
+		<string>tack</string>
 		<key>Word</key>
 		<string>täck</string>
 	</dict>
@@ -822,7 +822,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tänk</string>
+		<string>tank</string>
 		<key>Word</key>
 		<string>tänk</string>
 	</dict>
@@ -830,7 +830,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>tårtattack</string>
+		<string>tartattack</string>
 		<key>Word</key>
 		<string>tårtattack</string>
 	</dict>
@@ -838,7 +838,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>töck</string>
+		<string>tock</string>
 		<key>Word</key>
 		<string>Töck</string>
 	</dict>

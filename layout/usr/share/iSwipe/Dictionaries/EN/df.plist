@@ -38,7 +38,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>dödsstraff</string>
+		<string>dodsstraff</string>
 		<key>Word</key>
 		<string>dödsstraff</string>
 	</dict>
@@ -46,7 +46,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>düsseldorf</string>
+		<string>dusseldorf</string>
 		<key>Word</key>
 		<string>Düsseldorf</string>
 	</dict>

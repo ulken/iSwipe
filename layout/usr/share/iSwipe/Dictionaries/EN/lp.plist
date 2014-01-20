@@ -142,7 +142,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>läkaresällskap</string>
+		<string>lakaresallskap</string>
 		<key>Word</key>
 		<string>läkaresällskap</string>
 	</dict>
@@ -150,7 +150,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>läpp</string>
+		<string>lapp</string>
 		<key>Word</key>
 		<string>läpp</string>
 	</dict>
@@ -158,7 +158,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>lärjungaskap</string>
+		<string>larjungaskap</string>
 		<key>Word</key>
 		<string>lärjungaskap</string>
 	</dict>
@@ -166,7 +166,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>läsargrupp</string>
+		<string>lasargrupp</string>
 		<key>Word</key>
 		<string>läsargrupp</string>
 	</dict>
@@ -174,7 +174,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>långstrump</string>
+		<string>langstrump</string>
 		<key>Word</key>
 		<string>Långstrump</string>
 	</dict>
@@ -182,7 +182,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>lönegrupp</string>
+		<string>lonegrupp</string>
 		<key>Word</key>
 		<string>lönegrupp</string>
 	</dict>
@@ -190,7 +190,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>löp</string>
+		<string>lop</string>
 		<key>Word</key>
 		<string>löp</string>
 	</dict>

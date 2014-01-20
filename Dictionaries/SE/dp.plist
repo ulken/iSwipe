@@ -30,7 +30,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>delägarskap</string>
+		<string>delagarskap</string>
 		<key>Word</key>
 		<string>delägarskap</string>
 	</dict>
@@ -86,7 +86,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>direkthjälp</string>
+		<string>direkthjalp</string>
 		<key>Word</key>
 		<string>direkthjälp</string>
 	</dict>
@@ -134,7 +134,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>dockskåp</string>
+		<string>dockskap</string>
 		<key>Word</key>
 		<string>dockskåp</string>
 	</dict>
@@ -158,7 +158,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>draghjälp</string>
+		<string>draghjalp</string>
 		<key>Word</key>
 		<string>draghjälp</string>
 	</dict>
@@ -182,7 +182,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>dräp</string>
+		<string>drap</string>
 		<key>Word</key>
 		<string>dräp</string>
 	</dict>
@@ -190,7 +190,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>dråp</string>
+		<string>drap</string>
 		<key>Word</key>
 		<string>dråp</string>
 	</dict>
@@ -198,7 +198,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>drömtorp</string>
+		<string>dromtorp</string>
 		<key>Word</key>
 		<string>drömtorp</string>
 	</dict>
@@ -206,7 +206,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>dröp</string>
+		<string>drop</string>
 		<key>Word</key>
 		<string>dröp</string>
 	</dict>
@@ -238,7 +238,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>dårskap</string>
+		<string>darskap</string>
 		<key>Word</key>
 		<string>dårskap</string>
 	</dict>
@@ -246,7 +246,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>döp</string>
+		<string>dop</string>
 		<key>Word</key>
 		<string>döp</string>
 	</dict>
@@ -254,7 +254,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>dörrknapp</string>
+		<string>dorrknapp</string>
 		<key>Word</key>
 		<string>dörrknapp</string>
 	</dict>

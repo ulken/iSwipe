@@ -46,7 +46,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hälsoklubb</string>
+		<string>halsoklubb</string>
 		<key>Word</key>
 		<string>hälsoklubb</string>
 	</dict>
@@ -54,7 +54,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>högstatusjobb</string>
+		<string>hogstatusjobb</string>
 		<key>Word</key>
 		<string>högstatusjobb</string>
 	</dict>

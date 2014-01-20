@@ -70,7 +70,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>halländsk</string>
+		<string>hallandsk</string>
 		<key>Word</key>
 		<string>halländsk</string>
 	</dict>
@@ -286,7 +286,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hemnätverk</string>
+		<string>hemnatverk</string>
 		<key>Word</key>
 		<string>hemnätverk</string>
 	</dict>
@@ -302,7 +302,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hemspråk</string>
+		<string>hemsprak</string>
 		<key>Word</key>
 		<string>hemspråk</string>
 	</dict>
@@ -310,7 +310,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hemsök</string>
+		<string>hemsok</string>
 		<key>Word</key>
 		<string>hemsök</string>
 	</dict>
@@ -358,7 +358,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>herrgårdslik</string>
+		<string>herrgardslik</string>
 		<key>Word</key>
 		<string>herrgårdslik</string>
 	</dict>
@@ -430,7 +430,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hjärtattack</string>
+		<string>hjartattack</string>
 		<key>Word</key>
 		<string>hjärtattack</string>
 	</dict>
@@ -438,7 +438,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>holbæk</string>
+		<string>holbaek</string>
 		<key>Word</key>
 		<string>Holbæk</string>
 	</dict>
@@ -454,7 +454,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>holländsk</string>
+		<string>hollandsk</string>
 		<key>Word</key>
 		<string>holländsk</string>
 	</dict>
@@ -566,7 +566,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>huvudspråk</string>
+		<string>huvudsprak</string>
 		<key>Word</key>
 		<string>huvudspråk</string>
 	</dict>
@@ -574,7 +574,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>huvudvärk</string>
+		<string>huvudvark</string>
 		<key>Word</key>
 		<string>huvudvärk</string>
 	</dict>
@@ -614,7 +614,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hyperlänk</string>
+		<string>hyperlank</string>
 		<key>Word</key>
 		<string>hyperlänk</string>
 	</dict>
@@ -622,7 +622,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hypertextlänk</string>
+		<string>hypertextlank</string>
 		<key>Word</key>
 		<string>hypertextlänk</string>
 	</dict>
@@ -662,7 +662,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>häck</string>
+		<string>hack</string>
 		<key>Word</key>
 		<string>häck</string>
 	</dict>
@@ -670,7 +670,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hädisk</string>
+		<string>hadisk</string>
 		<key>Word</key>
 		<string>hädisk</string>
 	</dict>
@@ -678,7 +678,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hälsorisk</string>
+		<string>halsorisk</string>
 		<key>Word</key>
 		<string>hälsorisk</string>
 	</dict>
@@ -686,7 +686,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>händelserik</string>
+		<string>handelserik</string>
 		<key>Word</key>
 		<string>händelserik</string>
 	</dict>
@@ -694,7 +694,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hätsk</string>
+		<string>hatsk</string>
 		<key>Word</key>
 		<string>hätsk</string>
 	</dict>
@@ -702,7 +702,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hårddisk</string>
+		<string>harddisk</string>
 		<key>Word</key>
 		<string>hårddisk</string>
 	</dict>
@@ -710,7 +710,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hårdrock</string>
+		<string>hardrock</string>
 		<key>Word</key>
 		<string>hårdrock</string>
 	</dict>
@@ -718,7 +718,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>högerpolitisk</string>
+		<string>hogerpolitisk</string>
 		<key>Word</key>
 		<string>högerpolitisk</string>
 	</dict>
@@ -726,7 +726,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>högertrafik</string>
+		<string>hogertrafik</string>
 		<key>Word</key>
 		<string>högertrafik</string>
 	</dict>
@@ -734,7 +734,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>högteknologisk</string>
+		<string>hogteknologisk</string>
 		<key>Word</key>
 		<string>högteknologisk</string>
 	</dict>
@@ -742,7 +742,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>högtryck</string>
+		<string>hogtryck</string>
 		<key>Word</key>
 		<string>högtryck</string>
 	</dict>
@@ -750,7 +750,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hök</string>
+		<string>hok</string>
 		<key>Word</key>
 		<string>hök</string>
 	</dict>
@@ -758,7 +758,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>höstack</string>
+		<string>hostack</string>
 		<key>Word</key>
 		<string>höstack</string>
 	</dict>
@@ -766,7 +766,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hösäck</string>
+		<string>hosack</string>
 		<key>Word</key>
 		<string>hösäck</string>
 	</dict>
@@ -774,7 +774,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>hövisk</string>
+		<string>hovisk</string>
 		<key>Word</key>
 		<string>hövisk</string>
 	</dict>

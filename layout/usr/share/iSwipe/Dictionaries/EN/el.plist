@@ -94,7 +94,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ekmöbel</string>
+		<string>ekmobel</string>
 		<key>Word</key>
 		<string>ekmöbel</string>
 	</dict>
@@ -110,7 +110,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>eldsjäl</string>
+		<string>eldsjal</string>
 		<key>Word</key>
 		<string>eldsjäl</string>
 	</dict>
@@ -246,7 +246,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>erhåll</string>
+		<string>erhall</string>
 		<key>Word</key>
 		<string>erhåll</string>
 	</dict>
@@ -254,7 +254,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>erhöll</string>
+		<string>erholl</string>
 		<key>Word</key>
 		<string>erhöll</string>
 	</dict>
@@ -270,7 +270,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ersättningsmodell</string>
+		<string>ersattningsmodell</string>
 		<key>Word</key>
 		<string>ersättningsmodell</string>
 	</dict>
@@ -310,7 +310,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>ettårsvall</string>
+		<string>ettarsvall</string>
 		<key>Word</key>
 		<string>ettårsvall</string>
 	</dict>

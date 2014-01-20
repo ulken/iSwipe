@@ -102,7 +102,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>uppmärksam</string>
+		<string>uppmarksam</string>
 		<key>Word</key>
 		<string>uppmärksam</string>
 	</dict>
@@ -110,7 +110,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>uppskräm</string>
+		<string>uppskram</string>
 		<key>Word</key>
 		<string>uppskräm</string>
 	</dict>
@@ -118,7 +118,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>uppvärm</string>
+		<string>uppvarm</string>
 		<key>Word</key>
 		<string>uppvärm</string>
 	</dict>
@@ -150,7 +150,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>utdöm</string>
+		<string>utdom</string>
 		<key>Word</key>
 		<string>utdöm</string>
 	</dict>
@@ -166,7 +166,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>utlåningssystem</string>
+		<string>utlaningssystem</string>
 		<key>Word</key>
 		<string>utlåningssystem</string>
 	</dict>
@@ -198,7 +198,7 @@
 		<key>Count</key>
 		<integer>0</integer>
 		<key>Match</key>
-		<string>uttöm</string>
+		<string>uttom</string>
 		<key>Word</key>
 		<string>uttöm</string>
 	</dict>
